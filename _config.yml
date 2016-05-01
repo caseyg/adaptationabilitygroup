@@ -6,9 +6,6 @@ collections:
   courses:
     title: Courses
     output: true
-  posts:
-    title: Posts
-    output: true
   reports:
     title: Reports
     output: true
