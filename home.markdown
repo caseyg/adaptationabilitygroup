@@ -21,7 +21,7 @@ We **presume competence**. This exhortation is a central one in disability right
 
 ## 4
 
-We spend some of our time **making things**, and some of our time **making things happen**.¹ A lot of our effort is embodied in the design and prototyping process. But another significant portion of that effort is directed toward good narrative writing, documentation, event-wrangling, and networked practices. Design _can_ be about a better mousetrap; it can also be—and indeed more often _should_ be—a social practice.
+We spend some of our time **making things**, and some of our time **making things happen**.[^1] A lot of our effort is embodied in the design and prototyping process. But another significant portion of that effort is directed toward good narrative writing, documentation, event-wrangling, and networked practices. Design _can_ be about a better mousetrap; it can also be—and indeed more often _should_ be—a social practice.
 
 ## 5
 
@@ -30,3 +30,5 @@ We actively seek a condition of **orchestrated adjacencies**: in topics, scale
 ## 6. 
 
 We presume, always, that **technology is never neutral**. And accordingly, we seek to create [tools for conviviality](http://www.theatlantic.com/technology/archive/2012/04/why-the-landline-telephone-was-the-perfect-tool/255930/), in the sense that Ivan Illich laid out in his book of the same name. Tools that are "accessible, flexible, noncoercive." We won't be perfect at it, but we won't shy away from hard questions: What will it cost? What might be unintended consequences? What have we overlooked?
+
+[^1]: “I went from making things, to making things happen.” That’s artist Jeremy Deller on how his art practice went from objects to conditions and situations.
