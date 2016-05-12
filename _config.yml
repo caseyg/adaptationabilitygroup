@@ -3,8 +3,17 @@ title: Adaptation + Ability Group
 url: http://adaptationabilitygroup.siteleaf.net
 timezone: UTC
 collections:
+  courses:
+    title: Courses
+    output: true
   posts:
     title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+  reports:
+    title: Reports
     output: true
   uploads:
     title: Uploads
