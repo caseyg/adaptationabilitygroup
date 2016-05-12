@@ -4,6 +4,9 @@ date: 2016-05-01 14:06:00 Z
 permalink: "/"
 position: 0
 welcome-text: Welcome to the Adaptation + Ability group at Olin College.
+sandbox:
+  image: "/uploads/aplusa.png"
+  caption: A selection of recent work and collaboration from the a+a lab.
 layout: home
 ---
 
