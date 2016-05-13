@@ -4,8 +4,8 @@
 
 {% include shared-includes/molecules/text/lead.html text=page.welcome-text %}
 
-{% for course in site.courses %}
-	<h2><a href="{{ course.url }}">{{ course.title }}</a></h2>
+{% for report in site.reports %}
+	<h2><a href="{{ report.url }}">{{ report.title }}</a></h2>
 {% endfor %}
 
 {% include shared-includes/organisms/global/footer.html %}
