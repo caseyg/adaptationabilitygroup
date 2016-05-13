@@ -1,9 +1,11 @@
 {% include shared-includes/organisms/global/header.html %}
 
-{% include shared-includes/molecules/media/sandbox.html %}
+<section class="container">
+	{% include shared-includes/molecules/media/sandbox.html %}
 
-{% include shared-includes/molecules/text/lead.html text=page.welcome-text %}
+	{% include shared-includes/molecules/text/lead.html text=page.welcome-text %}
 
-{{ page.content | markdownify }}
+	{{ page.content | markdownify }}
+</section>
 
 {% include shared-includes/organisms/global/footer.html %}
