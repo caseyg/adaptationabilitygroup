@@ -2,3 +2,7 @@
 ---
 
 @import "shared-styles/shared";
+
+.container {
+	@include outer-container;
+}
