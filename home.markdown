@@ -10,7 +10,7 @@ sandbox:
 layout: home
 ---
 
-## 1
+## 1 
 
 We use the terms "adaptive" and "assistive" technologies interchangeably when speaking casually or with newcomers to this field, but we use **the terms of *adaptation*** as often as possible. Why? Assistance usually implies linearity. A problem that needs fixing, that seeks a solution. But adaptation is flexible, rhizomatic, multi-directional. It implies a technological design that works in tandem, reciprocally, with the magnificence that is the human body in all its forms. Adaptation implies change over time. Adaptive systems might require the environment to shift, rather than the body. In short, we believe that [all technology is assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd#.a4rzzhel5)—and so we speak in terms of *adaptation*.
 
