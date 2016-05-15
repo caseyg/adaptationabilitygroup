@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "shared-styles/shared";
+@import "atoms/colors--adaptationabilitygroup";
+@import "atoms/palette--adaptationabilitygroup";
 
-.container {
-	@include outer-container;
-}
+@import "shared-styles/shared";
