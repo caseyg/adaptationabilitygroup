@@ -1,7 +1,6 @@
 ---
 title: Investigating Normal
 date: 2016-05-12 23:18:00 Z
-layout: page
 ---
 
 # SYLLABUS
@@ -65,7 +64,7 @@ Please let me know in advance if you absolutely must be absent, either day or ni
 
 
 
-## 
+##
 
 
 It is Olin College’s policy to comply fully with all state and federal disability laws. Olin does not discriminate against applicants or students with disabilities, and will consider modification to academic programs where necessary to ensure that our requirements are not discriminatory, as long as the modifications do not fundamentally alter the nature of our programs. The Office of Student Life coordinates services for students with learning disabilities, sensory impairments, psychological disabilities and medical conditions. Students are responsible for identifying themselves to the Assistant Dean of Student Life for Advising and providing appropriate documentation of their disability and need for accommodation in a timely manner. Students requesting accommodation should contact the Assistant Dean of Student Life for Advising as soon as possible after matriculation.
