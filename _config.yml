@@ -1,10 +1,12 @@
 ---
 title: Adaptation + Ability Group
-imgix: http://adaptationabilitygroup.imgix.net
 timezone: UTC
 collections:
   courses:
     title: Courses
+    output: true
+  posts:
+    title: Posts
     output: true
   projects:
     title: Projects
@@ -15,40 +17,37 @@ collections:
   uploads:
     title: Uploads
     output: true
-permalink: pretty
 defaults:
-  -
-    scope:
-      path: ''
-    values:
-      layout: page
-  -
-    scope:
-      path: ''
-      type: 'courses'
-    values:
-      parent: '/courses/'
-      image: 'http://placehold.it/400x400'
-      image-caption: 'IMAGE CAPTION'
-      date-display: 'DISPLAY DATE'
-      subtitle: 'SUBTITLE'
-  -
-    scope:
-      path: ''
-      type: 'projects'
-    values:
-      parent: '/projects/'
-      image: 'http://placehold.it/400x400'
-      image-caption: 'IMAGE CAPTION'
-      date-display: 'DISPLAY DATE'
-      subtitle: 'SUBTITLE'
-  -
-    scope:
-      path: ''
-      type: 'reports'
-    values:
-      parent: '/reports/'
-      image: 'http://placehold.it/400x400'
-      image-caption: 'IMAGE CAPTION'
-      date-display: 'DISPLAY DATE'
-      subtitle: 'SUBTITLE'
+- scope:
+    path: ''
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: courses
+  values:
+    parent: "/courses/"
+    image: http://placehold.it/400x400
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
+- scope:
+    path: ''
+    type: projects
+  values:
+    parent: "/projects/"
+    image: http://placehold.it/400x400
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
+- scope:
+    path: ''
+    type: reports
+  values:
+    parent: "/reports/"
+    image: http://placehold.it/400x400
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
+imgix: http://adaptationabilitygroup.imgix.net
+permalink: pretty

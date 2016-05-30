@@ -1,7 +1,7 @@
 ---
 title: 'Update: Alterpodium'
-author: Sara Hendren
 date: 2015-05-26 21:12:14 Z
+author: Sara Hendren
 link: http://ablersite.org/2015/05/26/update-alterpodium/
 wordpress_id: 6070
 image: "/uploads/amanda_prototype_gif.gif"
