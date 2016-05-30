@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-{% include shared-includes/molecules/media/sandbox.html %}
-
-{% include shared-includes/molecules/text/lead.html text=page.welcome-text %}
-
-{% for project in site.projects %}
-	<h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
-{% endfor %}
+<div class="main__content">
+	{% include shared-includes/lead.html text=page.welcome-text %}
+	<div class="cards">
+		{% for item in site.projects reversed %}
+			{% include shared-includes/project.html %}
+		{% endfor %}
+	</div>
+	{{ content }}
+</div>
