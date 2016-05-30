@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-{% include shared-includes/molecules/media/sandbox.html %}
-
-{% include shared-includes/molecules/text/lead.html text=page.welcome-text %}
-
-{% for course in site.courses %}
-	<h2><a href="{{ course.url }}">{{ course.title }}</a></h2>
-{% endfor %}
+<div class="main__content">
+	{% include shared-includes/lead.html text=page.welcome-text %}
+	{% for course in site.courses %}
+		<h2><a href="{{ course.url }}">{{ course.title }}</a></h2>
+	{% endfor %}
+</div>

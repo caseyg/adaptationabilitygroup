@@ -22,4 +22,32 @@ defaults:
     path: ''
   values:
     layout: page
+- scope:
+    path: ''
+    type: courses
+  values:
+    parent: "/courses/"
+    image: http://placehold.it/400x400
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
+- scope:
+    path: ''
+    type: projects
+  values:
+    parent: "/projects/"
+    image: http://placehold.it/400x400
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
+- scope:
+    path: ''
+    type: reports
+  values:
+    parent: "/reports/"
+    image: http://placehold.it/400x400
+    image-caption: IMAGE CAPTION
+    date-display: DISPLAY DATE
+    subtitle: SUBTITLE
+imgix: http://adaptationabilitygroup.imgix.net
 permalink: pretty

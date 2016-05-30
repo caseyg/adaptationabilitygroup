@@ -1,6 +1,7 @@
 ---
 title: Investigating Normal
 date: 2016-05-12 23:18:00 Z
+image: "/uploads/sock_double_blue_truck_web.jpg"
 ---
 
 # SYLLABUS

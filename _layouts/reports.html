@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-{% include shared-includes/molecules/media/sandbox.html %}
-
-{% include shared-includes/molecules/text/lead.html text=page.welcome-text %}
-
-{% for report in site.reports %}
-	<h2><a href="{{ report.url }}">{{ report.title }}</a></h2>
-{% endfor %}
+<div class="main__content">
+	{% include shared-includes/lead.html text=page.welcome-text %}
+	{% for item in site.reports reversed %}
+		{% include shared-includes/report.html %}
+	{% endfor %}
+</div>

@@ -1,8 +1,7 @@
 body {
-  background: $background;
+  background: $background url(/uploads/corrugation-2.jpg);
 }
 
 .main {
-  border: 1px solid $accent;
-  border-top: 0;
+  background: $white;
 }
