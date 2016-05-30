@@ -5,9 +5,6 @@ collections:
   courses:
     title: Courses
     output: true
-  posts:
-    title: Posts
-    output: true
   projects:
     title: Projects
     output: true
