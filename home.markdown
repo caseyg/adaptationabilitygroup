@@ -3,9 +3,15 @@ title: Home
 date: 2016-05-01 14:06:00 Z
 permalink: "/"
 position: 0
-welcome-text: "**Welcome to the Adaptation + Ability Group at Olin College**. We work critically and reflexively in technology, design, and disability. Here you can explore our [projects](/projects) and [courses](/courses), and follow along with [reports](/reports) on our latest experiments."
+welcome-text: "**Welcome to the Adaptation + Ability Group at Olin College**. We work
+  critically and reflexively in technology, design, and disability. Here you can explore
+  our [projects](/projects) and [courses](/courses), and follow along with [reports](/reports)
+  on our latest experiments."
 image: "/uploads/aplusa-quad-2.png"
-image-caption: "Projects from the a+a lab. Clockwise from top left: students experiment with cardboard furniture; Amanda tests a prototype [**Alterpodium**](); installation shots of the [**Sound Cane**](), Chris tries a single-use arm extension for rock climbing."
+image-caption: 'Projects from the a+a lab. Clockwise from top left: students experiment
+  with cardboard furniture; Amanda tests a prototype [**Alterpodium**](); installation
+  shots of the [**Sound Cane**](), Chris tries a single-use arm extension for rock
+  climbing.'
 layout: home
 ---
 
