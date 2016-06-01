@@ -1,5 +1,5 @@
 ---
-title: Dance Ramp
+title: Alice's Ramp
 image: "/uploads/danceramp.jpg"
 ---
 
