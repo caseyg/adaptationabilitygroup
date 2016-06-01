@@ -1,7 +1,12 @@
 ---
 title: Carmen's Cane
 image: "/uploads/soundcane.jpg"
-collaborators: 
+collaborators:
+- Carmen Papalia
+- Saarth Mehotra
+- Sam Kumaresthena
+- Daniel Leong
+- 'Paul '
 ---
 
 # # Testing.
