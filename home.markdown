@@ -21,10 +21,6 @@ grid:
   caption: 
 - image: "/uploads/cardboard pieces.JPG"
   caption: 
-welcome-text: "**Welcome to the Adaptation + Ability Group at Olin College**. We work
-  critically and reflexively in technology, design, and disability. Here you can explore
-  our [projects](/projects) and [courses](/courses), and follow along with [reports](/reports)
-  on our latest experiments."
 layout: home
 ---
 

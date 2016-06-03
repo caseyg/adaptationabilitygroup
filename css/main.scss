@@ -1,10 +1,8 @@
 ---
 ---
 
-@import "colors";
-@import "palette";
+@import "shared-styles/colors";
+@import "shared-styles/black-on-yellow";
+// @import "palette";
 
 @import "shared-styles/shared";
-
-@import "layout";
-@import "nav";
