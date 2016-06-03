@@ -31,6 +31,7 @@ defaults:
     image-caption: IMAGE CAPTION
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
+    layout: course
 - scope:
     path: ''
     type: projects
@@ -40,6 +41,7 @@ defaults:
     image-caption: IMAGE CAPTION
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
+    layout: project
 - scope:
     path: ''
     type: reports

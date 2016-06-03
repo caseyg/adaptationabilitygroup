@@ -6,9 +6,16 @@ layout: default
 <main class="main">
   <div class="content">
     {% include shared-includes/title-headline.html %}
-    {% include shared-includes/date-month-day-year.html %}
+    {% include shared-includes/date-display.html %}
     {% include shared-includes/byline.html %}
     {{ page.content | markdownify }}
     {% include shared-includes/page.html %}
   </div>
+  <aside class="">
+    <ul>
+      {% for item in page.collaborators %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </aside>
 </main>

@@ -6,6 +6,7 @@ layout: default
 		{% include shared-includes/lead.html text=page.welcome-text %}
 		{% for item in site.reports reversed %}
 			{% include shared-includes/report.html %}
-		{% endfor %}		
+		{% endfor %}
+		{{ content | markdownify }}
 	</div>
 </main>

@@ -4,8 +4,11 @@ layout: default
 <main class="main">
 	<div class="content">
 		{% include shared-includes/lead.html text=page.welcome-text %}
-		{% for course in site.courses %}
-			<h2><a href="{{ course.url }}">{{ course.title }}</a></h2>
-		{% endfor %}
+		<div class="cards cards--two">
+			{% for item in site.courses reversed %}
+				{% include shared-includes/course.html %}
+			{% endfor %}
+		</div>
+		{{ content | markdownify }}
 	</div>
 </main>

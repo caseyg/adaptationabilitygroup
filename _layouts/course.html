@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+{% assign item = page %}
+{% include shared-includes/image-full.html %}
 <main class="main">
   <div class="content">
-    {% include shared-includes/headline.html %}
-    {{ page.content }}
+    {% include shared-includes/title-headline.html %}
+    {{ page.content | markdownify }}
+    {% include shared-includes/page.html %}
   </div>
-</main
+</main>

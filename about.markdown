@@ -2,6 +2,11 @@
 title: About the Lab
 date: 2016-06-03 19:38:00 Z
 position: 1
+welcome-text: "**Welcome to the Adaptation + Ability Group at Olin College**. We work
+  critically and reflexively in technology, design, and disability. Here you can explore
+  our [projects](/projects) and [courses](/courses), and follow along with [reports](/reports)
+  on our latest experiments."
+layout: about
 ---
 
 ## 1
