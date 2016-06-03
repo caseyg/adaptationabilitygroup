@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<div class="main__content">
-  {% include shared-includes/lead.html text=page.welcome-text %}
-</div>
 {% assign item = page %}
-{% include shared-includes/sandbox.html %}
+{% include shared-includes/grid.html %}
 
-<div class="main__content">
-  {{ page.content | markdownify }}
-</div>
+<main class="main">
+  <div class="content">
+    {% include shared-includes/lead.html text=page.welcome-text %}
+    {{ page.content | markdownify }}
+  </div>
+</main>
