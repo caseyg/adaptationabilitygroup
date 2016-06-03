@@ -27,7 +27,7 @@ defaults:
     type: courses
   values:
     parent: "/courses/"
-    image: http://placehold.it/400x400
+    image: http://placehold.it/400x300
     image-caption: IMAGE CAPTION
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
@@ -36,7 +36,7 @@ defaults:
     type: projects
   values:
     parent: "/projects/"
-    image: http://placehold.it/400x400
+    image: http://placehold.it/400x300
     image-caption: IMAGE CAPTION
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
@@ -45,7 +45,7 @@ defaults:
     type: reports
   values:
     parent: "/reports/"
-    image: http://placehold.it/400x400
+    image: http://placehold.it/400x300
     image-caption: IMAGE CAPTION
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
