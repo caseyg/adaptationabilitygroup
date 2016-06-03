@@ -12,7 +12,7 @@ grid:
   caption: 
 - image: "/uploads/lecternative folding.JPG"
   caption: 
-- text: "## A+A  \n[Welcome →](/about)"
+- image: "/uploads/aplusa-cardboard.jpg"
 - image: "/uploads/cindyportrait.jpg"
   caption: 
 - image: "/uploads/chris leg WEB.jpg"
