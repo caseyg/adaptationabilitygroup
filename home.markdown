@@ -7,11 +7,27 @@ welcome-text: "**Welcome to the Adaptation + Ability Group at Olin College**. We
   critically and reflexively in technology, design, and disability. Here you can explore
   our [projects](/projects) and [courses](/courses), and follow along with [reports](/reports)
   on our latest experiments."
-image: "/uploads/aplusa-quad-2.png"
-image-caption: 'Projects from the a+a lab. Clockwise from top left: students experiment
-  with cardboard furniture; Amanda tests a prototype [**Alterpodium**](); installation
-  shots of the [**Sound Cane**](), Chris tries a single-use arm extension for rock
-  climbing.'
+grid:
+- image: "/uploads/alicescottrampdrill.jpg"
+  caption: 
+- image: "/uploads/amanda carbon fiber layup.JPG"
+  caption: 
+- image: "/uploads/Papalia Talk 9.25.15-11.jpg"
+  caption: 
+- image: "/uploads/lecternative folding.JPG"
+  caption: 
+- text: |-
+    ## A+A
+
+    [Welcome →](/about)
+- image: "/uploads/cindyportrait.jpg"
+  caption: 
+- image: "/uploads/chris leg WEB.jpg"
+  caption: 
+- image: "/uploads/chris arm compression model.tiff"
+  caption: 
+- image: "/uploads/cardboard pieces.JPG"
+  caption: 
 layout: home
 ---
 
