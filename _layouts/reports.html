@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-<div class="main__content">
-	{% include shared-includes/lead.html text=page.welcome-text %}
-	{% for item in site.reports reversed %}
-		{% include shared-includes/report.html %}
-	{% endfor %}
-</div>
+<main class="main">
+	<div class="content">
+		{% include shared-includes/lead.html text=page.welcome-text %}
+		{% for item in site.reports reversed %}
+			{% include shared-includes/report.html %}
+		{% endfor %}		
+	</div>
+</main>

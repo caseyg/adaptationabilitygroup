@@ -3,10 +3,12 @@ layout: default
 ---
 {% assign item = page %}
 {% include shared-includes/image-full.html %}
-<div class="main__content">
-  {% include shared-includes/title-headline.html %}
-  {% include shared-includes/date-month-day-year.html %}
-  {% include shared-includes/byline.html %}
-  {{ content }}
-  {% include shared-includes/page.html %}
-</div>
+<main class="main">
+  <div class="content">
+    {% include shared-includes/title-headline.html %}
+    {% include shared-includes/date-month-day-year.html %}
+    {% include shared-includes/byline.html %}
+    {{ content }}
+    {% include shared-includes/page.html %}
+  </div>
+</main>
