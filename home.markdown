@@ -21,11 +21,14 @@ grid:
   caption: the rubber tubing that holds cindy's eyeliner makes it possible for her
     to grip this tool with atypical hands
 - image: "/uploads/chris leg WEB.jpg"
-  caption: 
+  caption: to make a rock climbing apparatus for chris, one team explored a leg mounted
+    device for bracing
 - image: "/uploads/cindy%20fork%20holder%20jpg.jpg"
-  caption: 
+  caption: scraps of silicone hold a pen, a fork, and a knife, making daily hand gestures
+    adaptive and easy for cindy
 - image: "/uploads/cardboard pieces.JPG"
-  caption: 
+  caption: triple wall cardboard can be used for adaptive, low-cost furniture customized
+    for and built by nearly any body
 layout: home
 ---
 
