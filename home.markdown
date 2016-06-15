@@ -5,7 +5,8 @@ permalink: "/"
 position: 0
 grid:
 - image: "/uploads/alicescottrampdrill.jpg"
-  caption: 
+  caption: alice sheppard, dancer-collaborator, talks with a student about our collective
+    work with choreography and the inclined plane
 - image: "/uploads/amanda carbon fiber layup.JPG"
   caption: 
 - image: "/uploads/Papalia Talk 9.25.15-11.jpg"
