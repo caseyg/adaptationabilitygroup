@@ -8,7 +8,8 @@ grid:
   caption: alice sheppard, dancer-collaborator, talks with a student about our collective
     work with choreography and the inclined plane
 - image: "/uploads/amanda carbon fiber layup.JPG"
-  caption: 
+  caption: our co-design of a portable, carbon fiber podium for short stature was
+    a design-build for one, for Amanda Cachia
 - image: "/uploads/Papalia Talk 9.25.15-11.jpg"
   caption: 
 - image: "/uploads/lecternative folding.JPG"
