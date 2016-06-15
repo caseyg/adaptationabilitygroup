@@ -11,7 +11,8 @@ grid:
   caption: our co-design of a portable, carbon fiber podium for short stature was
     a design-build for one, for Amanda Cachia
 - image: "/uploads/Papalia Talk 9.25.15-11.jpg"
-  caption: 
+  caption: artist carmen papalia led us on one of his 'blind field shuttles,' the
+    start to a collaboration on an acoustic mobility device
 - image: "/uploads/lecternative folding.JPG"
   caption: 
 - image: "/uploads/aplusa-cardboard.jpg"
