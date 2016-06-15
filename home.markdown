@@ -14,7 +14,8 @@ grid:
   caption: artist carmen papalia led us on one of his 'blind field shuttles,' the
     start to a collaboration on an acoustic mobility device
 - image: "/uploads/lecternative folding.JPG"
-  caption: 
+  caption: sketch modeling a foldable, collapsible podium is critical for working
+    out its function, and paper works well
 - image: "/uploads/aplusa-cardboard.jpg"
 - image: "/uploads/cindyportrait.jpg"
   caption: 
