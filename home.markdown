@@ -18,7 +18,8 @@ grid:
     out its function, and paper works well
 - image: "/uploads/aplusa-cardboard.jpg"
 - image: "/uploads/cindyportrait.jpg"
-  caption: 
+  caption: the rubber tubing that holds cindy's eyeliner makes it possible for her
+    to grip this tool with atypical hands
 - image: "/uploads/chris leg WEB.jpg"
   caption: 
 - image: "/uploads/cindy%20fork%20holder%20jpg.jpg"
