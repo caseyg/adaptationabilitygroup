@@ -17,7 +17,7 @@ grid:
   caption: 
 - image: "/uploads/chris leg WEB.jpg"
   caption: 
-- image: "/uploads/chris arm compression model.jpg"
+- image: "/uploads/cindy%20fork%20holder%20jpg.jpg"
   caption: 
 - image: "/uploads/cardboard pieces.JPG"
   caption: 
