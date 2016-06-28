@@ -21,7 +21,7 @@ grid:
     out its function, and paper works well
   url: "/projects/alterpodium/"
 - image: "/uploads/aplusa-cardboard.jpg"
-  project: 
+  image-caption: 
   url: "/about/"
 - image: "/uploads/cindyportrait.jpg"
   image-caption: the rubber tubing that holds cindy's eyeliner makes it possible for
