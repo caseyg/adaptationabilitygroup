@@ -8,6 +8,8 @@ image-caption: Chris Hinojosa, born with one arm but not a prosthesis user, trie
 date-display: January 2015—ongoing
 ---
 
+Team: Grace Ahn, Myles Cooper, Elizabeth Doyle, Michael Searing, Jennifer Anderson, Brandon Chiou, Julianne Jorgensen, Brooks Willis, Mei-Lang Xiong, Sara Hendren
+
 Chris Hinojosa, an engineer born with one arm, always refused the "universal" high-tech artificial limbs that were made for him growing up. His body was more adaptive without machinic gear; instead, his workarounds for daily life are made possible with relatively simple adaptations and alternately choreographed physicality. When he first visited Investigating Normal in spring 2015, he showed us how he gathers his hair into a ponytail and dons a sterile glove in his work environment.
 
 ![chris ponytail still jpg.jpg](/uploads/chris%2520ponytail%2520still%2520jpg.jpg)
