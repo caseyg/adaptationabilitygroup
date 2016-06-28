@@ -10,6 +10,4 @@ welcome-text: The Adaptation \+ Ability Group is a lab for creative research on 
 layout: projects
 ---
 
-## Want to work together?
 
-We're always looking for new collaborators, so please be in touch.
