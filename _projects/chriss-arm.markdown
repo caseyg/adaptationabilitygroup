@@ -1,5 +1,5 @@
 ---
-title: An arm for Chris
+title: limb
 date: 2016-06-01 00:27:00 Z
 image: "/uploads/chris%20trying%20WEB.jpg"
 image-caption: Chris Hinojosa, born with one arm but not a prosthesis user, tries
@@ -31,6 +31,8 @@ Team socket was inspired by the physics of this compression model; they wanted t
 ![socket bigcup1.jpg](/uploads/socket%2520bigcup1.jpg)
 
 ![chris arm compression model.jpg](/uploads/chris%2520arm%2520compression%2520model.jpg)
+
+
 
 ![chris leg WEB-0e1f22.jpg](/uploads/chris%2520leg%2520WEB-0e1f22.jpg)
 
