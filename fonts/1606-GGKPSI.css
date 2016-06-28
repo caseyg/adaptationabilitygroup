@@ -1,0 +1,125 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2016 Schwartzco Inc.
+        License: 1606-GGKPSI
+*/
+
+
+@font-face {
+  font-family: 'Produkt Web Black';
+  src: url('Produkt-BlackItalic-Web.eot');
+  src: url('Produkt-BlackItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('Produkt-BlackItalic-Web.woff2') format('woff2'),
+       url('Produkt-BlackItalic-Web.woff') format('woff');
+  font-weight:  800;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+.Produkt-BlackItalic-Web {
+  font-family: 'Produkt Web Black';
+  font-weight:  800;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Produkt Web Black';
+  src: url('Produkt-Black-Web.eot');
+  src: url('Produkt-Black-Web.eot?#iefix') format('embedded-opentype'),
+       url('Produkt-Black-Web.woff2') format('woff2'),
+       url('Produkt-Black-Web.woff') format('woff');
+  font-weight:  800;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.Produkt-Black-Web {
+  font-family: 'Produkt Web Black';
+  font-weight:  800;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Produkt Web Regular';
+  src: url('Produkt-RegularItalic-Web.eot');
+  src: url('Produkt-RegularItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('Produkt-RegularItalic-Web.woff2') format('woff2'),
+       url('Produkt-RegularItalic-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+.Produkt-RegularItalic-Web {
+  font-family: 'Produkt Web Regular';
+  font-weight:  400;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Produkt Web Regular';
+  src: url('Produkt-Regular-Web.eot');
+  src: url('Produkt-Regular-Web.eot?#iefix') format('embedded-opentype'),
+       url('Produkt-Regular-Web.woff2') format('woff2'),
+       url('Produkt-Regular-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.Produkt-Regular-Web {
+  font-family: 'Produkt Web Regular';
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Produkt Web Thin';
+  src: url('Produkt-ThinItalic-Web.eot');
+  src: url('Produkt-ThinItalic-Web.eot?#iefix') format('embedded-opentype'),
+       url('Produkt-ThinItalic-Web.woff2') format('woff2'),
+       url('Produkt-ThinItalic-Web.woff') format('woff');
+  font-weight:  100;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+.Produkt-ThinItalic-Web {
+  font-family: 'Produkt Web Thin';
+  font-weight:  100;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Produkt Web Thin';
+  src: url('Produkt-Thin-Web.eot');
+  src: url('Produkt-Thin-Web.eot?#iefix') format('embedded-opentype'),
+       url('Produkt-Thin-Web.woff2') format('woff2'),
+       url('Produkt-Thin-Web.woff') format('woff');
+  font-weight:  100;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.Produkt-Thin-Web {
+  font-family: 'Produkt Web Thin';
+  font-weight:  100;
+  font-style:   normal;
+  font-stretch: normal;
+}
