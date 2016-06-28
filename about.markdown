@@ -6,11 +6,12 @@ welcome-text: 'The Adaptation \+ Ability Group is a lab for creative research on
   + the body at **[Olin College](http://www.olin.edu/)**. We''re interested in the
   encounters between humans and the built environment—especially when there''s a mismatch
   between standardized design and the atypical body or mind. But we''re also interested
-  in critical questions about the future of the body: What counts as normal? '
+  in critical questions about the future of the body: What counts as normal? **[See
+  some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**'
 layout: about
 ---
 
-Guidelines for an adaptive technology working group.
+## Guidelines for an adaptive technology working group.
 *Sara Hendren wrote this as a "manifesto" for the lab before its inception in September 2014. It still holds as a true north for the lab's work.
 
 ## 2
