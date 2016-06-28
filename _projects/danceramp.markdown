@@ -22,7 +22,7 @@ We made a provisional dance studio with floor tiles that our student dance club 
 
 ![alice dancing flat tiles.jpg](/uploads/alice%2520dancing%2520flat%2520tiles.jpg)
 
-Students then spent time building out ramps—connected in modular, mutable fashion to the dance floor tiles—to test various heights and arrangements for Alice's use. We also assembled my own ramps from the long-running Slope : Intercept exploration of ramps.
+Students then spent time building out ramps—connected in modular, mutable fashion to the dance floor tiles—to test various heights and arrangements for Alice's use. We also assembled my own ramps from the long-running Slope : Intercept exploration of the inclined plane.
 
 ![alice testing first prototypes.jpg](/uploads/alice%2520testing%2520first%2520prototypes.jpg)
 
@@ -44,4 +44,4 @@ And when Alice came back in April, this time with her collaborator, Laurel Lawso
 
 ![alice and laurel dancing.jpg](/uploads/alice%2520and%2520laurel%2520dancing.jpg)
 
-
+This model will be built for performances in the next 12-18 months. And the work continues! Sara and Alice travel to South Korea for an exhibition and performance in Media City Seoul, and Alice and Laurel return in fall 2016 for further work in Investigating Normal. More to come. 
