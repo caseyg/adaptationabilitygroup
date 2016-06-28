@@ -1,6 +1,6 @@
 ---
 title: RAMP
-image: "/uploads/ramp%20students%20aerial%20above.jpg"
+image: "/uploads/ramp%20under%20construction%20glory.jpg"
 image-caption: An aerial shot of students building a 24-foot square wooden ramp, a
   stage landscape for dancer/choreographer Alice Sheppard and her collaborator, Laurel
   Lawson.
@@ -18,6 +18,8 @@ Alice came to campus in March for what we're calling at Olin a "micro-residency"
 
 We made a provisional dance studio with floor tiles that our student dance club uses, and we borrowed mirrors from our colleagues over at Babson College's theater group.
 
+![P1240591.jpg](/uploads/P1240591.jpg)
+
 ![alice dancing flat tiles.jpg](/uploads/alice%2520dancing%2520flat%2520tiles.jpg)
 
 Students then spent time building out ramps—connected in modular, mutable fashion to the dance floor tiles—to test various heights and arrangements for Alice's use. We also assembled my own ramps from the long-running Slope : Intercept exploration of ramps.
@@ -28,6 +30,18 @@ Students then spent time building out ramps—connected in modular, mutable fash
 
 Now with a better idea of the slopes and ranges of movement Alice was seeking, students set about making a new design—one that turned out to be monumental in scale, an entire landscape. They made some paper models:
 
+![alice ramp final paper model.jpg](/uploads/alice%2520ramp%2520final%2520paper%2520model.jpg)
+
+And when Alice came back in April, this time with her collaborator, Laurel Lawson, they danced on the real thing. It was the result of enormously steep learning curves—in CAD, in shop bot, in fabrication to the very end. You can read more about it in the Globe's story here.
+
+![alice erica chopsaw.jpg](/uploads/alice%2520erica%2520chopsaw.jpg)
+
+![alice shopbot.jpg](/uploads/alice%2520shopbot.jpg)
+
+![alice ramp halfway alex.jpg](/uploads/alice%2520ramp%2520halfway%2520alex.jpg)
+
+![ramp students aerial above.jpg](/uploads/ramp%2520students%2520aerial%2520above.jpg)
+
+![alice and laurel dancing.jpg](/uploads/alice%2520and%2520laurel%2520dancing.jpg)
 
 
-Alice came back in April, this time with her collaborator, Laurel Lawson, to see a mockup of the real thing. 
