@@ -6,8 +6,8 @@ welcome-text: 'The Adaptation \+ Ability Group is a lab for creative research on
   + the body at **[Olin College](http://www.olin.edu/)**. We''re interested in the
   encounters between humans and the built environment—especially when there''s a mismatch
   between standardized design and the atypical body or mind. But we''re also interested
-  in critical questions about the future of the body: What counts as normal? **[See
-  some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**'
+  in critical questions about the future of the body: What counts as normal? Read
+  the lab''s manifesto below, or **[see some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**'
 layout: about
 ---
 
