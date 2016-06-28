@@ -16,4 +16,18 @@ Alice came to campus in March for what we're calling at Olin a "micro-residency"
 
 ![alice campus audit.jpg](/uploads/alice%2520campus%2520audit.jpg)
 
-Students
+We made a provisional dance studio with floor tiles that our student dance club uses, and we borrowed mirrors from our colleagues over at Babson College's theater group.
+
+![alice dancing flat tiles.jpg](/uploads/alice%2520dancing%2520flat%2520tiles.jpg)
+
+Students then spent time building out ramps—connected in modular, mutable fashion to the dance floor tiles—to test various heights and arrangements for Alice's use. We also assembled my own ramps from the long-running Slope : Intercept exploration of ramps.
+
+![alice testing first prototypes.jpg](/uploads/alice%2520testing%2520first%2520prototypes.jpg)
+
+![alice and two ramps.jpg](/uploads/alice%2520and%2520two%2520ramps.jpg)
+
+Now with a better idea of the slopes and ranges of movement Alice was seeking, students set about making a new design—one that turned out to be monumental in scale, an entire landscape. They made some paper models:
+
+
+
+Alice came back in April, this time with her collaborator, Laurel Lawson, to see a mockup of the real thing. 
