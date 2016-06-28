@@ -3,7 +3,8 @@ layout: default
 ---
 {% assign item = page %}
 {% include shared-includes/image-full.html %}
-<main class="main">
+<main class="main has-toc">
+  {% include shared-includes/toc.html %}
   <div class="content">
     {% include shared-includes/title-headline.html %}
     {{ page.content | markdownify }}
