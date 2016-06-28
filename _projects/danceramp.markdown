@@ -12,36 +12,36 @@ Dancer and choreographer Alice Sheppard approached us with an irresistible desig
 
 Alice came to campus in March for what we're calling at Olin a "micro-residency"—suited to our scale (350 students total!). She gave an artist's talk, and we audited the built environment of our campus to test its many ramped conditions for maximum speed, Alice's preferred movements, banking, and so on.
 
-![alice artists talk.jpg](/uploads/alice%2520artists%2520talk.jpg)
+![alice artists talk.jpg](/uploads/alice%20artists%20talk.jpg)
 
-![alice campus audit.jpg](/uploads/alice%2520campus%2520audit.jpg)
+![alice campus audit.jpg](/uploads/alice%20campus%20audit.jpg)
 
 We made a provisional dance studio with floor tiles that our student dance club uses, and we borrowed mirrors from our colleagues over at Babson College's theater group.
 
 ![P1240591.jpg](/uploads/P1240591.jpg)
 
-![alice dancing flat tiles.jpg](/uploads/alice%2520dancing%2520flat%2520tiles.jpg)
+![alice dancing flat tiles.jpg](/uploads/alice%20dancing%20flat%20tiles.jpg)
 
 Students then spent time building out ramps—connected in modular, mutable fashion to the dance floor tiles—to test various heights and arrangements for Alice's use. We also assembled my own ramps from the long-running Slope : Intercept exploration of the inclined plane.
 
-![alice testing first prototypes.jpg](/uploads/alice%2520testing%2520first%2520prototypes.jpg)
+![alice testing first prototypes.jpg](/uploads/alice%20testing%20first%20prototypes.jpg)
 
-![alice and two ramps.jpg](/uploads/alice%2520and%2520two%2520ramps.jpg)
+![alice and two ramps.jpg](/uploads/alice%20and%20two%20ramps.jpg)
 
 Now with a better idea of the slopes and ranges of movement Alice was seeking, students set about making a new design—one that turned out to be monumental in scale, an entire landscape. They made some paper models:
 
-![alice ramp final paper model.jpg](/uploads/alice%2520ramp%2520final%2520paper%2520model.jpg)
+![alice ramp final paper model.jpg](/uploads/alice%20ramp%20final%20paper%20model.jpg)
 
 And when Alice came back in April, this time with her collaborator, Laurel Lawson, they danced on the real thing. It was the result of enormously steep learning curves—in CAD, in shop bot, in fabrication to the very end. You can read more about it in the Globe's story here.
 
-![alice erica chopsaw.jpg](/uploads/alice%2520erica%2520chopsaw.jpg)
+![alice erica chopsaw.jpg](/uploads/alice%20erica%20chopsaw.jpg)
 
-![alice shopbot.jpg](/uploads/alice%2520shopbot.jpg)
+![alice shopbot.jpg](/uploads/alice%20shopbot.jpg)
 
-![alice ramp halfway alex.jpg](/uploads/alice%2520ramp%2520halfway%2520alex.jpg)
+![alice ramp halfway alex.jpg](/uploads/alice%20ramp%20halfway%20alex.jpg)
 
-![ramp students aerial above.jpg](/uploads/ramp%2520students%2520aerial%2520above.jpg)
+![ramp students aerial above.jpg](/uploads/ramp%20students%20aerial%20above.jpg)
 
-![alice and laurel dancing.jpg](/uploads/alice%2520and%2520laurel%2520dancing.jpg)
+![alice and laurel dancing.jpg](/uploads/alice%20and%20laurel%20dancing.jpg)
 
 This model will be built for performances in the next 12-18 months. And the work continues! Sara and Alice travel to South Korea for an exhibition and performance in Media City Seoul, and Alice and Laurel return in fall 2016 for further work in Investigating Normal. More to come. 
