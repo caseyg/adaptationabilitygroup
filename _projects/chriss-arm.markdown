@@ -34,8 +34,8 @@ Team socket was inspired by the physics of this compression model; they wanted t
 
 ![chris arm compression model.jpg](/uploads/chris%20arm%20compression%20model.jpg)
 
-
-
 ![chris leg WEB-0e1f22.jpg](/uploads/chris%20leg%20WEB-0e1f22.jpg)
 
 ![socket_measuring_jpg.jpg](/uploads/socket_measuring_jpg.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hOEHUjIAuZM" frameborder="0" allowfullscreen></iframe>
