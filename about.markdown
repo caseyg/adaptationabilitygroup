@@ -2,11 +2,11 @@
 title: About the Lab
 date: 2016-06-03 19:38:00 Z
 position: 1
-welcome-text: The Adaptation \+ Ability Group is a lab for creative research on technology
-  and the body at Olin College. Projects may get their start through the "test kitchen"
-  of Sara Hendren's course for undergraduates, Investigating Normal, or stand alone
-  as ongoing collaborations. We've worked with dancers, engineers, artists, and retirees,
-  but also with schools and non-profits.
+welcome-text: 'The Adaptation \+ Ability Group is a lab for creative research on technology
+  + the body at Olin College. We''re interested in the encounters between humans and
+  the built environment—especially when there''s a mismatch between standardized design
+  and the atypical body or mind. But we''re also interested in critical questions
+  about the future of the body: What counts as normal? '
 layout: about
 ---
 
