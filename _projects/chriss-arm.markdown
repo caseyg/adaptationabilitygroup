@@ -16,4 +16,5 @@ Chris's presence in an engineering class is a powerful corrective to the typical
 
 Chris was game to collaborate, however, so he asked us to consider how he might perform a new, relatively inaccessible activity like rock climbing. He also challenged us to think hard about socket technology, which has been notoriously difficult to solve in all prosthetic limbs research—the fight against heat, moisture, and friction when machine parts meet flesh.
 
+
 ![socket_measuring_jpg.jpg](/uploads/socket_measuring_jpg.jpg)
