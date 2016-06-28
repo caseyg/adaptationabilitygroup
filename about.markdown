@@ -3,7 +3,7 @@ title: About the Lab
 date: 2016-06-03 19:38:00 Z
 position: 1
 welcome-text: "The Adaptation + Ability Group is a lab for creative research on technology + the body at **[Olin College](http://www.olin.edu/)**. We&apos;re interested in the encounters between humans and the built environment—especially when there&apos;s a mismatch between standardized design and the atypical body or mind. But we&apos;re also interested in critical questions about the future of the body: What counts as normal? **[See some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**"
-layout: about
+=layout: about
 ---
 
 ## Guidelines for an adaptive technology working group.
