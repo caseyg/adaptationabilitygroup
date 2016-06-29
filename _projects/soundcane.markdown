@@ -54,11 +54,12 @@ The team pursued this last idea over the following months: a cane outfitted with
 
 image
 
-One of the beautiful things about this kind of design work is in the ancillary products and processes that result. 
-
 
 
 ![Carmen tests out the 1.0 prototype, with a clear back of plexi over its power source.](/uploads/carmen%2520with%25202.0%2520clear%2520back.jpg)
 
 We'll update here with formal photos from a performance. We're still getting the final prototype done in the lab. More to come!
 
+One of the beautiful things about this kind of design work is in the ancillary products and processes that result. Student Daniel Leong documented the process by which he planned an interrupted 3D print for the end of the cane that would house the contact mic.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DwMxNXXVZuo" frameborder="0" allowfullscreen></iframe>
