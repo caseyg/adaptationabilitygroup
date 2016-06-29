@@ -47,6 +47,12 @@ From the beginning, this model was meant to be partly prototype, partly performa
 
 
 
+I did, without commentary, and she gave her talk—also without commentary. And then we spoke with the audience about it afterward.
+
+There was something so magic about seeing this quick reversal of scale. Usually Amanda’s embodiment comes to the architecture of the room. She adjusts to it. But here, the architecture suddenly came to her—at least provisionally. It was like the scale of the built environment shifted in real time. It was her idea to call it an “alterpodium,” following theorist Nicolas Bourriaud’s coinage of the “altermodern“—a way for cultural producers to critically engage with the facts of globalization and standardization without merely nostalgia for locality or craft. There’s lots to unpack there, and we’ll be doing so in writing and conversation as we go.
+
+Amanda needs a permanent solution, and for that I’m bringing her to Olin this fall. We’ll talk to the many brains here about materials, design, and fabrication to meet all the constraints for a long-lasting podium. And we’ll document our conversations along the way—including not just our materials and process, but how to consider bodily stature, whether and how to talk about dwarfism, and much more.
+
 
 [Two hands hold a paper sketch model for a lectern, testing its geometry and folding logic.](/uploads/lecternative%2520folding-f79e92.JPG)
 
