@@ -9,7 +9,7 @@ date-display: March 2014–ongoing
 
 [Amanda Cachia](http://www.amandacachia.com/) is a curator, an active scholar, and an art historian-in-training at the University of California, San Diego. She travels constantly for lectures and gallery talks, so she’s in front of people in rooms a lot. That’s her on the left, below.
 
-![Amanda speaking at a conference, standing at a typical podium with steps or other supports to reach its height.](/uploads/amanda%2520speaking.jpg)
+![Amanda speaking at a conference, standing at a typical podium with steps or other supports to reach its height.](/uploads/amanda%20speaking.jpg)
 
 But the architecture of lecture halls, stages, and furniture is scaled to humans generally well over five feet tall. And Amanda is considerably shorter: she’s 4’3″. In the photo above, she’s standing on steps so she can reach the height of the lectern.
 
@@ -27,4 +27,4 @@ Sara started thinking immediately about Victor Papanek’s “nomadic furniture,
 
 ![An image from Papanek's Nomadic Furniture book shows how to get four stools cut from a single piece of plywood.](/uploads/papanek_stool-1.jpg)
 
-[Two hands hold a paper sketch model for a lectern, testing its geometry and folding logic.](/uploads/lecternative%2520folding-f79e92.JPG)
+[Two hands hold a paper sketch model for a lectern, testing its geometry and folding logic.](/uploads/lecternative%20folding-f79e92.JPG)
