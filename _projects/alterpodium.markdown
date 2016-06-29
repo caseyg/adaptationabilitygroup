@@ -49,11 +49,18 @@ From the beginning, this model was meant to be partly prototype, partly performa
 
 I did, without commentary, and she gave her talk—also without commentary. And then we spoke with the audience about it afterward.
 
-There was something so magic about seeing this quick reversal of scale. Usually Amanda’s embodiment comes to the architecture of the room. She adjusts to it. But here, the architecture suddenly came to her—at least provisionally. It was like the scale of the built environment shifted in real time. It was her idea to call it an “alterpodium,” following theorist Nicolas Bourriaud’s coinage of the “altermodern“—a way for cultural producers to critically engage with the facts of globalization and standardization without merely nostalgia for locality or craft. There’s lots to unpack there, and we’ll be doing so in writing and conversation as we go.
+There was something so magic about seeing this quick reversal of scale. Usually Amanda’s embodiment comes to the architecture of the room. She adjusts to it. But here, the architecture suddenly came to her—at least provisionally. It was like the scale of the built environment shifted in real time. It was her idea to call it an “alterpodium,” following theorist Nicolas Bourriaud’s coinage of the “altermodern“—a way for cultural producers to critically engage with the facts of globalization and standardization without merely nostalgia for locality or craft. 
 
-Amanda needs a permanent solution, and for that I’m bringing her to Olin this fall. We’ll talk to the many brains here about materials, design, and fabrication to meet all the constraints for a long-lasting podium. And we’ll document our conversations along the way—including not just our materials and process, but how to consider bodily stature, whether and how to talk about dwarfism, and much more.
+Amanda needed a permanent solution, and for that she came to Olin in spring 2015. 
 
+[Amanda visits the class, cardboard model in hand.](/uploads/amanda%2520in%2520IN-945c28.JPG)
+
+A team of four engineers then worked to come up with a design and material that would fold flat, stand up to frequent travel, be strong and lightweight. They tested a bunch of geometries in paper:
 
 [Two hands hold a paper sketch model for a lectern, testing its geometry and folding logic.](/uploads/lecternative%2520folding-f79e92.JPG)
+
+![A set of image showing hands walking through the fold possibilities for one sketch model.](/uploads/lecternative%2520shape%25202%2520jpg.jpg)
+
+
 
 [amanda carbon fiber layup-391fd4.JPG](/uploads/amanda%2520carbon%2520fiber%2520layup-391fd4.JPG)
