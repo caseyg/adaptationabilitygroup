@@ -14,6 +14,8 @@ collaborators:
 
 In fall 2015, artist Carmen Papalia came for what's known at Olin as a "micro-residency"—a visit of several days that included an artist's talk, meetings with students, class visits, and more.
 
+![The Micro-residency Flyer](/uploads/Microresidency%2520Flyer.jpg)
+
 Carmen says he's a non-visual learner; he uses a cane and smart phone to navigate the built environment. His work has included lots of performance projects that utterly subvert the normative cultural expectations for an assistive cane. Like working with a marching band to perform instructions for a convivial audio [form of navigation](http://www.bbc.com/news/blogs-ouch-31749643).
 
 ![Carmen worked with a marching band to cue his navigation on a street in Berkeley, California. The band created musical directions to steer his steps.](/uploads/carmen%2520marching%2520band.jpg)
@@ -47,6 +49,14 @@ Most promising was patching together a microphone and an amp, for "playing" the 
 ![Students wire together the amped cane sketch model.](/uploads/prototype%2520patching%2520together%2520amp.jpg)
 
 ![Carmen tests out the amped cane with students looking on.](/uploads/carmen%2520testing%2520out%2520amped%2520cane.jpg)
+
+The team pursued this last idea over the following months: a cane outfitted with a microphone and connected to a battery-powered amp that could be worn on the body, like an old school jam box and prosthetic instrument, all at once.
+
+image
+
+One of the beautiful things about this kind of design work is in the ancillary products and processes that result. 
+
+
 
 ![Carmen tests out the 1.0 prototype, with a clear back of plexi over its power source.](/uploads/carmen%2520with%25202.0%2520clear%2520back.jpg)
 
