@@ -4,7 +4,7 @@ date: 2016-05-12 23:15:00 Z
 image: "/uploads/amanda%20in%20IN.JPG"
 image-caption: Amanda Cachia, an art historian and curator who also has dwarfism,
   stands with a cardboard prototype of a lectern for short stature.
-date-display: 2004
+date-display: March 2014–ongoing
 ---
 
 In early 2014, Amanda contacted Sara to ask whether she might be interested in a collaborative design project: a collapsible, lightweight podium for short stature.
