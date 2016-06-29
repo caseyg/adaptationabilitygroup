@@ -8,6 +8,7 @@ welcome-text: 'The Adaptation + Ability Group is a lab for creative research on 
   a mismatch between standardized design and the atypical body or mind. But we&apos;re
   also interested in critical questions about the future of the body: What counts
   as normal? **[See some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**'
+layout: about
 ---
 
 ## Guidelines for an adaptive technology working group.
