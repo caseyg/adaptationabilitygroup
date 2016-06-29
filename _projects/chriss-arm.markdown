@@ -24,7 +24,9 @@ Two teams were formed: one for socket research and the other for the extension. 
 
 Team socket was inspired by the physics of this compression model; they wanted to reverse-engineer something similar, but they also wanted their modeling, techniques, and fabrication to be open source and affordable. Team extension tested out wearables for the leg in addition to the climbing arm. The following are some images from the process—co-design, sketch modeling, and CAD work. They're followed by a video on the socket model, written and produced entirely by the student team, telling the story of their collaboration. The socket group also presented their work at the [Open Hardware Summit in September 2015](http://2015.oshwa.org/program/).
 
-![Shots of student sketch models, using a cast mold of Chris's residual limb.](/uploads/socket_prototype_jpg.jpg)
+![Students measure Chris's arm for proper fabrication.](/uploads/socket_measuring_jpg.jpg)
+
+![Student makes sketch models using a cast rubber mold of Chris's residual limb.](/uploads/socket_prototype_jpg.jpg)
 
 ![Socket Team Documentation (3).jpg](/uploads/Socket%20Team%20Documentation%20(3).jpg)
 
@@ -36,6 +38,5 @@ Team socket was inspired by the physics of this compression model; they wanted t
 
 ![chris leg WEB-0e1f22.jpg](/uploads/chris%20leg%20WEB-0e1f22.jpg)
 
-![socket_measuring_jpg.jpg](/uploads/socket_measuring_jpg.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hOEHUjIAuZM" frameborder="0" allowfullscreen></iframe>
