@@ -7,3 +7,13 @@ image-caption: A sample cardboard square with a shiny yellow finish of Kapton ta
 
 A report by David Pudlo on the sustainability of various cardboard finishes, part of our work with the Adaptive Design Association, coming soon! Here's a look at some finishes he tested, including beeswax, linseed oil, kapton tape, and more.
 
+[Cardboard with kapton tape](/uploads/Cardboard_KaptonTape-cad49a.JPG)
+
+[Cardboardwith beeswax and linseed oil]
+(/uploads/Cardboard_BeeswaxAndLinseed_thick.JPG)
+
+[Cardboard with 3 layers of shellac](/uploads/Cardboard_3Shellac.JPG)
+
+
+
+
