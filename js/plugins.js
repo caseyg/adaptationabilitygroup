@@ -1,3 +1,18 @@
+// Infusion
+
+$(document).ready(function () {
+    fluid.uiOptions.prefsEditor(".flc-prefsEditor-separatedPanel", {
+        terms: {
+            "templatePrefix": "../../src/framework/preferences/html",
+            "messagePrefix": "../../src/framework/preferences/messages"
+        },
+        "tocTemplate": "../../src/components/tableOfContents/html/TableOfContents.html",
+        "ignoreForToC": {
+            "overviewPanel": ".flc-overviewPanel"
+        }
+    });
+});
+
 // TOC
 
 var ToC =
