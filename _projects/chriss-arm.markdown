@@ -26,9 +26,9 @@ Team socket was inspired by the physics of this compression model; they wanted t
 
 ![Students measure Chris's arm for proper fabrication.](/uploads/socket_measuring_jpg.jpg)
 
-![Students were able to make quick sketch models using the rubber mold.](/uploads/socket_prototype_jpg.jpg)
-
 ![Students made a solid rubber mockup of the limb from the casting.](/uploads/Socket%20Team%20Documentation%20(3).jpg)
+
+![Students were able to make quick sketch models using the rubber mold.](/uploads/socket_prototype_jpg.jpg)
 
 ![A CAD rendering of the socket prototype's modular structure.](/uploads/socket%20bigcup2.jpg)
 
