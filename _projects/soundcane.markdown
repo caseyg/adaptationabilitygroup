@@ -38,7 +38,9 @@ During his visit to Investigating Normal, the whole class rapidly sketch modeled
 
 ![Carmen wears a sketch model of sensing "whiskers" that would cue the cane to make sounds as Carmen gets nearer or further from an audience on the street.](/uploads/carmen%2520wearable%2520prototype.jpg)
 
+![A smart phone set of musical tracks and sounds was mocked up with a tennis ball for playing.](/uploads/close%2520up%2520of%2520phone-performing%2520cane.jpg)
 
+![A close up of the smart phone/tennis ball model.](/uploads/prototype%2520tennis%2520ball%2520iphone.jpg)
 
 Most promising was patching together a microphone and an amp, for "playing" the cane across carpet, wood, textured surfaces.
 
