@@ -63,6 +63,8 @@ A team of four engineers then worked to come up with a design and material that 
 
 Eventually, the team decided on carbon fiber for their final version. We all loved the high tech associations of carbon fiber, in addition to its functional properties. A material mostly used for aerospace and automotive applications, brought to another life in a bit of interior architecture for short stature. The best kind of juxtaposition.
 
-[Engineers at work on a carbon fiber layup—curing it for a strong seal.](/uploads/amanda%2520carbon%2520fiber%2520layup-eb1081.JPG)
+[Engineers at work on a carbon fiber layup—curing it for a strong seal.](/uploads/IMG_8367.JPG)
+
+[A close up of the carbon fiber layup.](/uploads/amanda%2520carbon%2520fiber%2520layup-eb1081.JPG)
 
 [amanda carbon fiber layup-391fd4.JPG](/uploads/amanda%2520carbon%2520fiber%2520layup-391fd4.JPG)
