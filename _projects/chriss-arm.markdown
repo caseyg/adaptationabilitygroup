@@ -1,5 +1,5 @@
 ---
-title: LIMB
+title: LIMB with Chris Hinojosa
 date: 2016-06-01 00:27:00 Z
 image: "/uploads/chris%20trying%20WEB.jpg"
 image-caption: Chris Hinojosa, born with one arm but not a prosthesis user, tries
