@@ -1,6 +1,6 @@
 ---
 title: RAMP with Alice Sheppard
-image: "/uploads/ramp%20under%20construction%20glory.jpg"
+image: "/uploads/alice%20and%20laurel%20facing%20above.jpg"
 image-caption: An aerial shot of students building a 24-foot square wooden ramp, a
   stage landscape for dancer/choreographer Alice Sheppard and her collaborator, Laurel
   Lawson.
