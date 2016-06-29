@@ -7,3 +7,6 @@ image-caption: Amanda Cachia, an art historian and curator who also has dwarfism
 date-display: 2004
 ---
 
+In early 2014, Amanda contacted Sara to ask whether she might be interested in a collaborative design project: a collapsible, lightweight podium for short stature.
+
+[Two hands hold a paper sketch model for a lectern, testing its geometry and folding logic.](/uploads/lecternative%2520folding-f79e92.JPG)
