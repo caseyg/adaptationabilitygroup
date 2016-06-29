@@ -9,7 +9,7 @@ A report by David Pudlo on the sustainability of various cardboard finishes, par
 
 [Cardboard with kapton tape](/uploads/Cardboard_KaptonTape-cad49a.JPG)
 
-[Cardboardwith beeswax and linseed oil]
+[Cardboard with beeswax and linseed oil]
 (/uploads/Cardboard_BeeswaxAndLinseed_thick.JPG)
 
 [Cardboard with 3 layers of shellac](/uploads/Cardboard_3Shellac.JPG)
