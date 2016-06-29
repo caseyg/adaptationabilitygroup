@@ -12,7 +12,7 @@ collaborators:
 - 'Paul '
 ---
 
-In fall 2015, artist Carmen Papalia came for what's known at Olin as a "micro-residency"—a visit of several days that included and artist's talk, meetings with students, class visits, and more.
+In fall 2015, artist Carmen Papalia came for what's known at Olin as a "micro-residency"—a visit of several days that included an artist's talk, meetings with students, class visits, and more.
 
 Carmen says he's a non-visual learner; he uses a cane and smart phone to navigate the built environment. His work has included lots of performance projects that utterly subvert the normative cultural expectations for an assistive cane.
 
