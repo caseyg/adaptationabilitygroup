@@ -11,5 +11,5 @@ The [Accessible Icon Project](http://accessibleicon.org/) is an open-source, ong
 
 The following are some images from the project's early days, its later iteration as formal design, and some events and partnerships. You can also see more on [social media](https://www.facebook.com/accessibleicon).
 
-![get the icon screenshot jpg.jpg](/uploads/get%2520the%2520icon%2520screenshot%2520jpg.jpg)
+![screenshot of the icon in its various files, free for download on our web site](/uploads/get%2520the%2520icon%2520screenshot%2520jpg.jpg)
 
