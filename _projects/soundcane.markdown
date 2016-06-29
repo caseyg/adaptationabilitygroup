@@ -1,5 +1,5 @@
 ---
-title: Carmen's Cane
+title: CANE
 image: "/uploads/soundcane.jpg"
 collaborators:
 - Carmen Papalia
