@@ -54,8 +54,6 @@ The team pursued this last idea over the following months: a cane outfitted with
 
 image
 
-
-
 ![Carmen tests out the 1.0 prototype, with a clear back of plexi over its power source.](/uploads/carmen%2520with%25202.0%2520clear%2520back.jpg)
 
 We'll update here with formal photos from a performance. We're still getting the final prototype done in the lab. More to come!
