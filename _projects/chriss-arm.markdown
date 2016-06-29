@@ -22,21 +22,19 @@ Chris was game to collaborate, however, so he asked us to consider how he might 
 
 Two teams were formed: one for socket research and the other for the extension. It was a rapid prototyping process for both teams—seeking out existing precedents and trying divergent ideas for comfort and ease of use. 
 
-Team socket was inspired by the physics of this compression model; they wanted to reverse-engineer something similar, but they also wanted their modeling, techniques, and fabrication to be open source and affordable. Team extension tested out wearables for the leg in addition to the climbing arm. The following are some images from the process—co-design, sketch modeling, and CAD work. They're followed by a video on the socket model, written and produced entirely by the student team, telling the story of their collaboration. The socket group also presented their work at the [Open Hardware Summit in September 2015](http://2015.oshwa.org/program/).
+Team socket was inspired by the physics of this compression model; they wanted to reverse-engineer something similar, but they also wanted their modeling, techniques, and fabrication to be open source and affordable. Team extension tested out wearables for the leg in addition to the climbing arm. The following are some images from the process—co-design, sketch modeling, and CAD work. They're followed by a video on the socket model, written and produced entirely by the student team, telling the story of their collaboration (CC available, and description on YouTube). The socket group also presented their work at the [Open Hardware Summit in September 2015](http://2015.oshwa.org/program/).
 
 ![Students measure Chris's arm for proper fabrication.](/uploads/socket_measuring_jpg.jpg)
 
-![Student makes sketch models using a cast rubber mold of Chris's residual limb.](/uploads/socket_prototype_jpg.jpg)
+![Students were able to make quick sketch models using the rubber mold.](/uploads/socket_prototype_jpg.jpg)
 
-![Socket Team Documentation (3).jpg](/uploads/Socket%20Team%20Documentation%20(3).jpg)
+![Students made a solid rubber mockup of the limb from the casting.](/uploads/Socket%20Team%20Documentation%20(3).jpg)
 
-![CAD renderings of the socket in progress.](/uploads/socket%20bigcup2.jpg)
+![A CAD rendering of the socket prototype's modular structure.](/uploads/socket%20bigcup2.jpg)
 
-![A close up of the CAD rendering showing the fitting of the socket.](/uploads/socket%20bigcup1.jpg)
+![A close up of the CAD rendering showing the compression-style fitting of the socket prototype.](/uploads/socket%20bigcup1.jpg)
 
-![chris arm compression model.jpg](/uploads/chris%20arm%20compression%20model.jpg)
-
-![chris leg WEB-0e1f22.jpg](/uploads/chris%20leg%20WEB-0e1f22.jpg)
+![Chris discusses the features of a metal leg wearable, one idea that team extension had for augmenting his body for climbing.](/uploads/chris%20leg%20WEB-0e1f22.jpg)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hOEHUjIAuZM" frameborder="0" allowfullscreen></iframe>
