@@ -32,7 +32,7 @@ After his talk, Carmen led us on a "blind field shuttle"—a collaborative work 
 
 ![Carmen leads a :blind field shuttle—an invitation to a long walk without using vision.](/uploads/carmen%20blind%20field%20shuttle.jpg)
 
-He also invited students to perform a solo walk, unsighted. Now we weren't connected to anyone else, and we confronted our relative willingness to explore unsighted. Again, not to "experience blindness"—not at all—but to engage in an alternate sensory world. 
+He also invited students to perform a solo walk, unsighted. Now we weren't connected to anyone else, and we confronted our relative willingness to explore. Again, not to "experience blindness"—not at all—but to engage in an alternate sensory world. 
 
 ![Carmen leading a solo walk exercise, inviting students to experience the built environment without visual cues for navigation.jpg](/uploads/Carmen%20leading%20solo%20walk.jpg)
 
