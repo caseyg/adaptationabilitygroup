@@ -28,7 +28,7 @@ He also brought this list of things his cane might be: a provocation for rethink
 
 ![Things My Cane Might Be: a list including a hiking stick, a tent pole, a metal detector or hash pipe, and a hundred other possibilities. ](/uploads/things%20my%20cane%20might%20be.jpg)
 
-After his talk, Carmen led us on a "blind field shuttle"—a collaborative work he's performed before. It's not a simulation of blindness, and certainly not an "empathy exercise." It's something else entirely: an hour walking, eyes closed, and interdependent on the person in front of you and the person behind you. We walked with one hand on the shoulder of the next person in line, and we provided a shoulder for the one after. Once you settle into the feeling, it's blissful: an invitation to feel the sun on your face, to attend to the sounds and somatic changes of the environment. It's an alternate form of experience.
+After his talk, Carmen led us on a "blind field shuttle"—a collaborative work he's performed before. It's not a simulation of blindness, and certainly not an "empathy exercise."** It's something else entirely: an hour walking, eyes closed, and interdependent on the person in front of you and the person behind you. We walked with one hand on the shoulder of the next person in line, and we provided a shoulder for the one after. Once you settle into the feeling, it's blissful: an invitation to feel the sun on your face, to attend to the sounds and somatic changes of the environment. It's an alternate form of experience.
 
 ![Carmen leads a :blind field shuttle—an invitation to a long walk without using vision.](/uploads/carmen%20blind%20field%20shuttle.jpg)
 
@@ -63,3 +63,5 @@ We'll update here with formal photos from a performance. We're still getting the
 One of the beautiful things about this kind of design work is in the ancillary products and processes that result. Student Daniel Leong documented the process by which he planned an interrupted 3D print for the end of the cane that would house the contact mic.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwMxNXXVZuo" frameborder="0" allowfullscreen></iframe>
+
+**See [this post](http://www.autistichoya.com/2011/11/whats-wrong-with-disability-awareness.html) for a discussion of the manifold problems with the disability simulation exercise. There are [alternatives](http://www.raggededgemagazine.com/0903/0903ft1.html) to this well-meaning but fraught practice!
