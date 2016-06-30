@@ -27,7 +27,7 @@ Students are invited to see this work *as engineering,* no more and no less. It'
 
 The basics of cardboard carpentry are now a standard part of [Investigating Normal](http://aplusa.org/courses/investigating-normal/), where students are invited to look around their own built environments and find a mismatch for their own bodies or preferences. It's another powerful embodiment of engineering for everyone: locating oneself in the human continuum of needs.
 
-In the spirit of ADA, students in the spring 2015 class worked with the Walker School in Needham to design some low tech adaptive furniture. Again, it's not about cardboard as such: it's about affordable, accessible materials. The students heard from Walker teachers a need for some kind of coverings for classroom chairs to make them sensory havens—spaces of protection and calm, without possibility for injury. Like a private cave as a respite, with simple materials. 
+In the spirit of ADA, students in the spring 2015 class worked with the Walker School in Needham to design some low tech adaptive furniture. Again, it's not about cardboard as such: it's about affordable, accessible materials. Walker teachers told the team about their needs for some kind of coverings for classroom chairs to make them sensory havens—spaces of protection and calm, without possibility for injury. Like a private cave as a respite, with simple materials. They wanted something in the spirit of a library carrel without the potential to cause harm with its heft and edges.
 
 [An annotated sketch on a whiteboard shows the needs for the chair, .JPG](/uploads/walker%20school%20sketch%20whiteboard.JPG)
 
@@ -37,4 +37,8 @@ They're designed for students who have sensory processing disorders that may res
 
 [An Olin student models sitting in the chair with felted canopy drawn close, the height of which would provide total coverage for a school-age child.](/uploads/walker%20chair%20sitting%20model.JPG)
 
-Lauren Froschauer '16, an Investigating Normal alum, conducted an independent study and training in cardboard carpentry in 2015-16, and she established 
+[walker model holding packed.JPG](/uploads/walker%20model%20holding%20packed.JPG)
+
+The final prototype packed up easily for portability and was made for easy replication: commonly available craft materials and simple fabrication techniques.
+
+The work continues! Lauren Froschauer '16, an Investigating Normal alum, [conducted an independent study](http://adaptivedesignstudyolincollege.blogspot.com/2016/02/introduction-to-adaptive-design-study.html) and training in cardboard carpentry in 2015-16, got trained in the ADA's intensive workshop and months of volunteer time building at Perkins. She also reached out to Newman Elementary School, another community organization, to co-design furniture for children there. Investigating Normal is now set to collaborate again with Newman in the fall. 
