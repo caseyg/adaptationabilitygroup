@@ -1,5 +1,5 @@
 ---
-title: Prosthetics fabrication in India
+title: 'Rise Legs: affordable prosthetics in Bangalore'
 date: 2016-05-13 19:50:00 Z
 image: "/uploads/rise%20legs%20hands.JPG"
 image-caption: At Rise Legs in Bangalore, India, artificial legs are custom made for
