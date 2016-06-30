@@ -1,5 +1,5 @@
 ---
-title: Reports
+title: reports
 date: 2016-05-01 14:27:00 Z
 position: 4
 welcome-text: Lab students conduct independent research, present at conferences, and
