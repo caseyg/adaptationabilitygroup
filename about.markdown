@@ -2,8 +2,8 @@
 title: about the lab
 date: 2016-06-03 19:38:00 Z
 position: 1
-welcome-text: 'The Adaptation + Ability Group, started in September 2014, is a lab
-  for creative research on technology + the body at **[Olin College](http://www.olin.edu/)**.'
+welcome-text: The Adaptation + Ability Group, started in September 2014, is a lab
+  for creative research on technology + the body at **[Olin College](http://www.olin.edu/)**.
 subhead: 'We&apos;re interested in the encounters between humans and the built environment—especially
   when there&apos;s a mismatch between standardized design and the atypical body or
   mind. But we&apos;re also interested in critical questions about the future of the
@@ -15,28 +15,28 @@ people:
   image: "/uploads/19677090.jpeg"
 - name: Student Name
   image: http://placehold.it/250x250
-  url:
-  bio:
+  url: 
+  bio: 
 - name: Student Name
   image: http://placehold.it/250x250
-  url:
-  bio:
+  url: 
+  bio: 
 - name: Student Name
   image: http://placehold.it/250x250
-  url:
-  bio:
+  url: 
+  bio: 
 - name: Student Name
   image: http://placehold.it/250x250
-  url:
-  bio:
+  url: 
+  bio: 
 - name: Student Name
   image: http://placehold.it/250x250
-  url:
-  bio:
+  url: 
+  bio: 
 - name: Student Name
   image: http://placehold.it/250x250
-  url:
-  bio:
+  url: 
+  bio: 
 layout: about
 ---
 
