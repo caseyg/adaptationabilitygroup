@@ -54,8 +54,6 @@ Most promising was patching together a microphone and an amp, for "playing" the 
 
 The team pursued this last idea over the following months: a cane outfitted with a microphone and connected to a battery-powered amp that could be worn on the body, like an old school jam box and prosthetic instrument, all at once.
 
-image
-
 ![Carmen tests out the 1.0 prototype, with a clear back of plexi over its power source.](/uploads/carmen%20with%202.0%20clear%20back.jpg)
 
 We'll update here with formal photos from a performance. We're still getting the final prototype done in the lab. More to come!
@@ -63,5 +61,7 @@ We'll update here with formal photos from a performance. We're still getting the
 One of the beautiful things about this kind of design work is in the ancillary products and processes that result. Student Daniel Leong documented the process by which he planned an interrupted 3D print for the end of the cane that would house the contact mic.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwMxNXXVZuo" frameborder="0" allowfullscreen></iframe>
+
+
 
 **See [this post](http://www.autistichoya.com/2011/11/whats-wrong-with-disability-awareness.html) for a discussion of the manifold problems with the disability simulation exercise. There are [alternatives](http://www.raggededgemagazine.com/0903/0903ft1.html) to this well-meaning but fraught practice!
