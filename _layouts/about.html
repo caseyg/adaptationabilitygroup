@@ -4,6 +4,9 @@ layout: default
 <main class="main">
   <div class="content">
     {% include shared-includes/lead.html %}
+    <p>
+      {{ page.subhead | markdownify }}
+    </p>
     <h2>People</h2>
     <div class="cards cards--four">
 			{% for item in page.people %}
