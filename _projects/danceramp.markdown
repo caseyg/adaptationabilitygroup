@@ -8,7 +8,7 @@ date-display: January 2016–ongoing
 subtitle: a collaboration with Alice Sheppard
 ---
 
-Dancer and choreographer Alice Sheppard approached us with an irresistible design brief: a large-scale ramp for dancing on stage. She contacted Sara in fall 2015, asking to collaborate, and the project found a home in an Olin course—not the usual test kitchen, Investigating Normal, but in an introductory physics class with professor Yevgeniya Zastavker. The challenge was to house the operations of the inclined plane, or ramp, in an expressive physics—an exploration of its resistance, acceleration, and its affordances not for access, but for choreography. 
+Dancer and choreographer [Alice Sheppard](http://alicesheppard.com/) approached us with an irresistible design brief: a large-scale ramp for dancing on stage. She contacted Sara in fall 2015, asking to collaborate, and the project found a home in an Olin course—not the usual test kitchen, Investigating Normal, but in an introductory physics class with professor Yevgeniya Zastavker. The challenge was to house the operations of the inclined plane, or ramp, in an expressive physics—an exploration of its resistance, acceleration, and its affordances not for access, but for choreography. 
 
 Alice came to campus in March for what we're calling at Olin a "micro-residency"—suited to our scale (350 students total!). She gave an artist's talk, and we audited the built environment of our campus to test its many ramped conditions for maximum speed, Alice's preferred movements, banking, and so on.
 
@@ -22,11 +22,11 @@ We made a provisional dance studio with floor tiles that our student dance club 
 
 ![alice dancing flat tiles.jpg](/uploads/alice%20dancing%20flat%20tiles.jpg)
 
-Students then spent time building out ramps—connected in modular, mutable fashion to the dance floor tiles—to test various heights and arrangements for Alice's use. We also assembled my own ramps from the long-running Slope : Intercept exploration of the inclined plane.
+Students then spent time building out ramps—connected in modular, mutable fashion to the dance floor tiles—to test various heights and arrangements for Alice's use. We also assembled my own ramps from the long-running [Slope : Intercept](http://slopeintercept.org/) exploration of the inclined plane.
 
-![alice testing first prototypes.jpg](/uploads/alice%20testing%20first%20prototypes.jpg)
+![Alice tests these early prototypes with students.jpg](/uploads/alice%20testing%20first%20prototypes.jpg)
 
-![alice and two ramps.jpg](/uploads/alice%20and%20two%20ramps.jpg)
+![Alice played among these ramps all day.](/uploads/alice%20and%20two%20ramps.jpg)
 
 Now with a better idea of the slopes and ranges of movement Alice was seeking, students set about making a new design—one that turned out to be monumental in scale, an entire landscape. They made some paper models:
 
