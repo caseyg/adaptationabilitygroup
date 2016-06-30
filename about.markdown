@@ -8,6 +8,15 @@ welcome-text: 'The Adaptation + Ability Group is a lab for creative research on 
   a mismatch between standardized design and the atypical body or mind. But we&apos;re
   also interested in critical questions about the future of the body: What counts
   as normal? **[See some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**'
+people:
+- name: Sara Hendren
+  bio: Director
+  url: http://ablersite.org
+  image: "/uploads/19677090.jpeg"
+- name: Student Name
+  url: 
+  image: 
+  bio: 
 layout: about
 ---
 
