@@ -23,7 +23,7 @@ ADA and Perkins both deliberately create workshops that are radically democratiz
 
 That means that a student or anyone in her ecology of care can have an idea, try something out, see what works: a parent, a teacher, a clinician, anyone. And the materials and labor—robust but affordable, and quick to assemble—mean that missteps and failures aren't catastrophic. How can you tell if a young person who's non-verbal and has complex mobility constraints will respond well to a chair or support structure? You can try it out and see, build to learn, start over if needed.
 
-Students are invited to see this work *as engineering,* no more and no less. It's powerful to include low tech devices under the same engineering canopy with robotics, circuitry, and code. Engineering is for people, and so often the elegant, just-enough solution is one that people are asking for. One they can then alter and change and adapt as needed.  
+Students in my lab and classroom are invited to see this work *as engineering,* no more and no less. It's powerful to include low tech devices under the same engineering canopy with robotics, circuitry, and code. Engineering is for people, and so often the elegant, just-enough solution is one that people are asking for. One they can then alter and change and adapt as needed.  
 
 The basics of cardboard carpentry are now a standard part of [Investigating Normal](http://aplusa.org/courses/investigating-normal/), where students are invited to look around their own built environments and find a mismatch for their own bodies or preferences. It's another powerful embodiment of engineering for everyone: locating oneself in the human continuum of needs.
 
