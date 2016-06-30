@@ -7,7 +7,7 @@ image-caption: 'Students sit on cardboard furniture and adaptations tailored to 
 date-display: September 2014–ongoing
 ---
 
-![cardboard group.jpg](/uploads/cardboard%20group.jpg)
+![A cardboard chair from Perkins School for the Blind, with adjustable foot rests for customized support.](/uploads/perkins_chair_action_web.jpg)
 
 We're working as a satellite site of the [Adaptive Design Association](http://www.adaptivedesign.org/), a New York City non-profit that builds accessible, low tech adaptive furniture and devices for young people. 
 
