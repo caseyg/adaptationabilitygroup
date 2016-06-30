@@ -1,7 +1,7 @@
 ---
 title: LECTERN
-subtitle: with Amanda Cachia
 date: 2016-05-12 23:15:00 Z
+subtitle: with Amanda Cachia
 image: "/uploads/amanda%20in%20IN.JPG"
 image-caption: Amanda Cachia, an art historian and curator who also has dwarfism,
   stands with a cardboard prototype of a lectern for short stature.
