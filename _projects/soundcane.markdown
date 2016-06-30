@@ -1,5 +1,6 @@
 ---
-title: ACOUSTIC MOBILITY DEVICE with Carmen Papalia
+title: ACOUSTIC MOBILITY DEVICE
+subtitle: with Carmen Papalia
 image: "/uploads/carmen%20testing%20out%20amped%20cane.jpg"
 image-caption: Carmen tests a cane with audio—hooked up to an amplifier and microphone,
   it now senses and "plays" the environment.
@@ -32,11 +33,11 @@ After his talk, Carmen led us on a "blind field shuttle"—a collaborative work 
 
 ![Carmen leads a :blind field shuttle—an invitation to a long walk without using vision.](/uploads/carmen%20blind%20field%20shuttle.jpg)
 
-He also invited students to perform a solo walk, unsighted. Now we weren't connected to anyone else, and we confronted our relative willingness to explore. Again, not to "experience blindness"—not at all—but to engage in an alternate sensory world. 
+He also invited students to perform a solo walk, unsighted. Now we weren't connected to anyone else, and we confronted our relative willingness to explore. Again, not to "experience blindness"—not at all—but to engage in an alternate sensory world.
 
 ![Carmen leading a solo walk exercise, inviting students to experience the built environment without visual cues for navigation.jpg](/uploads/Carmen%20leading%20solo%20walk.jpg)
 
-Carmen came to us wanting a cane that would further this inversion of its normal functioning, and he wanted the register of technology and engineering to be foregrounded this time. He challenged us to think about a "reverse" cane—one that would actually perform loud, even aggressive sounds, like an instrument. 
+Carmen came to us wanting a cane that would further this inversion of its normal functioning, and he wanted the register of technology and engineering to be foregrounded this time. He challenged us to think about a "reverse" cane—one that would actually perform loud, even aggressive sounds, like an instrument.
 
 During his visit to Investigating Normal, the whole class rapidly sketch modeled some possible ways to think about a performative cane: wearables and wiring and amplification of various kinds.
 

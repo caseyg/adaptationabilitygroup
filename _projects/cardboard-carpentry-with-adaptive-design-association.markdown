@@ -1,5 +1,6 @@
 ---
-title: LOW TECH ENGINEERING with Adaptive Design Association
+title: LOW TECH ENGINEERING
+subtitle: with Adaptive Design Association
 date: 2016-06-29 01:18:00 Z
 image: "/uploads/cardboard%20group.jpg"
 image-caption: 'Students sit on cardboard furniture and adaptations tailored to their
@@ -9,9 +10,9 @@ date-display: September 2014–ongoing
 
 ![A cardboard chair from Perkins School for the Blind, with adjustable foot rests for customized support.](/uploads/perkins_chair_action_web.jpg)
 
-We're working as a satellite site of the [Adaptive Design Association](http://www.adaptivedesign.org/), a New York City non-profit that builds accessible, low tech adaptive furniture and devices for young people. 
+We're working as a satellite site of the [Adaptive Design Association](http://www.adaptivedesign.org/), a New York City non-profit that builds accessible, low tech adaptive furniture and devices for young people.
 
-After Sara took the three-day intensive course in New York City and did independent research and training with its counterpart, the Assistive Device Center at the Perkins School for the Blind, ADA invited the a+a lab to form local partnerships of our own—to spread these basic fabrication techniques, but mostly to foster a disposition toward human difference and atypicality: a disposition toward affordable materials and customized adaptation for individuals, not at scale. 
+After Sara took the three-day intensive course in New York City and did independent research and training with its counterpart, the Assistive Device Center at the Perkins School for the Blind, ADA invited the a+a lab to form local partnerships of our own—to spread these basic fabrication techniques, but mostly to foster a disposition toward human difference and atypicality: a disposition toward affordable materials and customized adaptation for individuals, not at scale.
 
 [Alex Truesdell, director of ADA, describes the properties of cardboard to Olin students.JPG](/uploads/alex%20in%20IN%20cardboard.JPG)
 
@@ -41,4 +42,4 @@ They're designed for students who have sensory processing disorders that may res
 
 The final prototype packed up easily for portability and was made for easy replication: commonly available craft materials and simple fabrication techniques.
 
-The work continues! Lauren Froschauer '16, an Investigating Normal alum, [conducted an independent study](http://adaptivedesignstudyolincollege.blogspot.com/2016/02/introduction-to-adaptive-design-study.html) and training in cardboard carpentry in 2015-16. She completed the ADA's intensive workshop and months of volunteer time building at Perkins. She also reached out to Newman Elementary School, another community organization, to co-design furniture for children there. Investigating Normal is now set to collaborate again with Newman in the fall; more news to come. 
+The work continues! Lauren Froschauer '16, an Investigating Normal alum, [conducted an independent study](http://adaptivedesignstudyolincollege.blogspot.com/2016/02/introduction-to-adaptive-design-study.html) and training in cardboard carpentry in 2015-16. She completed the ADA's intensive workshop and months of volunteer time building at Perkins. She also reached out to Newman Elementary School, another community organization, to co-design furniture for children there. Investigating Normal is now set to collaborate again with Newman in the fall; more news to come.

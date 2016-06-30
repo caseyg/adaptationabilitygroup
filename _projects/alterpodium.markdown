@@ -1,5 +1,6 @@
 ---
-title: LECTERN with Amanda Cachia
+title: LECTERN
+subtitle: with Amanda Cachia
 date: 2016-05-12 23:15:00 Z
 image: "/uploads/amanda%20in%20IN.JPG"
 image-caption: Amanda Cachia, an art historian and curator who also has dwarfism,
@@ -48,9 +49,9 @@ From the beginning, this model was meant to be partly prototype, partly performa
 
 They did this without commentary, and Amanda gave her talk—also without commentary. And then they spoke with the audience about it afterward.
 
-There was something so magic about seeing this quick reversal of scale. Usually Amanda’s embodiment comes to the architecture of the room. She adjusts to it. But here, the architecture suddenly came to her—at least provisionally. It was like the scale of the built environment shifted in real time. It was her idea to call it an “alterpodium,” following theorist Nicolas Bourriaud’s coinage of the “altermodern"—a way for cultural producers to critically engage with the facts of globalization and standardization without merely nostalgia for locality or craft. 
+There was something so magic about seeing this quick reversal of scale. Usually Amanda’s embodiment comes to the architecture of the room. She adjusts to it. But here, the architecture suddenly came to her—at least provisionally. It was like the scale of the built environment shifted in real time. It was her idea to call it an “alterpodium,” following theorist Nicolas Bourriaud’s coinage of the “altermodern"—a way for cultural producers to critically engage with the facts of globalization and standardization without merely nostalgia for locality or craft.
 
-But Amanda needed a permanent solution, and for that she came to Olin in spring 2015. 
+But Amanda needed a permanent solution, and for that she came to Olin in spring 2015.
 
 [Amanda visits the class, cardboard model in hand.](/uploads/amanda%2520in%2520IN-945c28.JPG)
 
