@@ -1,10 +1,10 @@
 ---
 title: CARDBOARD CARPENTRY with Adaptive Design Association
 date: 2016-06-29 01:18:00 Z
-image: "/uploads/alex%20in%20IN%20cardboard.JPG"
-image-caption: ADA founder Alex Truesdell teaches students in Investigating Normal
-  about the physical properties—and accessible affordances—of triple wall cardboard
-  (1200 pounds per square inch!).
+image: "/uploads/cardboard%20group.jpg"
+image-caption: 'Students sit on cardboard furniture and adaptations tailored to their
+  own bodies: standing desks, custom stools, and more.'
 date-display: September 2014–ongoing
 ---
 
+![cardboard group.jpg](/uploads/cardboard%20group.jpg)
