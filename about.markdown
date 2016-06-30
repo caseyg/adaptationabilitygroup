@@ -14,9 +14,29 @@ people:
   url: http://ablersite.org
   image: "/uploads/19677090.jpeg"
 - name: Student Name
-  url: 
-  image: 
-  bio: 
+  image: http://placehold.it/250x250
+  url:
+  bio:
+- name: Student Name
+  image: http://placehold.it/250x250
+  url:
+  bio:
+- name: Student Name
+  image: http://placehold.it/250x250
+  url:
+  bio:
+- name: Student Name
+  image: http://placehold.it/250x250
+  url:
+  bio:
+- name: Student Name
+  image: http://placehold.it/250x250
+  url:
+  bio:
+- name: Student Name
+  image: http://placehold.it/250x250
+  url:
+  bio:
 layout: about
 ---
 
