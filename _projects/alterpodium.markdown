@@ -35,23 +35,22 @@ We messed around with paper models and arrived at this strong triple-wall cardbo
 
 ![A CAD rendering of the foldable cardboard model](/uploads/mock%2520up%25203.jpg)
 
-And in March, we met at a conference in New York, where I delivered her the cardboard prototype: Just three pieces, barely hinged together with tape, and with enough material friction to make it hardware-free, lightweight, but strong.
+And in March, they met at a conference in New York, where Sara delivered her the cardboard prototype: Just three pieces, barely hinged together with tape, and with enough material friction to make it hardware-free, lightweight, but strong.
 
 ![Amanda stands at the cardboard podium, testing its dimensions for her height and surface area needs.](/uploads/amanda_practice_detail2.jpg)
 
 [Amanda found this basic model to be a good working prototype.](/uploads/amanda_practice_detail.JPG)
 
-From the beginning, this model was meant to be partly prototype, partly performance. So Amanda and Sara took the opportunity of the conference to try out its registers in time and space, as more than just a product. We arranged it so that when Amanda was introduced as part of her panel, I would silently go to the front of the room, and there assemble the podium, in real time.
+From the beginning, this model was meant to be partly prototype, partly performance. So Amanda and Sara took the opportunity of the conference to try out its registers in time and space, as more than just a product. They arranged it so that when Amanda was introduced as part of her panel, Sara would silently go to the front of the room, and there assemble the podium, in real time.
 
 ![Sara building the podium, attaching the pieces of cardboard together.](/uploads/image-2.jpeg)
 
 
+They did this without commentary, and Amanda gave her talk—also without commentary. And then they spoke with the audience about it afterward.
 
-I did, without commentary, and she gave her talk—also without commentary. And then we spoke with the audience about it afterward.
+There was something so magic about seeing this quick reversal of scale. Usually Amanda’s embodiment comes to the architecture of the room. She adjusts to it. But here, the architecture suddenly came to her—at least provisionally. It was like the scale of the built environment shifted in real time. It was her idea to call it an “alterpodium,” following theorist Nicolas Bourriaud’s coinage of the “altermodern"—a way for cultural producers to critically engage with the facts of globalization and standardization without merely nostalgia for locality or craft. 
 
-There was something so magic about seeing this quick reversal of scale. Usually Amanda’s embodiment comes to the architecture of the room. She adjusts to it. But here, the architecture suddenly came to her—at least provisionally. It was like the scale of the built environment shifted in real time. It was her idea to call it an “alterpodium,” following theorist Nicolas Bourriaud’s coinage of the “altermodern“—a way for cultural producers to critically engage with the facts of globalization and standardization without merely nostalgia for locality or craft. 
-
-Amanda needed a permanent solution, and for that she came to Olin in spring 2015. 
+But Amanda needed a permanent solution, and for that she came to Olin in spring 2015. 
 
 [Amanda visits the class, cardboard model in hand.](/uploads/amanda%2520in%2520IN-945c28.JPG)
 
