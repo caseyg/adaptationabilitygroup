@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+
 <main class="main">
 	<div class="content">
 		{% include shared-includes/lead.html text=page.welcome-text %}
+		<p>{{ page.subhead | markdownify }}</p>
 		<div class="cards cards--three">
 			{% for item in site.projects reversed %}
 				{% include shared-includes/project.html %}
