@@ -1,5 +1,5 @@
 ---
-title: CARDBOARD CARPENTRY with Adaptive Design Association
+title: LOW TECH ENGINEERING with Adaptive Design Association
 date: 2016-06-29 01:18:00 Z
 image: "/uploads/cardboard%20group.jpg"
 image-caption: 'Students sit on cardboard furniture and adaptations tailored to their
@@ -27,8 +27,14 @@ Students are invited to see this work *as engineering,* no more and no less. It'
 
 The basics of cardboard carpentry are now a standard part of [Investigating Normal](http://aplusa.org/courses/investigating-normal/), where students are invited to look around their own built environments and find a mismatch for their own bodies or preferences. It's another powerful embodiment of engineering for everyone: locating oneself in the human continuum of needs.
 
-In the spirit of ADA, students in the spring 2015 class worked with the Walker School in Needham to design some fabric coverings for classroom chairs to make them sensory havens—spaces of protection and calm, without possibility for injury. Like a private cave as a respite, with simple materials. They're designed for students who have sensory processing disorders that may result from psycho-social challenges or atypicality on the autism spectrum.
+In the spirit of ADA, students in the spring 2015 class worked with the Walker School in Needham to design some low tech adaptive furniture. Again, it's not about cardboard as such: it's about affordable, accessible materials. The students heard from Walker teachers a need for some kind of coverings for classroom chairs to make them sensory havens—spaces of protection and calm, without possibility for injury. Like a private cave as a respite, with simple materials. 
 
+[An annotated sketch on a whiteboard shows the needs for the chair, .JPG](/uploads/walker%20school%20sketch%20whiteboard.JPG)
 
+They're designed for students who have sensory processing disorders that may result from psycho-social challenges or atypicality on the autism spectrum. Students iterated through a number of possibilities, eventually arriving at this felt model:
+
+[Simple toggles and cording secure a felt canopy that wraps u-shaped around the back of a standard child's classroom chair.](/uploads/walker%20chair%20tying.JPG)
+
+[An Olin student models sitting in the chair with felted canopy drawn close, the height of which would provide total coverage for a school-age child.](/uploads/walker%20chair%20sitting%20model.JPG)
 
 Lauren Froschauer '16, an Investigating Normal alum, conducted an independent study and training in cardboard carpentry in 2015-16, and she established 
