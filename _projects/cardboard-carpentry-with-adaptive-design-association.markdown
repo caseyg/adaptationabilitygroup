@@ -11,7 +11,7 @@ date-display: September 2014–ongoing
 
 We're working as a satellite site of the [Adaptive Design Association](http://www.adaptivedesign.org/), a New York City non-profit that builds accessible, low tech adaptive furniture and devices for young people. 
 
-After Sara took the three-day intensive course in New York City and did independent research and training with its counterpart, the Assistive Device Center at the Perkins School for the Blind, ADA invited the a+a lab to form local partnerships of our own—to spread these basic fabrication techniques, but mostly to foster a disposition toward human difference and atypicality: a disposition of affordable materials, customized adaptation, and molding the world for individuals, not at scale. 
+After Sara took the three-day intensive course in New York City and did independent research and training with its counterpart, the Assistive Device Center at the Perkins School for the Blind, ADA invited the a+a lab to form local partnerships of our own—to spread these basic fabrication techniques, but mostly to foster a disposition toward human difference and atypicality: a disposition toward affordable materials and customized adaptation for individuals, not at scale. 
 
 [Alex Truesdell, director of ADA, describes the properties of cardboard to Olin students.JPG](/uploads/alex%20in%20IN%20cardboard.JPG)
 
