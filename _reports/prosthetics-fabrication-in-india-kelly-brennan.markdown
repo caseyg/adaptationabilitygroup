@@ -10,7 +10,7 @@ author: Kelly Brennan
 
 [The curved foot extends from the lower leg, sticks of cane bound together.](/uploads/rise%20legs%20foot%20assembled.JPG)
 
-Olin '17 student Kelly Brennan took a leave of absence in fall 2015 to intern at xxx in Chennai, India. While there, she also conducted some independent lab research on prosthetics fabrication in Bangalore. This report is about her visit to [Rise Legs](http://www.riselegs.com/) in Bangalore.
+Olin '17 student Kelly Brennan took a leave of absence in fall 2015 to intern at [Ayzh](http://www.ayzh.com/), a women's health advocacy group in Chennai, India. While there, she also conducted some independent lab research on prosthetics fabrication in Bangalore. This report is about her visit to [Rise Legs](http://www.riselegs.com/) in Bangalore.
 
 Coming soon is a record of her conversation with entrepreneur Arun Cherian about how and why he makes the lower leg limbs he does, the material and fabrication choices and methods, and more. See below some images from the fabrication process that Kelly shot while there.
 
