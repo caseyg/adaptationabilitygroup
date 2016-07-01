@@ -1,7 +1,6 @@
 ---
 title: 'Building an Audience: cardboard how-tos'
 date: 2015-05-20 18:28:00 Z
-published: false
 image: "/uploads/ada%20cardboard%20adit%20setting%20up%20shot.JPG"
 author: Ariana Chae, Ingrid Hagen-Keith, Kari Bender, Jess Sutantio
 ---
