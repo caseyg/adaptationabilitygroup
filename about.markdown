@@ -1,42 +1,23 @@
 ---
-title: about the lab
+title: About the Lab
 date: 2016-06-03 19:38:00 Z
 position: 1
-welcome-text: The Adaptation + Ability Group, started in September 2014, is a lab
-  for creative research on technology + the body at **[Olin College](http://www.olin.edu/)**.
-subhead: 'We&apos;re interested in the encounters between humans and the built environment—especially
-  when there&apos;s a mismatch between standardized design and the atypical body or
-  mind. But we&apos;re also interested in critical questions about the future of the
-  body: What counts as normal? **[See some projects >>](/projects/)**'
+welcome-text: 'The Adaptation + Ability Group is a lab for creative research on technology
+  + the body at **[Olin College](http://www.olin.edu/)**. We&apos;re interested in
+  the encounters between humans and the built environment—especially when there&apos;s
+  a mismatch between standardized design and the atypical body or mind. But we&apos;re
+  also interested in critical questions about the future of the body: What counts
+  as normal? **[See some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**'
 people:
 - name: Sara Hendren
   bio: Director
   url: http://ablersite.org
   image: "/uploads/19677090.jpeg"
-- name: Student Name
-  image: http://placehold.it/250x250
+- name: Toni Saylor
   url: 
-  bio: 
-- name: Student Name
-  image: http://placehold.it/250x250
-  url: 
-  bio: 
-- name: Student Name
-  image: http://placehold.it/250x250
-  url: 
-  bio: 
-- name: Student Name
-  image: http://placehold.it/250x250
-  url: 
-  bio: 
-- name: Student Name
-  image: http://placehold.it/250x250
-  url: 
-  bio: 
-- name: Student Name
-  image: http://placehold.it/250x250
-  url: 
-  bio: 
+  image: "/uploads/Application_Picture.jpg"
+  bio: |
+    Toni Saylor is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner for a course called engineering for humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She loves researching for Sara and has been doing so for a year.
 layout: about
 ---
 
