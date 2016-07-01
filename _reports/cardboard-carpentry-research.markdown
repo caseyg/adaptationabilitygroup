@@ -16,8 +16,8 @@ Lauren took an intensive workshop at ADA in New York and subsequently trained st
 
 ![A hand drawn sketch plan for an adult-size cardboard chair.](/uploads/lauren%20cardboard%20chair%20drawing.JPG)
 
-![IMG_0095.JPG](/uploads/IMG_0095.JPG)
+![Lauren made a number of edits on photos to show her progress as she learned basic techniques, like scoring and folding in the right direction to maximize the strength of the cardboard's internal flute structure.](/uploads/IMG_0095.JPG)
 
-![IMG_2295.JPG](/uploads/IMG_2295.JPG)
+![More directions for learners, including how to remove layers for making inside folds on a chair design](/uploads/IMG_2295.JPG)
 
-![IMG_2490 (1).JPG](/uploads/IMG_2490%20(1).JPG)
+![Lauren shows a chair-in-progress—using the cardboard's most robust structure and good folds and joinery for a strong design.](/uploads/IMG_2490%20(1).JPG)
