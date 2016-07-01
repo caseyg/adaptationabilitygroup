@@ -1,9 +1,10 @@
 ---
-title: About the Lab
+title: about the lab
 date: 2016-06-03 19:38:00 Z
 position: 1
 welcome-text: 'The Adaptation + Ability Group is a lab for creative research on technology
-  + the body at **[Olin College](http://www.olin.edu/)**. We&apos;re interested in
+  + the body at **[Olin College](http://www.olin.edu/)**.'
+subhead: 'We&apos;re interested in
   the encounters between humans and the built environment—especially when there&apos;s
   a mismatch between standardized design and the atypical body or mind. But we&apos;re
   also interested in critical questions about the future of the body: What counts
@@ -14,10 +15,10 @@ people:
   url: http://ablersite.org
   image: "/uploads/sara%20headshot%20better%20web.JPG"
 - name: Toni Saylor
-  url: 
+  url:
   image: "/uploads/Application_Picture.jpg"
   bio: |
-    Toni Saylor is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner for a course called Engineering for Humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She loves researching for Sara and has been doing so for a year.
+    Toni Saylor is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner for a course called engineering for humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She loves researching for Sara and has been doing so for a year.
 layout: about
 ---
 
