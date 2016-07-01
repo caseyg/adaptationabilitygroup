@@ -51,5 +51,6 @@ defaults:
     image-caption: IMAGE CAPTION
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
+    author: AUTHOR
 imgix: http://aplusa.imgix.net
 permalink: pretty
