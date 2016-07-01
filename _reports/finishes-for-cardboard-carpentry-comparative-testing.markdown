@@ -10,10 +10,11 @@ A report by David Pudlo '15 on the sustainability of various cardboard finishes,
 
 ![Cardboard with kapton tape](/uploads/Cardboard_KaptonTape-cad49a.JPG)
 
-![Cardboard with beeswax and linseed oil]
-(/uploads/Cardboard_BeeswaxAndLinseed_thick.JPG)
+![Cardboard with beeswax and linseed oil (/uploads/Cardboard_BeeswaxAndLinseed_thick.JPG)
 
 ![Cardboard with 3 layers of shellac](/uploads/Cardboard_3Shellac.JPG)
+
+![cardboard wheatpaste and paper.JPG](/uploads/cardboard%20wheatpaste%20and%20paper.JPG)
 
 
 
