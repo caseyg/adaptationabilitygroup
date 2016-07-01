@@ -5,7 +5,7 @@ layout: default
 	<div class="content">
 		{% include shared-includes/lead.html text=page.welcome-text %}
 		<div class="cards cards--two">
-			{% for item in site.courses reversed %}
+			{% for item in site.courses %}
 				{% include shared-includes/course.html %}
 			{% endfor %}
 		</div>
