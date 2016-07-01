@@ -12,12 +12,12 @@ people:
 - name: Sara Hendren
   bio: Director
   url: http://ablersite.org
-  image: "/uploads/19677090.jpeg"
+  image: "/uploads/sara%20headshot%20better%20web.JPG"
 - name: Toni Saylor
   url: 
   image: "/uploads/Application_Picture.jpg"
   bio: |
-    Toni Saylor is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner for a course called engineering for humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She loves researching for Sara and has been doing so for a year.
+    Toni Saylor is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner for a course called Engineering for Humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She loves researching for Sara and has been doing so for a year.
 layout: about
 ---
 
