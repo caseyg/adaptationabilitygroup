@@ -1,17 +1,20 @@
 ---
 layout: default
 ---
+
 {% assign item = page %}
 {% include shared-includes/image-full.html %}
 <main class="main">
   <div class="content">
-    {% include shared-includes/title-headline.html %}
-    {% include shared-includes/date-display.html %}
-    {% include shared-includes/byline.html %}
-    {{ page.content | markdownify }}
-    {% include shared-includes/page.html %}
+    <article>
+      {% include shared-includes/title-headline.html %}
+      {% include shared-includes/date-display.html %}
+      {% include shared-includes/byline.html %}
+      {{ page.content | markdownify }}
+      {% include shared-includes/page.html %}      
+    </article>
   </div>
-  <aside class="">
+  <aside>
     <ul>
       {% for item in page.collaborators %}
         <li>{{ item }}</li>
