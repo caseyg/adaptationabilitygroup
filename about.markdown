@@ -1,5 +1,5 @@
 ---
-title: About the Lab
+title: about the Lab
 date: 2016-06-03 19:38:00 Z
 position: 1
 welcome-text: 'The Adaptation + Ability Group is a lab for creative research on technology
