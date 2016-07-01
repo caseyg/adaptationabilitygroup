@@ -14,10 +14,10 @@ author: Lauren Froschauer
 
 Lauren took an intensive workshop at ADA in New York and subsequently trained students at Olin. She also did an independent study at Perkins with Molly Campbell, who runs the [Assistive Device Center](http://www.perkins.org/services/other/assistive-device-center) there. She blogged about her experiences, and we're happy to say that she's built a relationship with a local elementary school near Olin as a partnership for co-designing these devices in our community. Below are some images from Lauren's research; a report is coming soon. See [her site here](http://adaptivedesignstudyolincollege.blogspot.com/).
 
-[A hand drawn sketch plan for an adult-size cardboard chair.](/uploads/lauren%20cardboard%20chair%20drawing.JPG)
+![A hand drawn sketch plan for an adult-size cardboard chair.](/uploads/lauren%20cardboard%20chair%20drawing.JPG)
 
-[IMG_0095.JPG](/uploads/IMG_0095.JPG)
+![IMG_0095.JPG](/uploads/IMG_0095.JPG)
 
-[IMG_2295.JPG](/uploads/IMG_2295.JPG)
+![IMG_2295.JPG](/uploads/IMG_2295.JPG)
 
-[IMG_2490 (1).JPG](/uploads/IMG_2490%20(1).JPG)
+![IMG_2490 (1).JPG](/uploads/IMG_2490%20(1).JPG)
