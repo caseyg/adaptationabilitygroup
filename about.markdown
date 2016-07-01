@@ -10,7 +10,10 @@ welcome-text: 'The Adaptation + Ability Group is a lab for creative research on 
   as normal? **[See some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**'
 people:
 - name: Sara Hendren
-  bio: Director
+  bio: Lab Director. Sara Hendren is a design researcher, artist, and writer, and
+    she teaches human-centered design  for engineers as assistant professor at Olin
+    College.  You can read more about her background and other projects by clicking
+    on her name at the top of this page.
   url: http://ablersite.org
   image: "/uploads/sara%20headshot%20better%20web.JPG"
 - name: Toni Saylor
