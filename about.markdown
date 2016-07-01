@@ -12,7 +12,7 @@ people:
 - name: Sara Hendren
   bio: Director
   url: http://ablersite.org
-  image: "/uploads/19677090.jpeg"
+  image: "/uploads/sara%20headshot%20better%20web.JPG"
 - name: Toni Saylor
   url: 
   image: "/uploads/Application_Picture.jpg"
