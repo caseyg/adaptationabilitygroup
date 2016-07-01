@@ -1,5 +1,5 @@
 ---
-title: 'Building an Audience: a cardboard how-to video'
+title: 'Building an Audience: cardboard how-tos'
 date: 2016-07-01 18:28:00 Z
 published: false
 image: "/uploads/ada%20cardboard%20adit%20setting%20up%20shot.JPG"
