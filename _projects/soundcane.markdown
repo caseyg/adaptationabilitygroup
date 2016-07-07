@@ -1,5 +1,5 @@
 ---
-title: ACOUSTIC MOBILITY DEVICE
+title: Acoustic Mobility Device
 subtitle: with Carmen Papalia
 image: "/uploads/carmen%20testing%20out%20amped%20cane.jpg"
 image-caption: Carmen tests a cane with audio—hooked up to an amplifier and microphone,
@@ -14,8 +14,6 @@ collaborators:
 ---
 
 In fall 2015, artist Carmen Papalia came for what's known at Olin as a "micro-residency"—a visit of several days that included an artist's talk, meetings with students, class visits, and more.
-
-![The Micro-residency Flyer](/uploads/Microresidency%20Flyer.jpg)
 
 {% include shared-includes/image.html
   image="/uploads/Microresidency%20Flyer.jpg"

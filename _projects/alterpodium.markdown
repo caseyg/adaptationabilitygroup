@@ -1,5 +1,5 @@
 ---
-title: LECTERN
+title: Lectern
 date: 2016-05-12 23:15:00 Z
 subtitle: with Amanda Cachia
 image: "/uploads/amanda%20in%20IN.JPG"

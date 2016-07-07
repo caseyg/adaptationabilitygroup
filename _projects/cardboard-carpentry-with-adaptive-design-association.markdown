@@ -1,5 +1,5 @@
 ---
-title: LOW TECH ENGINEERING
+title: Low Tech Engineering
 date: 2016-06-29 01:18:00 Z
 subtitle: with Adaptive Design Association
 image: "/uploads/cardboard%20group.jpg"
