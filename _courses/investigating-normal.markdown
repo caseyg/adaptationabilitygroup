@@ -13,7 +13,7 @@ image: "/uploads/sock_double_blue_truck_web.jpg"
 ## **ENGR 3299   Investigating Normal: Adaptive and Assistive Technologies**
 
 
-[![An image of a double ](http://ablersite.files.wordpress.com/2013/05/sock_double_blue_truck_web.jpg)](http://ablersite.files.wordpress.com/2013/05/sock_double_blue_truck_web.jpg)
+[![An image of a double ](http://ablersite.files.wordpress.com/2013/05/sock_double_blue_truck_web.jpg)]
 
 Fall 2015
 
