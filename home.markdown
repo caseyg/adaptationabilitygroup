@@ -4,10 +4,10 @@ date: 2016-05-01 14:06:00 Z
 permalink: "/"
 position: 0
 grid:
-- image: "/uploads/alicescottrampdrill.jpg"
-  image-caption: alice sheppard, dancer-collaborator, talks with a student about our
-    collective work with choreography and the inclined plane
-  url: "/projects/soundcane/"
+- image: "/uploads/ramp%20under%20construction%20glory%20WEB.jpg"
+  image-caption: 'a dance ramp in progress: a 24 foot square dance landscape, made
+    of plywood, in anticipation of Alice Sheppard and Laurel Lawson''s visit.'
+  url: "/projects/danceramp/"
 - image: "/uploads/amanda carbon fiber layup.JPG"
   image-caption: our co-design of a portable, carbon fiber podium for short stature
     was a design-build for one, for Amanda Cachia
