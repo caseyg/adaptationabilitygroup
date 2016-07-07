@@ -2,6 +2,8 @@
 title: Critical Designer/Activist Engineer
 date: 2016-05-12 23:19:00 Z
 position: 1
+image: "/uploads/IMG_1324.jpg"
+image-caption: under construction / coming soon!
 comingsoon: true
 ---
 
