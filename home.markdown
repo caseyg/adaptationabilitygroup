@@ -27,10 +27,6 @@ grid:
   image-caption: in co-design with chris, our collaborator, students prototype a module
     socket for a single-use prosthetic arm
   url: "/projects/chriss-arm/"
-- image: "/uploads/chris leg WEB.jpg"
-  image-caption: to make a rock climbing apparatus for chris, one team explored a
-    leg mounted device for bracing
-  url: "/projects/chriss-arm/"
 - image: "/uploads/perkins_chair_action_web.jpg"
   image-caption: triple wall cardboard can be used for adaptive, low-cost furniture
     customized for and built by nearly any body
@@ -39,6 +35,10 @@ grid:
   image-caption: 'Carmen Papalia, an artist-collaborator, tests an early prototype
     for his acoustic mobility device: a cane that plays the environment like an instrument'
   url: "/projects/soundcane/"
+- image: "/uploads/chris leg WEB.jpg"
+  image-caption: to make a rock climbing apparatus for chris, one team explored a
+    leg mounted device for bracing
+  url: "/projects/chriss-arm/"
 layout: home
 ---
 
