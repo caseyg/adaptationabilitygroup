@@ -8,9 +8,9 @@ grid:
   image-caption: 'a dance ramp in progress: a 24 foot square dance landscape, made
     of plywood, in anticipation of Alice Sheppard and Laurel Lawson''s visit.'
   url: "/projects/danceramp/"
-- image: "/uploads/amanda carbon fiber layup.JPG"
-  image-caption: our co-design of a portable, carbon fiber podium for short stature
-    was a design-build for one, for Amanda Cachia
+- image: "/uploads/amanda%20in%20IN%20copy%20web.jpg"
+  image-caption: our co-design of a portable, collapsible podium for short stature
+    was a design-build for one, with Amanda Cachia
   url: "/projects/alterpodium/"
 - image: "/uploads/Papalia Talk 9.25.15-11.jpg"
   image-caption: artist carmen papalia led us on one of his 'blind field shuttles,'
