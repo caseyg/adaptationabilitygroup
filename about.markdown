@@ -3,7 +3,8 @@ title: about the lab
 date: 2016-06-03 19:38:00 Z
 position: 1
 welcome-text: 'The Adaptation + Ability Group is a lab for creative research on technology
-  + the body at **[Olin College](http://www.olin.edu/)**. We&apos;re interested in
+  + the body at **[Olin College](http://www.olin.edu/)**.' 
+subhead: 'We&apos;re interested in
   the encounters between humans and the built environment—especially when there&apos;s
   a mismatch between standardized design and the atypical body or mind. But we&apos;re
   also interested in critical questions about the future of the body: What counts
@@ -39,23 +40,23 @@ layout: about
 
 ## 1
 
-We use the terms "adaptive" and "assistive" technologies interchangeably when speaking casually or with newcomers to this field, but we use **the terms of *adaptation*** as often as possible. Why? Assistance usually implies linearity. A problem that needs fixing, that seeks a solution. But adaptation is flexible, rhizomatic, multi-directional. It implies a technological design that works in tandem, reciprocally, with the magnificence that is the human body in all its forms. Adaptation implies change over time. Adaptive systems might require the environment to shift, rather than the body. In short, we believe that [all technology is assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd#.a4rzzhel5)—and so we speak in terms of *adaptation*.
+We use the terms "adaptive" and "assistive" technologies interchangeably when speaking casually or with newcomers to this field, but we use **the terms of *adaptation*** as often as possible. Why? Assistance usually implies linearity. A problem that needs fixing, that seeks a solution. But adaptation is flexible, rhizomatic, multi-directional. It implies a technological design that works in tandem, reciprocally, with the magnificence that is the human body in all its forms. Adaptation implies change over time. Adaptive systems might require the environment to shift, rather than the body. In short, we believe that [all technology is assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd#.a4rzzhel5)—and so we speak in terms of *adaptation*.
 
 ## 2
 
-We **presume competence**. This exhortation is a central one in disability rights circles, and we proceed with it in mind as we work with our design partners. We don't claim our end-users are "suffering from" their conditions—unless they tell us they are. We speak directly to users themselves, not to caregivers or companions—unless we're directed to do so. We speak the way we'd speak to anyone, even if our partners don't use verbal language in return—until they request we do otherwise. We take **[a capabilities approach](http://en.wikipedia.org/wiki/Capabilities_approach)**.
+We **presume competence**. This exhortation is a central one in disability rights circles, and we proceed with it in mind as we work with our design partners. We don't claim our end-users are "suffering from" their conditions—unless they tell us they are. We speak directly to users themselves, not to caregivers or companions—unless we're directed to do so. We speak the way we'd speak to anyone, even if our partners don't use verbal language in return—until they request we do otherwise. We take **[a capabilities approach](http://en.wikipedia.org/wiki/Capabilities_approach)**.
 
 ## 3
 
-**We work in public**. Doing open and public research—including in the early stages—is central to our conviction that design for disability carries with it enormous political and cultural stakes. We research transparently, and we cultivate multiple and unusual publics for the work.
+**We work in public**. Doing open and public research—including in the early stages—is central to our conviction that design for disability carries with it enormous political and cultural stakes. We research transparently, and we cultivate multiple and unusual publics for the work.
 
 ## 4
 
-We spend some of our time **making things**, and some of our time **making things happen**.[^1] A lot of our effort is embodied in the design and prototyping process. But another significant portion of that effort is directed toward good narrative writing, documentation, event-wrangling, and networked practices. Design *can* be about a better mousetrap; it can also be—and indeed more often *should* be—a social practice.
+We spend some of our time **making things**, and some of our time **making things happen**.[^1] A lot of our effort is embodied in the design and prototyping process. But another significant portion of that effort is directed toward good narrative writing, documentation, event-wrangling, and networked practices. Design *can* be about a better mousetrap; it can also be—and indeed more often *should* be—a social practice.
 
 ## 5
 
-We actively seek a condition of **orchestrated adjacencies**: in topics, scales, and methods. Some of our projects attempt to influence industry: better designs, full stop. And some of our projects address issues of culture: symbolic, expressive, and playful work that [investigates normalcy](http://ablersite.org/investigating-normal/) and functionality. We want high-tech work right up alongside low-tech work. Cardboard at one end, and circuits and Arduino at the other. Materially and symbolically, adjacencies in real time create unusual resonances between and among projects. They expand the acceptable questions and categories of what counts as research. They force big-picture ideas to cohere with granular problem-solving.
+We actively seek a condition of **orchestrated adjacencies**: in topics, scales, and methods. Some of our projects attempt to influence industry: better designs, full stop. And some of our projects address issues of culture: symbolic, expressive, and playful work that [investigates normalcy](http://ablersite.org/investigating-normal/) and functionality. We want high-tech work right up alongside low-tech work. Cardboard at one end, and circuits and Arduino at the other. Materially and symbolically, adjacencies in real time create unusual resonances between and among projects. They expand the acceptable questions and categories of what counts as research. They force big-picture ideas to cohere with granular problem-solving.
 
 ## 6.
 

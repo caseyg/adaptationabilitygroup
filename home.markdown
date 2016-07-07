@@ -41,4 +41,3 @@ grid:
   url: "/projects/chriss-arm/"
 layout: home
 ---
-
