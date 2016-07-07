@@ -7,7 +7,7 @@ welcome-text: The Adaptation + Ability Group is a lab for creative research on t
 subhead: 'We&apos;re interested in the encounters between humans and the built environment—especially
   when there&apos;s a mismatch between standardized design and the atypical body or
   mind. But we&apos;re also interested in critical questions about the future of the
-  body: What counts as normal? **[See some projects >>](http://adaptationabilitygroup.siteleaf.net/projects/)**'
+  body: What counts as normal? **[See some projects >>](/projects/)**'
 people:
 - name: Sara Hendren
   bio: Lab Director. Sara Hendren is a design researcher, artist, and writer, and
