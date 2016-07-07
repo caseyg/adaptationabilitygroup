@@ -31,14 +31,14 @@ grid:
   image-caption: to make a rock climbing apparatus for chris, one team explored a
     leg mounted device for bracing
   url: "/projects/chriss-arm/"
-- image: "/uploads/cindy%20fork%20holder%20jpg.jpg"
-  image-caption: scraps of silicone hold a pen, a fork, and a knife, making daily
-    hand gestures adaptive and easy for cindy
-  url: "/projects/engineering-at-home/"
-- image: "/uploads/cardboard pieces.JPG"
+- image: "/uploads/perkins_chair_action_web.jpg"
   image-caption: triple wall cardboard can be used for adaptive, low-cost furniture
     customized for and built by nearly any body
-  url: "/courses/investigating-normal/"
+  url: "/courses/cardboard-carpentry-with-adaptive-design-association/"
+- image: "/uploads/Carmen%20testing%20sound%20cane.jpg"
+  image-caption: 'Carmen Papalia, an artist-collaborator, tests an early prototype
+    for his acoustic mobility device: a cane that plays the environment like an instrument'
+  url: "/projects/soundcane/"
 layout: home
 ---
 
