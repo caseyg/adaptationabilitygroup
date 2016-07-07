@@ -305,27 +305,8 @@ Final written reflection prompt:
 
 The medical and social models of disability may be understood as "sites" where disability originates or is manifest. In the medical model, disability appears to be located in an individual body: brokenness or deviation from the norm that requires assistive technologies and other supports to restore its functionality. In the social model, disability is born and lives in the environment and in social structures: architecture, educational systems, economies, transportation, and more. These two models shouldn't be seen as clear and clean opposites; they are really quite complex. Consider where and how disability lives in and among these models in one of two ways:
 
-
-
-
- 
-
-
-
-
 —in your project, including your engagement with users, your design decisions, and the anticipated outcome/deliverables, or
 
-
-
-
 —in your own experience or that of a close loved one: where do you recognize these factors at play, influencing daily decisions and life choices?
-
-
-
-
- 
-
-
-
 
 Defend your perspectives with evidence from your work or your reflections. Some questions you might engage are: How does your work interrupt the current paradigms of medical and social disability? What are your personal interpretations of these two paradigms that may have shifted as a result of your involvement in the course? Looking forward, how does your involvement with this work allow you to engage with field of disabilities? Where would this work be positioned vis-à-vis the two paradigms? 
