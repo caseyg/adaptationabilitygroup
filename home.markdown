@@ -23,10 +23,10 @@ grid:
 - image: "/uploads/aplusa-cardboard.jpg"
   image-caption: 
   url: "/about/"
-- image: "/uploads/cindyportrait.jpg"
-  image-caption: the rubber tubing that holds cindy's eyeliner makes it possible for
-    her to grip this tool with atypical hands
-  url: "/projects//engineering-at-home/"
+- image: "/uploads/chris%20trying%20WEB-b3e854.jpg"
+  image-caption: in co-design with chris, our collaborator, students prototype a module
+    socket for a single-use prosthetic arm
+  url: "/projects/chriss-arm/"
 - image: "/uploads/chris leg WEB.jpg"
   image-caption: to make a rock climbing apparatus for chris, one team explored a
     leg mounted device for bracing
