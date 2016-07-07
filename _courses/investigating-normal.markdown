@@ -38,7 +38,7 @@ It's worth mentioning right up front that you should divest yourself of the comm
 Be aware, first, that a central tenet of this class is that [_all_ technology is assistive technology](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd): No matter what kind of body you inhabit, you are getting assistance from your devices and extensions and proxies every single day. And second, gird yourself with a proper humility: Ask lots of questions, do the research on precedent tools, and respect the stunning sensory organism that is the living, breathing, adaptive human body. White canes, ankle braces, and assistance animals, after all, are extraordinarily sophisticated prostheses. Digital tools offer unique capabilities, yes—but they're not inherently "smart" because of their digital nature. The point here is to see ability and disability as an exciting, expansive lens with which to think about many bodies and many kinds of needs.
 
 Finally: This video with Judith Butler and Sunaura Taylor is a kind of manifesto, a solid frame from which the ethos of the course proceeds. Please watch early and often:
-[youtube=http://www.youtube.com/watch?v=k0HZaPkF6qE&w=560&h=315]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k0HZaPkF6qE" frameborder="0" allowfullscreen></iframe>
 
 
 ## Basics
