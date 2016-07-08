@@ -3,33 +3,25 @@ title: about the lab
 date: 2016-06-03 19:38:00 Z
 position: 1
 welcome-text: The Adaptation + Ability Group is a lab for creative research on technology
-  + the body at **[Olin College](http://www.olin.edu/)**.
-subhead: 'We&apos;re interested in the encounters between humans and the built environment—especially
+  + the body at [Olin College](http://www.olin.edu/).
+subhead: '**We&apos;re interested in** the encounters between humans and the built environment—especially
   when there&apos;s a mismatch between standardized design and the atypical body or
   mind. But we&apos;re also interested in critical questions about the future of the
   body: What counts as normal? **[See some projects >>](/projects/)**'
 people:
-- name: Sara Hendren
-  bio: Lab Director. Sara Hendren is a design researcher, artist, and writer, and
+- bio: Lab Director **[Sara Hendren](http://ablersite.org)** is a design researcher, artist, and writer, and
     she teaches human-centered design  for engineers as assistant professor at Olin
     College.  You can read more about her background and other projects by clicking
     on her name at the top of this page.
-  url: http://ablersite.org
   image: "/uploads/sara%20headshot%20better%20web.JPG"
-- name: Toni Saylor
-  url: 
-  image: "/uploads/Application_Picture.jpg"
+- image: "/uploads/Application_Picture.jpg"
   bio: |
-    Toni Saylor is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner for a course called Engineering for Humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She loves researching for Sara and has been doing so for a year.
-- name: Annabel Consilvio
-  url: http://aconsilvio.github.io/
-  image: "/uploads/Annabel_Headshot.jpeg"
-  bio: Annabel Consilvio is a junior studying software product design at Olin College
-    of Engineering.  She focuses on projects in the realm of accessibility and is
+    **Toni Saylor** is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner for a course called Engineering for Humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She loves researching for Sara and has been doing so for a year.
+- image: "/uploads/Annabel_Headshot.jpeg"
+  bio: |
+    [**Annabel Consilvio**](http://aconsilvio.github.io/) is a junior studying software product design at Olin College of Engineering.  She focuses on projects in the realm of accessibility and is
     specifically interested in how accessibility is approached in future technologies.  In
     her free time, she likes to bake and study design.
-  Key: 
-Field name: 
 layout: about
 ---
 

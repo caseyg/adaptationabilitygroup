@@ -5,15 +5,20 @@ layout: default
 <main class="main">
   <div class="content">
     {% include shared-includes/lead.html %}
-    {% include shared-includes/subhead.html %}
-    <h2>People</h2>
-    <div class="cards cards--four">
-			{% for item in page.people %}
-				{% include person.html %}
-			{% endfor %}
-		</div>
+    <section>
+      {% include shared-includes/subhead.html %}
+    </section>
+    <section class="section--threequarter">
+      <h2>People</h2>
+      <div class="cards cards--three">
+  			{% for item in page.people %}
+  				{% include person.html %}
+  			{% endfor %}
+  		</div>
+    </section>
     <hr>
-
-    {{ content | markdownify }}
+    <section class="section--threequarter">
+      {{ content | markdownify }}
+    </section>
   </div>
 </main>
