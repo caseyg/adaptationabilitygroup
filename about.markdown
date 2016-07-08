@@ -4,15 +4,15 @@ date: 2016-06-03 19:38:00 Z
 position: 1
 welcome-text: The Adaptation + Ability Group is a lab for creative research on technology
   + the body at [Olin College](http://www.olin.edu/).
-subhead: '**We&apos;re interested in** the encounters between humans and the built environment—especially
-  when there&apos;s a mismatch between standardized design and the atypical body or
-  mind. But we&apos;re also interested in critical questions about the future of the
-  body: What counts as normal? **[See some projects >>](/projects/)**'
+subhead: "**We&apos;re interested in** the encounters between humans and the built
+  environment—especially when there&apos;s a mismatch between standardized design
+  and the atypical body or mind. But we&apos;re also interested in critical questions
+  about the future of the body: What counts as normal? **[See some projects >>](/projects/)**"
 people:
-- bio: Lab Director **[Sara Hendren](http://ablersite.org)** is a design researcher, artist, and writer, and
-    she teaches human-centered design  for engineers as assistant professor at Olin
-    College.  You can read more about her background and other projects by clicking
-    on her name at the top of this page.
+- bio: Lab Director **[Sara Hendren](http://ablersite.org)** is a design researcher,
+    artist, and writer, and she teaches human-centered design  for engineers as assistant
+    professor at Olin College.  You can read more about her background and other projects
+    by clicking on her name at the top of this page.
   image: "/uploads/sara%20headshot%20better%20web.JPG"
 - image: "/uploads/Application_Picture.jpg"
   bio: |
