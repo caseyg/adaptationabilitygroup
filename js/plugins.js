@@ -1,10 +1,3 @@
-// fitvids
-
-$(document).ready(function(){
-  // Target your .container, .wrapper, .post, etc.
-  $("article").fitVids();
-});
-
 // TOC
 
 var ToC =
