@@ -36,3 +36,9 @@ ToC +=
   "</nav>";
 
 $("#toc").append(ToC);
+
+imgix.init({
+  srcAttribute: 'data-src',
+  srcsetAttribute: 'data-srcset',
+  sizesAttribute: 'data-sizes'
+})

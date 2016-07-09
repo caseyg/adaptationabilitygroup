@@ -5,11 +5,13 @@ layout: default
 {% assign item = page %}
 <main class="main">
   <div class="content">
-    {% include shared-includes/title-headline.html %}
-    {% include shared-includes/date-month-day-year.html %}
-    {% include shared-includes/byline.html %}
-    {% include shared-includes/image-head.html %}
-    {{ page.content | markdownify }}
-    {% include shared-includes/page.html %}
+    <article>
+      {% include shared-includes/title-headline.html %}
+      {% include shared-includes/byline.html %}
+      {% include shared-includes/date-month-day-year.html %}
+      {% include shared-includes/image-head.html %}
+      {{ page.content | markdownify }}
+      {% include shared-includes/page.html %}
+    </article>
   </div>
 </main>
