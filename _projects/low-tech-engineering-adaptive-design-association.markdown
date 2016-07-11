@@ -8,17 +8,29 @@ image-caption: 'Students sit on cardboard furniture and adaptations tailored to 
 date-display: September 2014–ongoing
 ---
 
+{% include shared-includes/image.html
+  image=""
+  image-caption="" %}
+
 ![A cardboard chair from Perkins School for the Blind, with adjustable foot rests for customized support.](/uploads/perkins_chair_action_web.jpg)
 
 We're working as a satellite site of the [Adaptive Design Association](http://www.adaptivedesign.org/), a New York City non-profit that builds accessible, low tech adaptive furniture and devices for young people.
 
 After Sara took the three-day intensive course in New York City and did independent research and training with its counterpart, the Assistive Device Center at the Perkins School for the Blind, ADA invited the a+a lab to form local partnerships of our own—to spread these basic fabrication techniques, but mostly to foster a disposition toward human difference and atypicality: a disposition toward affordable materials and customized adaptation for individuals, not at scale.
 
+{% include shared-includes/image.html
+  image=""
+  image-caption="" %}
+
 [Alex Truesdell, director of ADA, describes the properties of cardboard to Olin students.JPG](/uploads/alex%20in%20IN%20cardboard.JPG)
 
 ADA director Alex Truesdell, who got her start in occupational therapy at Perkins, came to visit Investigating Normal in the spring 2015 class. She introduced students to the history of ADA's work and client-partners, spoke about the incredibly robust properties of a humble technology like triple-wall cardboard, and walked students through some basic techniques.
 
 ADA and Perkins both deliberately create workshops that are radically democratized, on purpose: they use the back handle of a spoon for scoring folds, and sharp kitchen knives for some of the cuts, and simple wooden dowels for nails. (And band saws, and jigsaws, and clamps and glue.) It's designed to be a place for anyone to access with an idea for altering or replacing the designed products we typically receive from mass manufacturing streams.
+
+{% include shared-includes/image.html
+  image=""
+  image-caption="" %}
 
 [Pieces of cardboard that slot together for a stool.](/uploads/cardboard%20pieces-55e147.JPG)
 
@@ -30,15 +42,23 @@ The basics of cardboard carpentry are now a standard part of [Investigating Norm
 
 In the spirit of ADA, students in the spring 2015 class worked with the [Walker School](http://www.walkercares.org/) in Needham to design some low tech adaptive furniture. Walker teachers told the team about their needs for some kind of coverings for classroom chairs to make them sensory havens—spaces of protection and calm, without possibility for injury. Like a private cave as a respite, with simple materials. They wanted something in the spirit of a library carrel without the potential to cause harm with its heft and edges.
 
-[An annotated sketch on a whiteboard shows the needs for the chair, .JPG](/uploads/walker%20school%20sketch%20whiteboard.JPG)
+{% include shared-includes/image.html
+  image="/uploads/walker%20school%20sketch%20whiteboard.JPG"
+  image-caption="An annotated sketch on a whiteboard shows the needs for the chair." %}
 
 They're designed for students who have sensory processing disorders that may result from psycho-social challenges or atypicality on the autism spectrum. Students iterated through a number of possibilities, eventually arriving at this felt model:
 
-[Simple toggles and cording secure a felt canopy that wraps u-shaped around the back of a standard child's classroom chair.](/uploads/walker%20chair%20tying.JPG)
+{% include shared-includes/image.html
+  image="/uploads/walker%20chair%20tying.JPG"
+  image-caption="Simple toggles and cording secure a felt canopy that wraps u-shaped around the back of a standard child's classroom chair." %}
 
-[An Olin student models sitting in the chair with felted canopy drawn close, the height of which would provide total coverage for a school-age child.](/uploads/walker%20chair%20sitting%20model.JPG)
+{% include shared-includes/image.html
+  image="/uploads/walker%20chair%20sitting%20model.JPG"
+  image-caption="An Olin student models sitting in the chair with felted canopy drawn close, the height of which would provide total coverage for a school-age child." %}
 
-[walker model holding packed.JPG](/uploads/walker%20model%20holding%20packed.JPG)
+{% include shared-includes/image.html
+  image="/uploads/walker%20model%20holding%20packed.JPG"
+  image-caption="walker model holding packed.JPG" %}
 
 The final prototype packed up easily for portability and was made for easy replication: commonly available craft materials and simple fabrication techniques.
 

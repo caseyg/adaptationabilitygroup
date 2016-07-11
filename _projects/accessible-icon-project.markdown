@@ -12,6 +12,10 @@ The [Accessible Icon Project](http://accessibleicon.org/) is an open-source, ong
 
 The following are some images from the project's early days, its later iteration as formal design, and some events and partnerships. You can also see more on [social media](https://www.facebook.com/accessibleicon).
 
-![screenshot of the icon in its various files, free for download on our web site](/uploads/get%20the%20icon%20screenshot%20jpg.jpg)
+{% include shared-includes/image.html
+  image="/uploads/get%20the%20icon%20screenshot%20jpg.jpg"
+  image-caption="screenshot of the icon in its various files, free for download on our web site" %}
 
-![The icon at Gettysburg college, integrated in restroom signage](/uploads/gettysburg%20college.jpg)
+{% include shared-includes/image.html
+  image="/uploads/gettysburg%20college.jpg"
+  image-caption="The icon at Gettysburg college, integrated in restroom signage" %}
