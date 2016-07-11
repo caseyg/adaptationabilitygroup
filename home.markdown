@@ -2,7 +2,7 @@
 title: home
 date: 2016-05-01 14:06:00 Z
 permalink: "/"
-position: 1
+position: 0
 grid:
 - image: "/uploads/ramp%20under%20construction%20glory%20WEB-6c7348.jpg"
   image-caption: 'a dance ramp in progress: a 24 foot square dance landscape, made
