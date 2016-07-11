@@ -39,7 +39,7 @@ Students then spent time building out ramps—connected in modular, mutable fash
 
 {% include shared-includes/image.html
   image="/uploads/alice%20and%20two%20ramps.jpg"
-  image-caption="Alice played among these ramps f" %}
+  image-caption="Alice played among these ramps, to test speed, turns, and choreography among the structures." %}
 
 Now with a better idea of the slopes and ranges of movement Alice was seeking, students set about making a new design—one that turned out to be monumental in scale, an entire landscape. They made some paper models:
 
