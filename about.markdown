@@ -18,10 +18,14 @@ people:
   bio: |
     **Toni Saylor** is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner for a course called Engineering for Humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She loves researching for Sara and has been doing so for a year.
 - image: "/uploads/Annabel_Headshot.jpeg"
-  bio: |
-    [**Annabel Consilvio**](http://aconsilvio.github.io/) is a junior studying software product design at Olin College of Engineering.  She focuses on projects in the realm of accessibility and is
-    specifically interested in how accessibility is approached in future technologies.  In
-    her free time, she likes to bake and study design.
+  bio: "[**Annabel Consilvio**](http://aconsilvio.github.io/) is a junior studying
+    software product design at Olin College of Engineering.  She focuses on projects
+    in the realm of accessibility and is specifically interested in how accessibility
+    is approached in upcoming technologies.  During the summer of 2016, she worked
+    as a front-end developer on a design team at IBM Design. Before that she worked
+    on web development for an after school program in Mississippi and on a semester-long
+    design project with local, organic farmers across Massachusetts.  In her free
+    time, she likes to bake and play board games. \n"
 - image: "/uploads/william%20lu%20headshot.jpg"
   bio: William Lu, Olin '18, bio coming soon!
 layout: about
