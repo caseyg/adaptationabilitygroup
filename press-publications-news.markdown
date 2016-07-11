@@ -6,7 +6,7 @@ position: 5
 
 The [Engineering at Home](http://engineeringathome.org/) project will be included in an exhibition on the future of design at the Victoria & Albert Museum in London, spring 2017.
 
-Collaborator Amanda Cachia's essay on the Alterpodium will appear in an upcoming issue of [Design and Culture](http://www.tandfonline.com/toc/rfdc20/current). Details to come.
+Collaborator Amanda Cachia's essay on the Alterpodium and our work together will appear in an upcoming issue of [Design and Culture](http://www.tandfonline.com/toc/rfdc20/current). Details to come.
 
 Mary Martin presented work on accessibility as part of a panel at the [Technology, Design, and Social Impact](https://bostoncivicmediadesigntechn2016.sched.org/) conference, June 10, 2016, hosted by the [Boston Civic Media](https://www.bostoncivic.media/) consortium. 
 
