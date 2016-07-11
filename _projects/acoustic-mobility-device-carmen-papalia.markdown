@@ -5,12 +5,6 @@ image: "/uploads/carmen%20testing%20out%20amped%20cane.jpg"
 image-caption: Carmen tests a cane with audio—hooked up to an amplifier and microphone,
   it now senses and "plays" the environment.
 date-display: September 2015–ongoing
-collaborators:
-- Carmen Papalia
-- Saarth Mehotra
-- Sam Kumaresthena
-- Daniel Leong
-- 'Paul '
 ---
 
 In fall 2015, artist Carmen Papalia came for what's known at Olin as a "micro-residency"—a visit of several days that included an artist's talk, meetings with students, class visits, and more.
