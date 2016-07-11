@@ -8,17 +8,19 @@ layout: default
     <section>
       {% include shared-includes/subhead.html %}
     </section>
-    <section class="section--threequarter">
+    <section class="section">
       <h2>People</h2>
-      <div class="cards cards--three">
+      <div class="cards cards--four">
   			{% for item in page.people %}
   				{% include shared-includes/person.html %}
   			{% endfor %}
   		</div>
     </section>
     <hr>
-    <section class="section--threequarter">
+    <section class="section">
+      <article class="article--dropcaps article--nosubtitle">
       {{ content | markdownify }}
+      </article>
     </section>
   </div>
 </main>
