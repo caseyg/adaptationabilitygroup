@@ -9,4 +9,3 @@ subhead: Projects may get their start through the "test kitchen" of Sara Hendren
   or stand alone as ongoing collaborations.
 layout: projects
 ---
-

@@ -3,6 +3,7 @@ title: publications + news
 date: 2016-07-11 17:01:00 Z
 position: 5
 layout: publications-news
+welcome-text: In recent news…
 ---
 
 The [Engineering at Home](http://engineeringathome.org/) project will be included in an exhibition on the future of design at the Victoria & Albert Museum in London, spring 2017.
