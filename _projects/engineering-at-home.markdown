@@ -5,6 +5,7 @@ image: "/uploads/cindyportrait-a6e7fe.jpg"
 image-caption: Cindy, who lost most of all her fingers following complications from
   a heart attack, uses an eyeliner pencil encased in rubber tubing for easy application.
 date-display: June 2015–February 2016
+subtitle: with Caitrin Lynch and Cindy
 ---
 
 {% include shared-includes/image.html
