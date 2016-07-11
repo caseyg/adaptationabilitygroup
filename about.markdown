@@ -22,6 +22,8 @@ people:
     [**Annabel Consilvio**](http://aconsilvio.github.io/) is a junior studying software product design at Olin College of Engineering.  She focuses on projects in the realm of accessibility and is
     specifically interested in how accessibility is approached in future technologies.  In
     her free time, she likes to bake and study design.
+- image: "/uploads/william%20lu%20headshot.jpg"
+  bio: William Lu, Olin '18, bio coming soon!
 layout: about
 ---
 
