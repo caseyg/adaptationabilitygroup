@@ -31,7 +31,7 @@ people:
 layout: about
 ---
 
-## Guidelines for an adaptive technology working group.
+# Guidelines for an adaptive technology working group.
 
 *Sara Hendren wrote this as a "manifesto" for the lab before its inception in September 2014. It still holds as a true north for the lab's work.*
 
