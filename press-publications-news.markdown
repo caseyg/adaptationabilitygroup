@@ -1,5 +1,5 @@
 ---
-title: press, publications, + news
+title: publications + news
 date: 2016-07-11 17:01:00 Z
 position: 5
 ---
