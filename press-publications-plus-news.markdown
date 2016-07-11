@@ -7,7 +7,7 @@ The [Engineering at Home](http://engineeringathome.org/) project will be include
 
 Collaborator Amanda Cachia's essay on the Alterpodium will appear in an upcoming issue of [Design and Culture](http://www.tandfonline.com/toc/rfdc20/current). Details to come.
 
-Mary Martin presented work on accessibility on a panel at the [Technology, Design, and Social Impact](https://bostoncivicmediadesigntechn2016.sched.org/) conference, June 10, 2016, hosted by the [Boston Civic Media](https://www.bostoncivic.media/) consortium. 
+Mary Martin presented work on accessibility as part of a panel at the [Technology, Design, and Social Impact](https://bostoncivicmediadesigntechn2016.sched.org/) conference, June 10, 2016, hosted by the [Boston Civic Media](https://www.bostoncivic.media/) consortium. 
 
 Collaborator Carmen Papalia presented the Acoustic Mobility Device in Toronto at [Cripping the Stage: A Disability Arts Cabaret](https://ca.venyoo.com/event/s2088500-cripping-the-stage-a-disability-arts-cabaret), April 30, 2016.
 
