@@ -1,11 +1,11 @@
 ---
 title: Ramp
-subtitle: with Alice Sheppard
 image: "/uploads/alice%20and%20laurel%20facing%20above-bfb4d2.jpg"
 image-caption: An aerial shot of students building a 24-foot square wooden ramp, a
   stage landscape for dancer/choreographer Alice Sheppard and her collaborator, Laurel
   Lawson.
 date-display: January 2016–ongoing
+subtitle: with Alice Sheppard
 ---
 
 Dancer and choreographer [Alice Sheppard](http://alicesheppard.com/) approached us with an irresistible design brief: a large-scale ramp for dancing on stage. She contacted Sara in fall 2015, asking to collaborate, and the project found a home in an Olin course—not the usual test kitchen, Investigating Normal, but in an introductory physics class with professor Yevgeniya Zastavker. The challenge was to house the operations of the inclined plane, or ramp, in an expressive physics—an exploration of its resistance, acceleration, and its affordances not for access, but for choreography.
@@ -14,11 +14,11 @@ Alice came to campus in March for what we're calling at Olin a "micro-residency"
 
 {% include shared-includes/image.html
   image="/uploads/alice%20artists%20talk.jpg"
-  image-caption="" %}
+  image-caption="Alice gave an artist's talk and performed on her first day on campus." %}
 
 {% include shared-includes/image.html
   image="/uploads/alice%20campus%20audit.jpg"
-  image-caption="" %}
+  image-caption="As a class, we toured around campus with Alice, investigating her experience of its various exterior inclines." %}
 
 We made a provisional dance studio with floor tiles that our student dance club uses, and we borrowed mirrors from our colleagues over at Babson College's theater group.
 
