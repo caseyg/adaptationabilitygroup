@@ -7,9 +7,6 @@ image: "/uploads/sock_double_blue_truck_web.jpg"
 
 # SYLLABUS
 
-
-
-
 ## **ENGR 3299   Investigating Normal: Adaptive and Assistive Technologies**
 
 Fall 2015
@@ -68,7 +65,7 @@ Services for students with learning disabilities may include, but are not limit
 I assume that all of us learn in different ways, and that the organization of any course will accommodate each student differently. Please talk to me as soon as you can about your individual learning needs and how this course can best accommodate them. Even if you do not have a documented disability, remember that other support services are available to all students.
 
 
-## Class 1, Friday 9/4: Overview
+### Class 1, Friday 9/4: Overview
 
 
 Course overview. Introductions, themes of course and broad introduction to key concepts, plus lots of projects. Dispositions for the designer and disability. The relationship of the class to the larger lab and a broad net for possible collaborations and research. Narratives of disability.
