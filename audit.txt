@@ -1,0 +1,29 @@
+
+localhost:4000
+
+  ✖ Elements with ARIA roles must use a valid, non-abstract ARIA role
+
+  #footer
+
+  ✖ The web page should have the content's human language indicated in the markup
+
+  html
+
+  ✖ The purpose of each link should be clear from the link text
+
+  body > .nav--cross > .nav__list > .nav__item.nav__item--last.nav__item--icon > .nav__link
+  body > .nav--cross > .nav__list > LI:nth-of-type(5) > .nav__link
+
+
+  ✔ This element does not support ARIA roles, states and properties
+  ✔ Elements with ARIA roles must be in the correct scope
+  ✔ This element has an invalid ARIA attribute
+  ✔ ARIA state and property values must be valid
+  ✔ These elements are focusable but either invisible or obscured by another element
+  ✔ Images should have a text alternative or presentational role
+  ✔ Text elements should have a reasonable contrast ratio
+  ✔ Meaningful images should not be used in element backgrounds
+  ✔ The web page should have a title that describes topic or purpose
+  ✔ Elements with ARIA roles must have all required attributes for that role
+  ✔ This element has an unsupported ARIA attribute
+
