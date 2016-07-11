@@ -11,6 +11,8 @@ Mary Martin presented work on accessibility on a panel at the [Technology, Desig
 
 Collaborator Carmen Papalia presented the Acoustic Mobility Device in Toronto at [Cripping the Stage: A Disability Arts Cabaret](https://ca.venyoo.com/event/s2088500-cripping-the-stage-a-disability-arts-cabaret), April 30, 2016.
 
+"[Physics + dance + wheelchair = Art](https://www.bostonglobe.com/metro/regionals/west/2016/04/20/physics-dance-wheelchair-art/KEYJEbL4O04uLBDToTFDdM/story.html)," coverage of our ramp work, in the Boston Globe, April 2016.
+
 Investigating Normal students Grace Ahn '16 and ELizabeth Doyle '16 presented their work on the prosthetic socket project at the [Open Hardware Summit](http://2015.oshwa.org/program/), September 2015.
 
 Sara Hendren's ongoing project, *Slope : Intercept*, will be part of the biennial exhibition, [Media City Seoul](http://www.mediacityseoul.kr/). She and Alice Sheppard and lab alum [Adit Dhanushkodi](http://aditd.me/) will travel to Seoul in August, 2016 for opening performances and workshops.
