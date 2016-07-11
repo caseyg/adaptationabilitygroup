@@ -1,5 +1,6 @@
 ---
 title: Investigating Normal
+subhead: Ask lots of questions, do the research on precedent tools, and respect the stunning sensory organism that is the living, breathing, adaptive human body. White canes, ankle braces, and assistance animals, after all, are extraordinarily sophisticated prostheses.
 date: 2016-05-12 23:18:00 Z
 position: 0
 image: "/uploads/sock_double_blue_truck_web.jpg"
