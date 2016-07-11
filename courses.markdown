@@ -7,3 +7,4 @@ subhead: '_Investigating Normal: Adaptive and Assistive Technologies_, a design 
   2016. A new class, _Critical Designer/Activist Engineer_, also starts in 2016.'
 layout: courses
 ---
+
