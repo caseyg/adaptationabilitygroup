@@ -6,7 +6,7 @@ subhead: Ask lots of questions, do the research on precedent tools, and respect 
   stunning sensory organism that is the living, breathing, adaptive human body. White
   canes, ankle braces, and assistance animals, after all, are extraordinarily sophisticated
   prostheses.
-image: "/uploads/sock_double_blue_truck_web.jpg"
+image: "/uploads/investigatingnormal-crop.jpg"
 ---
 
 # SYLLABUS
