@@ -4,10 +4,11 @@ date: 2016-06-03 19:38:00 Z
 position: 1
 welcome-text: The adaptation + ability group is a lab for creative research on technology
   + the body at [Olin College](http://olin.edu).
-subhead: |
-  **We&apos;re interested in** the encounters between humans and the built environment—especially when there&apos;s a mismatch between standardized design and the atypical body or mind. But we&apos;re also interested in critical questions about the future of the body: What counts as normal?  
-
-  Read on to [meet our **people**]( #people) and [read the **manifesto**](#manifesto).
+subhead: "**We&apos;re interested in** the encounters between humans and the built
+  environment—especially when there&apos;s a mismatch between standardized design
+  and the atypical body or mind. But we&apos;re also interested in critical questions
+  about the future of the body: What counts as normal?  \n\nRead on to [meet our **people**](
+  #people) and [read the **manifesto**](#manifesto).\n"
 people:
 - bio: Lab Director **[Sara Hendren](http://ablersite.org)** is a design researcher,
     artist, and writer, and she teaches human-centered design  for engineers as assistant
