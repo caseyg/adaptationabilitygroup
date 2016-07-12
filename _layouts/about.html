@@ -4,20 +4,20 @@ layout: default
 
 <main class="main">
   <div class="content">
-    {% include shared-includes/lead.html %}
-    <section>
+    <header class="header--page">
+      {% include shared-includes/lead.html %}
       {% include shared-includes/subhead.html %}
-    </section>
-    <section class="section">
+    </header>
+    <section class="section" id="people">
       <h2>People</h2>
-      <div class="cards cards--four">
+      <div class="cards xs-cards--float cards--four">
   			{% for item in page.people %}
   				{% include shared-includes/person.html %}
   			{% endfor %}
   		</div>
     </section>
     <hr>
-    <section class="section">
+    <section class="section" id="manifesto">
       <article class="article article--center article--dropcaps article--nosubtitle">
       {{ content | markdownify }}
       </article>

@@ -4,8 +4,10 @@ layout: default
 
 <main class="main">
 	<div class="content">
-		{% include shared-includes/lead.html text=page.welcome-text %}
-		{% include shared-includes/subhead.html %}
+		<header class="header--page">
+			{% include shared-includes/lead.html %}
+			{% include shared-includes/subhead.html %}
+		</header>
 		<div class="cards cards--two">
 			{% for item in site.courses %}
 				{% include shared-includes/course.html %}

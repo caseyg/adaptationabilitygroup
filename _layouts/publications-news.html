@@ -5,7 +5,9 @@ layout: default
 {% assign item = page %}
 <main class="main">
   <div class="content">
-    {% include shared-includes/lead.html text=page.welcome-text %}
+    <header class="header--page">
+      {% include shared-includes/lead.html %}
+    </header>
     <article class="article article--center">
       {{ page.content | markdownify }}
     </article>

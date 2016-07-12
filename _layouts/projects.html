@@ -4,13 +4,14 @@ layout: default
 
 <main class="main">
 	<div class="content">
-		{% include shared-includes/lead.html text=page.welcome-text %}
-		{% include shared-includes/subhead.html %}
+		<header class="header--page">
+			{% include shared-includes/lead.html %}
+			{% include shared-includes/subhead.html %}
+		</header>
 		<div class="cards cards--three">
 			{% for item in site.projects reversed %}
 				{% include shared-includes/project.html %}
 			{% endfor %}
 		</div>
-		{{ content | markdownify }}
 	</div>
 </main>
