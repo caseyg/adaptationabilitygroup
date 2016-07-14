@@ -10,10 +10,9 @@ subhead: "**We&apos;re interested in** the encounters between humans and the bui
   about the future of the body: What counts as normal?  \n\nRead on to [meet our **people**](
   #people) and [read the **manifesto**](#manifesto).\n"
 people:
-- bio: Lab Director **[Sara Hendren](http://ablersite.org)** is a design researcher,
+- bio: 'Lab Director **[Sara Hendren](http://ablersite.org)** is a design researcher,
     artist, and writer, and she teaches human-centered design  for engineers as assistant
-    professor at Olin College.  You can read more about her background and other projects
-    by clicking on her name at the top of this page.
+    professor at Olin College. '
   image: "/uploads/sara%20headshot%20better%20web.JPG"
 - image: "/uploads/Application_Picture.jpg"
   bio: |
