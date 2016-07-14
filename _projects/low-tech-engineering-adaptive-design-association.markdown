@@ -12,17 +12,13 @@ subtitle: with Adaptive Design Association
   image="/uploads/perkins_chair_action_web.jpg"
   image-caption="A cardboard chair from Perkins School for the Blind, with adjustable foot rests for customized support." %}
 
-![A cardboard chair from Perkins School for the Blind, with adjustable foot rests for customized support.](/uploads/perkins_chair_action_web.jpg)
-
 We're working as a satellite site of the [Adaptive Design Association](http://www.adaptivedesign.org/), a New York City non-profit that builds accessible, low tech adaptive furniture and devices for young people.
 
 After Sara took the three-day intensive course in New York City and did independent research and training with its counterpart, the Assistive Device Center at the Perkins School for the Blind, ADA invited the a+a lab to form local partnerships of our own—to spread these basic fabrication techniques, but mostly to foster a disposition toward human difference and atypicality: a disposition toward affordable materials and customized adaptation for individuals, not at scale.
 
 {% include shared-includes/image.html
-  image=""
-  image-caption="" %}
-
-[Alex Truesdell, director of ADA, describes the properties of cardboard to Olin students.JPG](/uploads/alex%20in%20IN%20cardboard.JPG)
+  image="/uploads/alex%20in%20IN%20cardboard.JPG"
+  image-caption="Alex Truesdell, director of ADA, describes the properties of cardboard to Olin students." %}
 
 ADA director Alex Truesdell, who got her start in occupational therapy at Perkins, came to visit Investigating Normal in the spring 2015 class. She introduced students to the history of ADA's work and client-partners, spoke about the incredibly robust properties of a humble technology like triple-wall cardboard, and walked students through some basic techniques.
 
