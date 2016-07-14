@@ -1,23 +1,19 @@
 ---
 title: Limb
 date: 2016-06-01 00:27:00 Z
-subtitle: with Chris Hinojosa
 image: "/uploads/limb-crop.jpg"
 image-caption: Chris Hinojosa, born with one arm but not a prosthesis user, tries
   on an early prototype for a modular socket that would accommodate single use extensions,
   like one for rock climbing or biking.
 date-display: January 2015—ongoing
+subtitle: with Chris Hinojosa
 ---
-
-Team: Grace Ahn, Myles Cooper, Elizabeth Doyle, Michael Searing, Jennifer Anderson, Brandon Chiou, Julianne Jorgensen, Brooks Willis, Mei-Lang Xiong, Sara Hendren
 
 Chris Hinojosa, an engineer born with one arm, always refused the "universal" high-tech artificial limbs that were made for him growing up. His body was more adaptive without machinic gear; instead, his workarounds for daily life are made possible with relatively simple adaptations and alternately choreographed physicality. When he first visited [Investigating Normal](http://adaptationabilitygroup.siteleaf.net/courses/investigating-normal/) in spring 2015, he showed us how he gathers his hair into a ponytail and dons a sterile glove in his work environment.
 
 {% include shared-includes/image.html
-  image=""
-  image-caption="" %}
-
-![Chris shows us in a video how he gathers his hair.](/uploads/chris%20ponytail%20still%20jpg.jpg)
+  image="/uploads/chris%20ponytail%20still%20jpg.jpg"
+  image-caption="Chris shows us in a video how he gathers his hair." %}
 
 Chris's presence in an engineering class is a powerful corrective to the typical assumptions among young technically minded designers about disability. Not everyone is looking for a fix.
 
@@ -57,3 +53,5 @@ Team socket was inspired by the physics of this compression model; they wanted t
   image-caption="Chris discusses the features of a metal leg wearable, one idea that team extension had for augmenting his body for climbing." %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hOEHUjIAuZM" frameborder="0" allowfullscreen></iframe>
+
+Team: Grace Ahn, Myles Cooper, Elizabeth Doyle, Michael Searing, Jennifer Anderson, Brandon Chiou, Julianne Jorgensen, Brooks Willis, Mei-Lang Xiong, Sara Hendren
