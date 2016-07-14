@@ -2,11 +2,13 @@
 title: Investigating Normal
 date: 2016-05-12 23:18:00 Z
 position: 0
+image: "/uploads/investigatingnormal-crop.jpg"
+image-caption: Two people stand in body socks—informal prosthetics and performative
+  wearables— in a public plaza. From Sara Hendren's project, Unknown Armature.
 subhead: Ask lots of questions, do the research on precedent tools, and respect the
   stunning sensory organism that is the living, breathing, adaptive human body. White
   canes, ankle braces, and assistance animals, after all, are extraordinarily sophisticated
   prostheses.
-image: "/uploads/investigatingnormal-crop.jpg"
 ---
 
 # Syllabus, Fall 2015
