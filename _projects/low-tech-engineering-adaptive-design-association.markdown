@@ -28,6 +28,14 @@ ADA and Perkins both deliberately create workshops that are radically democratiz
   image="/uploads/cardboard%20pieces-55e147.JPG"
   image-caption="Pieces of cardboard that slot together for a stool." %}
 
+{% include shared-includes/image.html
+  image="/uploads/ada%20chair%20positioning%20jpg.jpg"
+  image-caption="ADA partners co-design and fit a chair for a small child." %}
+
+{% include shared-includes/image.html
+  image="/uploads/ada%20tricycle%20jpg.jpg"
+  image-caption="A child rides an adaptive bicycle, made of cardboard and PVC pipe." %}
+
 That means that a student or anyone in her ecology of care can have an idea, try something out, see what works: a parent, a teacher, a clinician, anyone. And the materials and labor—robust but affordable, and quick to assemble—mean that missteps and failures aren't catastrophic. How can you tell if a young person who's non-verbal and has complex mobility constraints will respond well to a chair or support structure? You can try it out and see, build to learn, start over if needed.
 
 Students in my lab and classroom are invited to see this work *as engineering,* no more and no less. It's powerful to include low tech devices under the same engineering canopy with robotics, circuitry, and code. Engineering is for people, and so often the elegant, just-enough solution is one that people are asking for. One they can then alter and change and adapt as needed.  
