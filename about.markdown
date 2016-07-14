@@ -30,3 +30,4 @@ people:
   bio: William Lu, Olin '18, bio coming soon!
 layout: about
 ---
+
