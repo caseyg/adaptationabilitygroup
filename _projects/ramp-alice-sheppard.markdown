@@ -70,3 +70,6 @@ And when Alice came back in April, this time with her collaborator, Laurel Lawso
   image-caption="On their last day, Alice and Laurel performed short pieces for us on the ramp." %}
 
 This model will be built for performances in the next 12-18 months. And the work continues! Sara and Alice travel to South Korea for an exhibition and performance in Media City Seoul, and Alice and Laurel return in fall 2016 for further work in Investigating Normal. Follow the project also at [Kinetic Light](http://kineticlight.org/).
+
+Team: Alice Sheppard, Laurel Lawson, Yevgeniya Zastavker, Sara Hendren, Katie Butler, Daniel Daugherty, Duncan Hall, Andrew Holmes, Erica Lee, Scott Mackinlay, Apurva Raman, March Saper, Alexander Scott, Kimberly Winter, Jingyi Xu, Rachel Yang. Thanks to Jeff Goldenson, John Rosenwinkel, Russell Zacharias, and Mark Lorenzo.
+
