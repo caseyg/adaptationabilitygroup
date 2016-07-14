@@ -30,7 +30,7 @@ He also brought this list of things his cane might be: a provocation for rethink
 
 {% include shared-includes/image.html
   image="/uploads/things%20my%20cane%20might%20be.jpg"
-  image-caption="hings My Cane Might Be: a list including a hiking stick, a tent pole, a metal detector or hash pipe, and a hundred other possibilities." %}
+  image-caption="Things My Cane Might Be: a list including a hiking stick, a tent pole, a metal detector or hash pipe, and a hundred other possibilities." %}
 
 After his talk, Carmen led us on a "blind field shuttle"—a collaborative work he's performed before. It's not a simulation of blindness, and certainly not an "empathy exercise."** It's something else entirely: an hour walking, eyes closed, and interdependent on the person in front of you and the person behind you. We walked with one hand on the shoulder of the next person in line, and we provided a shoulder for the one after. Once you settle into the feeling, it's blissful: an invitation to feel the sun on your face, to attend to the sounds and somatic changes of the environment. It's an alternate form of experience.
 
