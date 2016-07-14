@@ -55,6 +55,16 @@ Team extension tested out wearables for the leg in addition to the climbing arm.
   image="/uploads/chris%20leg%20WEB-0e1f22.jpg"
   image-caption="Chris discusses the features of a metal leg wearable, one idea that team extension had for augmenting his body for climbing." %}
 
+The team were able to test the final socket and extension for climbing! The prototype was too heavy and clunky for immediate use, but the modularity is promising. Here he is at the climbing wall:
+
+{% include shared-includes/image.html
+  image="/uploads/chris%20with%20socket%20climbing.jpg"
+  image-caption="Chris braces the prosthetic arm against a climbing wall rock—a nice first prototype to learn with." %}
+
+{% include shared-includes/image.html
+  image="/uploads/chris%20PT%20with%20arm.jpg"
+  image-caption="The socket has so far been most useful as a snap-on for a physical therapy extension. He can load the arm to combat some of the muscular atrophy in his shoulder." %}
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hOEHUjIAuZM" frameborder="0" allowfullscreen></iframe>
 
 Team: Grace Ahn, Myles Cooper, Elizabeth Doyle, Michael Searing, Jennifer Anderson, Brandon Chiou, Julianne Jorgensen, Brooks Willis, Mei-Lang Xiong, Sara Hendren
