@@ -92,6 +92,13 @@ Eventually, the team decided on carbon fiber for their final version. We all lov
   image="/uploads/amanda%20carbon%20fiber%20layup-eb1081.JPG"
   image-caption="A close up of the carbon fiber layup." %}
 
+Amanda has lectured with the Alterpodium at a number of events over the last year. We may need to do a 2.0 version for more robust life. More to come. Look for Amanda's essay on the project in an upcoming issue of Design and Culture.
+
 {% include shared-includes/image.html
-  image="/uploads/amanda%20carbon%20fiber%20layup-391fd4.JPG"
-  image-caption="amanda carbon fiber layup-391fd4.JPG" %}
+  image="/uploads/amanda%20with%20podium.jpg"
+  image-caption="Amanda performs her podium at a speaking event, with her model next to to the typical scale design." %}
+
+{% include shared-includes/image.html
+  image="/uploads/amanda%20performing%20podium.JPG"
+  image-caption="Amanda performs her podium at a gallery opening." %}
+
