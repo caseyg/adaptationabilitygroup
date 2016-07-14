@@ -69,4 +69,4 @@ And when Alice came back in April, this time with her collaborator, Laurel Lawso
   image="/uploads/alice%20and%20laurel%20dancing.jpg"
   image-caption="On their last day, Alice and Laurel performed short pieces for us on the ramp." %}
 
-This model will be built for performances in the next 12-18 months. And the work continues! Sara and Alice travel to South Korea for an exhibition and performance in Media City Seoul, and Alice and Laurel return in fall 2016 for further work in Investigating Normal. More to come.
+This model will be built for performances in the next 12-18 months. And the work continues! Sara and Alice travel to South Korea for an exhibition and performance in Media City Seoul, and Alice and Laurel return in fall 2016 for further work in Investigating Normal. Follow the project also at [Kinetic Light](http://kineticlight.org/).
