@@ -25,10 +25,8 @@ ADA director Alex Truesdell, who got her start in occupational therapy at Perkin
 ADA and Perkins both deliberately create workshops that are radically democratized, on purpose: they use the back handle of a spoon for scoring folds, and sharp kitchen knives for some of the cuts, and simple wooden dowels for nails. (And band saws, and jigsaws, and clamps and glue.) It's designed to be a place for anyone to access with an idea for altering or replacing the designed products we typically receive from mass manufacturing streams.
 
 {% include shared-includes/image.html
-  image=""
-  image-caption="" %}
-
-[Pieces of cardboard that slot together for a stool.](/uploads/cardboard%20pieces-55e147.JPG)
+  image="/uploads/cardboard%20pieces-55e147.JPG"
+  image-caption="Pieces of cardboard that slot together for a stool." %}
 
 That means that a student or anyone in her ecology of care can have an idea, try something out, see what works: a parent, a teacher, a clinician, anyone. And the materials and labor—robust but affordable, and quick to assemble—mean that missteps and failures aren't catastrophic. How can you tell if a young person who's non-verbal and has complex mobility constraints will respond well to a chair or support structure? You can try it out and see, build to learn, start over if needed.
 
