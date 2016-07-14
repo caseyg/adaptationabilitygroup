@@ -7,7 +7,10 @@ image-caption: Two people stand in body socks—informal prosthetics and perform
   wearables— in a public plaza. From Sara Hendren's project, Unknown Armature.
 date-display: Fall 2016
 subhead: Investigating Normal is a critical disability studies seminar housed in a
-  design-build studio. Fall 2016 marks its fourth session.
+  design-build studio. First created at Rhode Island School of Design in 2013, the
+  course is for engineers and designers to solve problems, when they're presented
+  as such, and to ask questions—about normalcy, ability, cultural ideas of the body,
+  and more. Fall 2016 at Olin College marks its fourth session.
 ---
 
 # Syllabus, Fall 2015
