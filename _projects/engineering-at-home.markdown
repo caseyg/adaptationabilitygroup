@@ -23,7 +23,7 @@ subtitle: with Caitrin Lynch and Cindy
   image-caption="One of the transformational technologies Cindy co-designed with her prosthetist was a set of silicone caps: one for a pen, one for a fork, one for a knife." %}
 
 {% include shared-includes/image.html
-  image="/uploads/cindy%20fork%20in%20situ.jpg"
+  image="/uploads/150914-2493a.jpg"
   image-caption="Cindy uses her fork cap for easy eating." %}
 
 {% include shared-includes/image.html
