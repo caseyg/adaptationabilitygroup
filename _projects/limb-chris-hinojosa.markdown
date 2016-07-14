@@ -27,7 +27,7 @@ Two teams were formed: one for socket research and the other for the extension. 
 
 Team socket was inspired by the physics of this compression model; they wanted to reverse-engineer something similar, but they also wanted their modeling, techniques, and fabrication to be open source and affordable. 
 
-They're followed by a video on the socket model, written and produced entirely by the student team, telling the story of their collaboration (CC available, and description on YouTube). The socket group also presented their work at the [Open Hardware Summit in September 2015](http://2015.oshwa.org/program/).
+They documented the whole process for easy sharing:
 
 {% include shared-includes/image.html
   image="/uploads/socket_measuring_jpg.jpg"
@@ -64,6 +64,8 @@ The team were able to test the final socket and extension for climbing! The prot
 {% include shared-includes/image.html
   image="/uploads/chris%20PT%20with%20arm.jpg"
   image-caption="The socket has so far been most useful as a snap-on for a physical therapy extension. He can load the arm to combat some of the muscular atrophy in his shoulder." %}
+
+Below is a video on the socket model, written and produced entirely by the student team, telling the story of their collaboration (CC available, and description on YouTube). The socket group also presented their work at the [Open Hardware Summit in September 2015](http://2015.oshwa.org/program/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hOEHUjIAuZM" frameborder="0" allowfullscreen></iframe>
 
