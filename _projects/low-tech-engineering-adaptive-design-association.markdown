@@ -34,7 +34,7 @@ ADA and Perkins both deliberately create workshops that are radically democratiz
 
 {% include shared-includes/image.html
   image="/uploads/ada%20tricycle%20jpg.jpg"
-  image-caption="A child rides an adaptive bicycle, made of cardboard and PVC pipe." %}
+  image-caption="A child rides an adaptive wheeled riding toy, made of cardboard and PVC pipe." %}
 
 That means that a student or anyone in her ecology of care can have an idea, try something out, see what works: a parent, a teacher, a clinician, anyone. And the materials and labor—robust but affordable, and quick to assemble—mean that missteps and failures aren't catastrophic. How can you tell if a young person who's non-verbal and has complex mobility constraints will respond well to a chair or support structure? You can try it out and see, build to learn, start over if needed.
 
