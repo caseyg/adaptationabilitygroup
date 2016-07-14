@@ -8,6 +8,10 @@ date-display: March 2014–ongoing
 subtitle: with Amanda Cachia
 ---
 
+{% include shared-includes/image.html
+  image="/uploads/amanda-podium.jpg"
+  image-caption="Amanda's collapsible, lightweight carbon fiber podium: provisional interior architecture for short stature." %}
+
 [Amanda Cachia](http://www.amandacachia.com/) is a curator, an active scholar, and an art historian-in-training at the University of California, San Diego. She travels constantly for lectures and gallery talks, so she’s in front of people in rooms a lot. That’s her on the left, below.
 
 {% include shared-includes/image.html
