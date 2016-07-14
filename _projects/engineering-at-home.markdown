@@ -9,8 +9,8 @@ subtitle: with Caitrin Lynch and Cindy
 ---
 
 {% include shared-includes/image.html
-  image="/uploads/cindy%20pen%20holder.jpg"
-  image-caption="A silicone cap for a residual hand holds a pen at precisely the right angle for Cindy to write." %}
+  image="/uploads/engineeringathome-crop.jpg"
+  image-caption="Cindy uses soft tubing to make everyday tools, like eyeliner, accessible to grip and turn." %}
 
 [Engineering at Home](http://engineeringathome.org/) is an unusual archive that catalogs one woman's adaptive gear, a collaboration between Cindy, a retiree in suburban Boston, and Sara Hendren and Caitrin Lynch, professors at Olin College. It's also a [manifesto](http://engineeringathome.org/manifesto), an open call for a more expansive and capacious definition of engineering. Below is an excerpt from the project's [essay](http://engineeringathome.org/manifesto) and some images from the project archive. You can read more on the project [web site](http://engineeringathome.org/).
 
