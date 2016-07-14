@@ -1,9 +1,9 @@
 ---
 title: Engineering at Home
 date: 2016-05-12 23:16:00 Z
-image: "/uploads/cindy%20fork%20in%20situ-00b40d.jpg"
+image: "/uploads/Eating%20tools-a.jpg"
 image-caption: Cindy, who lost most of all her fingers following complications from
-  a heart attack, uses an eyeliner pencil encased in rubber tubing for easy application.
+  a heart attack, uses this set of tools for daily eating.
 date-display: June 2015–February 2016
 subtitle: with Caitrin Lynch and Cindy
 ---
