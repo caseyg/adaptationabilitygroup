@@ -5,6 +5,7 @@ position: 0
 image: "/uploads/investigatingnormal-crop.jpg"
 image-caption: Two people stand in body socks—informal prosthetics and performative
   wearables— in a public plaza. From Sara Hendren's project, Unknown Armature.
+date-display: Fall 2016
 subhead: Investigating Normal is a critical disability studies seminar housed in a
   design-build studio. Fall 2016 marks its fourth session.
 ---
