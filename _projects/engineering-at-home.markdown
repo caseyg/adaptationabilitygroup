@@ -14,6 +14,8 @@ subtitle: with Caitrin Lynch and Cindy
 
 [Engineering at Home](http://engineeringathome.org/) is an unusual archive that catalogs one woman's adaptive gear, a collaboration between Cindy, a retiree in suburban Boston, and Sara Hendren and Caitrin Lynch, professors at Olin College. It's also a [manifesto](http://engineeringathome.org/manifesto), an open call for a more expansive and capacious definition of engineering. Below are some images from the project archive and an excerpt from the project's [essay](http://engineeringathome.org/manifesto). You can read more on the project [web site](http://engineeringathome.org/).
 
+Team: Caitrin Lynch, Sara Hendren, Mary Martin, Toni Saylor, William Lu
+
 {% include shared-includes/image.html
   image="/uploads/Cindy%20adaptations%20grid%20better.jpg"
   image-caption="A collage of Cindy's many low tech and daily living tools, many of which she built herself, or in partnership with her family or prosthetist." %}
