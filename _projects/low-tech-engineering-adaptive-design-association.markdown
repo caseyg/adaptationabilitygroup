@@ -26,7 +26,7 @@ ADA and Perkins both deliberately create workshops that are radically democratiz
 
 {% include shared-includes/image.html
   image="/uploads/cardboard%20pieces-55e147.JPG"
-  image-caption="Pieces of cardboard that slot together for a stool." %}
+  image-caption="Pieces of cardboard slot together for a simple stool." %}
 
 {% include shared-includes/image.html
   image="/uploads/ada%20chair%20positioning%20jpg.jpg"
