@@ -19,6 +19,11 @@ subtitle: with Caitrin Lynch and Cindy
   image-caption="A collage of Cindy's many low tech and daily living tools, many of which she built herself, or in partnership with her family or prosthetist." %}
 
 {% include shared-includes/image.html
+  image="/uploads/fork%20cap%20cindy.jpg"
+  image-caption="One of the transformational technologies Cindy co-designed with her prosthetist was a set of silicone caps: one for a pen, one for a fork, one for a knife." %}
+
+
+{% include shared-includes/image.html
   image="/uploads/cindy%20jar%20turning%20hook.jpg"
   image-caption="Cindy's hand uses a peel-and-stick hook to open a jar of cold cream." %}
 
