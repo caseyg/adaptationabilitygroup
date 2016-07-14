@@ -106,3 +106,7 @@ Amanda has lectured with the Alterpodium at a number of events over the last yea
   image="/uploads/amanda%20performing%20podium.JPG"
   image-caption="Amanda performs her podium at a gallery opening." %}
 
+{% include shared-includes/image.html
+  image="/uploads/amanda-podium.jpg"
+  image-caption="The finished(?) project again, in one, two, three steps." %}
+
