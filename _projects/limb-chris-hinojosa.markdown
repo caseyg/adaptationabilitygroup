@@ -53,7 +53,7 @@ Team extension tested out wearables for the leg in addition to the climbing arm.
 
 {% include shared-includes/image.html
   image="/uploads/chris%20leg%20WEB-0e1f22.jpg"
-  image-caption="Chris discusses the features of a metal leg wearable, one idea that team extension had for augmenting his body for climbing." %}
+  image-caption="Chris discusses the features of a metal leg wearable." %}
 
 The team were able to test the final socket and extension for climbing! The prototype was too heavy and clunky for immediate use, but the modularity is promising. Here he is at the climbing wall:
 
