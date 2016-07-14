@@ -52,7 +52,7 @@ They're designed for students who have sensory processing disorders that may res
 
 {% include shared-includes/image.html
   image="/uploads/walker%20model%20holding%20packed.JPG"
-  image-caption="walker model holding packed.JPG" %}
+  image-caption="One of the team shows how easy it is to fold and pack away the final product." %}
 
 The final prototype packed up easily for portability and was made for easy replication: commonly available craft materials and simple fabrication techniques.
 
