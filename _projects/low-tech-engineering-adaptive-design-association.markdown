@@ -1,16 +1,16 @@
 ---
 title: Low Tech Engineering
 date: 2016-06-29 01:18:00 Z
-subtitle: with Adaptive Design Association
 image: "/uploads/lowtechengineering-crop.jpg"
 image-caption: 'Students sit on cardboard furniture and adaptations tailored to their
   own bodies: standing desks, custom stools, and more.'
 date-display: September 2014–ongoing
+subtitle: with Adaptive Design Association
 ---
 
 {% include shared-includes/image.html
-  image=""
-  image-caption="" %}
+  image="/uploads/perkins_chair_action_web.jpg"
+  image-caption="A cardboard chair from Perkins School for the Blind, with adjustable foot rests for customized support." %}
 
 ![A cardboard chair from Perkins School for the Blind, with adjustable foot rests for customized support.](/uploads/perkins_chair_action_web.jpg)
 
