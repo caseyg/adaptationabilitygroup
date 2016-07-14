@@ -30,7 +30,6 @@ We made a provisional dance studio with floor tiles that our student dance club 
   image="/uploads/alice%20dancing%20flat%20tiles.jpg"
   image-caption="Alice works on flat tiles to demonstrate the chair's expressiveness as a dance partner" %}
 
-
 Students then spent time building out ramps—connected in modular, mutable fashion to the dance floor tiles—to test various heights and arrangements for Alice's use. We also assembled my own ramps from the long-running [Slope : Intercept](http://slopeintercept.org/) exploration of the inclined plane.
 
 {% include shared-includes/image.html
