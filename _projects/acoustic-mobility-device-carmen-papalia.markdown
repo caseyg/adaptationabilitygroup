@@ -11,7 +11,7 @@ In fall 2015, artist Carmen Papalia came for what's known at Olin as a "micro-re
 
 {% include shared-includes/image.html
   image="/uploads/Microresidency%20Flyer.jpg"
-  image-caption="The Micro-residency Flyer"
+  image-caption="Our library co-hosts guest speaker events and micro-residencies—engagements with visitors at our tiny scale."
   style="bigcaption" %}
 
 Carmen says he's a non-visual learner; he uses a cane and smart phone to navigate the built environment. His work has included lots of performance projects that utterly subvert the normative cultural expectations for an assistive cane. Like working with a marching band to perform instructions for a convivial audio [form of navigation](http://www.bbc.com/news/blogs-ouch-31749643).
