@@ -17,7 +17,7 @@ subtitle: with Caitrin Lynch and Cindy
 "What do we learn from such a radically tailored engineering? Cindy’s story embodies the surprises and complexities of what happens in user-initiated design.* It’s something more than what’s popularly known as user-“centered” design or participatory design; it’s engineering that proceeds from the original wishes of a single end user. Perhaps especially in design for disability, attentive design-for-one practices can yield a powerful course correction to the top-down modes of manufacturing. A disposition of experimentation, a willingness to harvest the lessons of singularity, a provisional commitment to the one-off: these unique objects together form an argument for the recognition of more user-initiated technologies as engineering, wherever they originate and whatever market they may eventually find."
 
 {% include shared-includes/image.html
-  image="/uploads/cindy%20graphic%20jpg.jpg"
+  image="/uploads/Cindy%20adaptations%20grid%20better.jpg"
   image-caption="A collage of Cindy's many low tech and daily living tools, many of which she built herself, or in partnership with her family or prosthetist." %}
 
 {% include shared-includes/image.html
