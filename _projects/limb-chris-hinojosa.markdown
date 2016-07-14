@@ -25,7 +25,9 @@ Chris was game to collaborate, however, so he asked us to consider how he might 
 
 Two teams were formed: one for socket research and the other for the extension. It was a rapid prototyping process for both teams—seeking out existing precedents and trying divergent ideas for comfort and ease of use.
 
-Team socket was inspired by the physics of this compression model; they wanted to reverse-engineer something similar, but they also wanted their modeling, techniques, and fabrication to be open source and affordable. Team extension tested out wearables for the leg in addition to the climbing arm. The following are some images from the process—co-design, sketch modeling, and CAD work. They're followed by a video on the socket model, written and produced entirely by the student team, telling the story of their collaboration (CC available, and description on YouTube). The socket group also presented their work at the [Open Hardware Summit in September 2015](http://2015.oshwa.org/program/).
+Team socket was inspired by the physics of this compression model; they wanted to reverse-engineer something similar, but they also wanted their modeling, techniques, and fabrication to be open source and affordable. 
+
+They're followed by a video on the socket model, written and produced entirely by the student team, telling the story of their collaboration (CC available, and description on YouTube). The socket group also presented their work at the [Open Hardware Summit in September 2015](http://2015.oshwa.org/program/).
 
 {% include shared-includes/image.html
   image="/uploads/socket_measuring_jpg.jpg"
@@ -47,6 +49,7 @@ Team socket was inspired by the physics of this compression model; they wanted t
   image="/uploads/socket%20bigcup1.jpg"
   image-caption="A close up of the CAD rendering showing the compression-style fitting of the socket prototype." %}
 
+Team extension tested out wearables for the leg in addition to the climbing arm. 
 
 {% include shared-includes/image.html
   image="/uploads/chris%20leg%20WEB-0e1f22.jpg"
