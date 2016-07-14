@@ -1,10 +1,10 @@
 ---
 title: Acoustic Mobility Device
-subtitle: with Carmen Papalia
 image: "/uploads/acousticmobilitydevice-crop.jpg"
 image-caption: Carmen tests a cane with audio—hooked up to an amplifier and microphone,
   it now senses and "plays" the environment.
 date-display: September 2015–ongoing
+subtitle: with Carmen Papalia
 ---
 
 In fall 2015, artist Carmen Papalia came for what's known at Olin as a "micro-residency"—a visit of several days that included an artist's talk, meetings with students, class visits, and more.
@@ -42,7 +42,7 @@ He also invited students to perform a solo walk, unsighted. Now we weren't conne
 
 {% include shared-includes/image.html
   image="/uploads/Carmen%20leading%20solo%20walk.jpg"
-  image-caption="Carmen leading a solo walk exercise, inviting students to experience the built environment without visual cues for navigation." %}
+  image-caption="Carmen leading a solo walk exercise, another experience of the built environment without visual cues for navigation." %}
 
 Carmen came to us wanting a cane that would further this inversion of its normal functioning, and he wanted the register of technology and engineering to be foregrounded this time. He challenged us to think about a "reverse" cane—one that would actually perform loud, even aggressive sounds, like an instrument.
 
