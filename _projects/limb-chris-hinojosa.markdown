@@ -1,5 +1,5 @@
 ---
-title: Limb
+title: Socket and Limb
 date: 2016-06-01 00:27:00 Z
 image: "/uploads/limb-crop.jpg"
 image-caption: Chris Hinojosa, born with one arm but not a prosthesis user, tries
