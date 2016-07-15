@@ -1,21 +1,18 @@
 ---
-title: Adaptation + Ability Group
+title: adaptation + ability group
 timezone: UTC
 collections:
   courses:
-    title: Courses
-    output: true
-  posts:
-    title: Posts
+    title: courses
     output: true
   projects:
-    title: Projects
+    title: projects
     output: true
   reports:
-    title: Reports
+    title: reports
     output: true
   uploads:
-    title: Uploads
+    title: uploads
     output: true
 defaults:
 - scope:
