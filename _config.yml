@@ -2,6 +2,9 @@
 title: adaptation + ability group
 timezone: UTC
 collections:
+  posts:
+    title: Posts
+    output: true
   courses:
     title: courses
     output: true
