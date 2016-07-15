@@ -1,25 +1,10 @@
 ---
 layout: default
 ---
-
 {% assign item = page %}
-
-<main class="main">
-	<div class="content">
-		<header class="header--page">
-      {% include shared-includes/lead.html %}
-      {% include shared-includes/subhead.html %}
-    </header>
-  </div>
-</main>
-{% include shared-includes/grid.html %}
-<hr>
-<main class="main">
-  <div class="content">
-    <section class="section" id="manifesto">
-      <article class="article article--center article--dropcaps article--nosubtitle">
+  {% include shared-includes/grid.html %}
+  <main class="main">
+    <article class="article article--center article--dropcaps article--nosubtitle" id="manifesto">
       {{ content | markdownify }}
-      </article>
-    </section>
-  </div>
-</main>
+    </article>
+  </main>

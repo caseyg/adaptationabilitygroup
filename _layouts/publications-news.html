@@ -4,12 +4,10 @@ layout: default
 
 {% assign item = page %}
 <main class="main">
-  <div class="content">
-    <header class="header--page">
-      {% include shared-includes/lead.html %}
-    </header>
-    <article class="article article--center">
-      {{ page.content | markdownify }}
-    </article>
-  </div>
+  <header class="main__header">
+    {% include shared-includes/lead.html %}
+  </header>
+  <article class="article article--center">
+    {{ page.content | markdownify }}
+  </article>
 </main>

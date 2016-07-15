@@ -3,8 +3,8 @@ title: home
 date: 2016-05-01 14:06:00 Z
 permalink: "/"
 position: 0
-welcome-text: 
-subhead: 
+welcome-text:
+subhead:
 grid:
 - image: "/uploads/ramp%20under%20construction%20glory%20WEB-6c7348.jpg"
   image-caption: 'a dance ramp in progress: a 24 foot square dance landscape, made
@@ -23,7 +23,7 @@ grid:
     out its function, and paper works well
   url: "/projects/alterpodium-amanda-cachia/"
 - image: "/uploads/aplusa-cardboard.jpg"
-  image-caption: 
+  image-caption:
   url: "/about/"
 - image: "/uploads/chris%20trying%20WEB-b3e854.jpg"
   image-caption: in co-design with chris, our collaborator, students prototype a module
@@ -44,9 +44,11 @@ grid:
 layout: home
 ---
 
-<h2 class="headline">Guidelines for an adaptive technology working group.</h2>
+<header class="article__header">
+  <h2 class="title">Guidelines for an adaptive technology working group.</h2>
 
-<div class="subhead"><em>Sara Hendren wrote this as a "manifesto" for the lab before its inception in September 2014. It still holds as a true north for the lab's work.</em></div>
+  <p class="subhead"><em>Sara Hendren wrote this as a "manifesto" for the lab before its inception in September 2014. It still holds as a true north for the lab's work.</em></p>
+</header>
 
 ***
 

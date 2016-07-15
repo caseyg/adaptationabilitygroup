@@ -3,18 +3,13 @@ layout: default
 ---
 
 <main class="main">
-  <div class="content">
-    <header class="header--page">
-      {% include shared-includes/lead.html %}
-      {% include shared-includes/subhead.html %}
-    </header>
-    <section class="section" id="people">
-      <h2>People</h2>
-      <div class="cards xs-cards--float cards--four">
-  			{% for item in page.people %}
-  				{% include shared-includes/person.html %}
-  			{% endfor %}
-  		</div>
-    </section>
-  </div>
+  <header class="main__header">
+    {% include shared-includes/lead.html %}
+    {% include shared-includes/subhead.html %}
+  </header>
+  <div class="cards xs-cards--float cards--four">
+		{% for item in page.people %}
+			{% include shared-includes/person.html %}
+		{% endfor %}
+	</div>
 </main>

@@ -8,15 +8,14 @@ author: David Pudlo
 
 A report by David Pudlo '15 on the sustainability of various cardboard finishes, part of our work with the Adaptive Design Association, coming soon! Here's a look at some finishes he tested, including beeswax, linseed oil, kapton tape, and more. —Sara
 
+{% include shared-includes/image.html
+  image="/uploads/Cardboard_BeeswaxAndLinseed_thick.JPG"
+  image-caption="Cardboard with beeswax and linseed oil"%}
 
-![Cardboard with beeswax and linseed oil (/uploads/Cardboard_BeeswaxAndLinseed_thick.JPG)
+{% include shared-includes/image.html
+  image="/uploads/Cardboard_3Shellac.JPG"
+  image-caption="Cardboard with 3 layers of shellac"%}
 
-![Cardboard with 3 layers of shellac](/uploads/Cardboard_3Shellac.JPG)
-
-![cardboard wheatpaste and paper.JPG](/uploads/cardboard%20wheatpaste%20and%20paper.JPG)
-
-
-
-
-
-
+{% include shared-includes/image.html
+  image="/uploads/cardboard%20wheatpaste%20and%20paper.JPG"
+  image-caption="cardboard wheatpaste and paper.JPG"%}
