@@ -7,8 +7,8 @@ welcome-text: The adaptation + ability group is a lab for creative research on t
 subhead: "**We&apos;re interested in** the encounters between humans and the built
   environment—especially when there&apos;s a mismatch between standardized design
   and the atypical body or mind. But we&apos;re also interested in critical questions
-  about the future of the body: What counts as normal?  \n\nRead on to [meet our **group**](
-  #people) or take a look at  [the **guidelines that drive our work**](http://aplusa.org/about/#manifesto).\n"
+  about the future of the body: What counts as normal?  \n\nRead on to [**meet our
+  group**]( #people) or take a look at the  [**guidelines that drive our work**](http://aplusa.org/about/#manifesto).\n"
 people:
 - bio: 'Lab Director **[Sara Hendren](http://ablersite.org)** is a design researcher,
     artist, and writer, and she teaches human-centered design  for engineers as assistant
