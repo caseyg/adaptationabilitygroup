@@ -54,4 +54,6 @@ defaults:
     author: AUTHOR
 imgix: http://aplusa.imgix.net
 permalink: pretty
-exclude: [node_modules, gulpfile.js]
+exclude:
+- node_modules
+- gulpfile.js
