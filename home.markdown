@@ -23,7 +23,7 @@ grid:
     out its function, and paper works well
   url: "/projects/alterpodium-amanda-cachia/"
 - image: "/uploads/aplusa-cardboard.jpg"
-  image-caption: 
+  image-caption: 'a cardboard cutout for a + a '
   url: "/about/"
 - image: "/uploads/chris%20trying%20WEB-b3e854.jpg"
   image-caption: in co-design with chris, our collaborator, students prototype a module
