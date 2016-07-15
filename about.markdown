@@ -26,7 +26,7 @@ people:
     in Mississippi, and on collaborative design for the future of local, organic farming
     in Massachusetts.  In her free time, she likes to bake and play board games. \n"
 - image: "/uploads/william%20lu%20headshot.jpg"
-  bio: William Lu, Olin '18, bio coming soon!
+  bio: "**William Lu** Olin '18, bio coming soon!"
 layout: about
 ---
 
