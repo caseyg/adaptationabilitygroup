@@ -5,7 +5,7 @@ image-caption: An aerial shot of students building a 24-foot square wooden ramp,
   stage landscape for dancer/choreographer Alice Sheppard and her collaborator, Laurel
   Lawson.
 date-display: January 2016–ongoing
-subtitle: with Alice Sheppard
+subtitle: with Alice Sheppard and Yevgeniya Zastavker
 ---
 
 Dancer and choreographer [Alice Sheppard](http://alicesheppard.com/) approached us with a dream design brief: a large-scale ramp for dancing on stage. She contacted Sara in fall 2015, asking to collaborate, and the project found a home in an Olin course—not the usual test kitchen, Investigating Normal, but in an introductory physics class with professor Yevgeniya Zastavker. The challenge was to house the operations of the inclined plane, or ramp, in an expressive physics—an exploration of its resistance, acceleration, and its affordances not for access, but for choreography.
