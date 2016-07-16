@@ -82,4 +82,4 @@ One of the beautiful things about this kind of design work is in the ancillary p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwMxNXXVZuo" frameborder="0" allowfullscreen></iframe>
 
-**See [this post](http://www.autistichoya.com/2011/11/whats-wrong-with-disability-awareness.html) for a discussion of the manifold problems with the disability simulation exercise. There are [alternatives](http://www.raggededgemagazine.com/0903/0903ft1.html) to this well-meaning but fraught practice!
+**See [this post](http://www.autistichoya.com/2011/11/whats-wrong-with-disability-awareness.html) for a discussion of the manifold problems with the disability simulation exercise. There are [alternatives](http://www.raggededgemagazine.com/0903/0903ft1.html) to this well-meaning but fraught practice.
