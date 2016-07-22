@@ -31,11 +31,11 @@ people:
   bio: "[**Lauren Froschauer**](http://adaptivedesignstudyolincollege.blogspot.com/),
     Olin '16 lab alum,  works for Northrop Grumman as a Mechanical Engineer. In the
     summer of 2015, she trained at the Adaptive Design Association in New York, learning
-    how to use affordable, ubiquitous, easily handled materials (mostly cardboard)
-    to make adaptive devices. During her senior year at Olin, she designed and conducted
-    an independent study in Adaptive and Assistive Design,  volunteering at Perkins
-    School for the Blind in their Assistive Devices Center. She also built a new partnership
-    for the lab with Newman Elementary in Needham, Mass. See more in our Reports section."
+    how to use affordable, ubiquitous, materials to make adaptive devices. During
+    her senior year at Olin, she designed and conducted an independent study in Adaptive
+    and Assistive Design,  volunteering at Perkins School for the Blind in their Assistive
+    Devices Center. She also built a new partnership for the lab with Newman Elementary
+    in Needham, Mass. See more in our Reports section."
 layout: about
 ---
 
