@@ -27,7 +27,7 @@ people:
     in Massachusetts.  In her free time, she likes to bake and play board games. \n"
 - image: "/uploads/william%20lu%20headshot.jpg"
   bio: "**William Lu** Olin '18, bio coming soon!"
-- image: 
+- image: "/uploads/IMG_0201.JPG"
   bio: Lauren Froschauer '16, lab alum,  works for Northrop Grumman as a Mechanical
     Engineer. She has been exploring Adaptive and Assistive Design for several years.
     In the summer of 2015, she trained at the Adaptive Design Association in New York,
