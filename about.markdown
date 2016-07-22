@@ -28,16 +28,17 @@ people:
 - image: "/uploads/william%20lu%20headshot.jpg"
   bio: "**William Lu** Olin '18, bio coming soon!"
 - image: "/uploads/IMG_0201.JPG"
-  bio: Lauren Froschauer '16, lab alum,  works for Northrop Grumman as a Mechanical
-    Engineer. She has been exploring Adaptive and Assistive Design for several years.
-    In the summer of 2015, she trained at the Adaptive Design Association in New York,
-    learning how to use affordable, ubiquitous, easily handled materials (mostly cardboard)
+  bio: "[**Lauren Froschauer**](http://adaptivedesignstudyolincollege.blogspot.com/),
+    Olin '16 lab alum,  works for Northrop Grumman as a Mechanical Engineer. She has
+    been exploring Adaptive and Assistive Design for several years. In the summer
+    of 2015, she trained at the Adaptive Design Association in New York, learning
+    how to use affordable, ubiquitous, easily handled materials (mostly cardboard)
     to make adaptive devices. During her senior year at Olin, she designed and conducted
     an independent study in Adaptive and Assistive Design,  volunteering at Perkins
     School for the Blind in their Assistive Devices Center, creating cardboard chairs
     and desks for students attending the school. She also built a new partnership
     for the lab with Newman Elementary, a Needham elementary school. See more in our
-    Reports section and at http://adaptivedesignstudyolincollege.blogspot.com/.
+    Reports section ."
 layout: about
 ---
 
