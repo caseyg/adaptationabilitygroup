@@ -35,8 +35,7 @@ people:
     to make adaptive devices. During her senior year at Olin, she designed and conducted
     an independent study in Adaptive and Assistive Design,  volunteering at Perkins
     School for the Blind in their Assistive Devices Center. She also built a new partnership
-    for the lab with Newman Elementary in Needham, Mass. See more in our Reports section
-    ."
+    for the lab with Newman Elementary in Needham, Mass. See more in our Reports section."
 layout: about
 ---
 
