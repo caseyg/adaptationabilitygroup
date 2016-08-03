@@ -15,9 +15,15 @@ What happens when design and engineering research results in activism, human rig
 
 Course activities:
 
+Streams:
+
 Inclusion statement, legal stuff
 
 Readings:
 
-Documentation:
+Documentation of your research:
+
+Documentation of your work: publish your drafts, reflections
+
+Schedule:
 
