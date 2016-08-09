@@ -2,8 +2,8 @@
 title: about the lab
 date: 2016-06-03 19:38:00 Z
 position: 1
-welcome-text: The adaptation + ability group is a lab for creative research on technology
-  + the body at [Olin College](http://olin.edu).
+welcome-text: The adaptation + ability group is a technical and social laboratory
+  for creative research on technology + the body at [Olin College](http://olin.edu).
 subhead: "**We&apos;re interested in** the encounters between humans and the built
   environment—especially when there&apos;s a mismatch between standardized design
   and the atypical body or mind. But we&apos;re also interested in critical questions
