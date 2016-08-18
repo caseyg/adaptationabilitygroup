@@ -25,8 +25,6 @@ people:
     on a design team at IBM Design, on web development for an after school program
     in Mississippi, and on collaborative design for the future of local, organic farming
     in Massachusetts.  In her free time, she likes to bake and play board games. \n"
-- image: "/uploads/william%20lu%20headshot.jpg"
-  bio: "**William Lu** Olin '18, bio coming soon!"
 - image: "/uploads/IMG_0201.JPG"
   bio: "[**Lauren Froschauer**](http://adaptivedesignstudyolincollege.blogspot.com/),
     Olin '16 lab alum,  works for Northrop Grumman as a Mechanical Engineer. In the
@@ -36,6 +34,16 @@ people:
     and Assistive Design,  volunteering at Perkins School for the Blind in their Assistive
     Devices Center. She also built a new partnership for the lab with Newman Elementary
     in Needham, Mass. See more in our Reports section."
+- image: "/uploads/william%20lu%20headshot.jpg"
+  bio: "**William Lu** Olin '18, bio coming soon!"
+- image: "/uploads/adit-bio.jpg"
+  bio: "[**Adit Dhanushkodi**](http://http://aditd.me/) is a '16 alum working for
+    Emulate as a Product Designer. His work with the lab is primarily around using
+    visual design, film, and other media to tell stories and communicate ideas. He
+    is interested in how people interact with the world around them, and how technologies
+    can detract from or enhance those experiences. Some of his work with the lab includes
+    the helping set up the Media City Seoul biennial exhibition of Slope : Intercept
+    and making Cardboard Carpentry How-To's."
 layout: about
 ---
 
