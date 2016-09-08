@@ -68,9 +68,9 @@ Academic Integrity:
 
 All students are expected to behave with high levels of academic integrity. This includes being respectful of your fellow students, the shared space, and other people you interact with, and adhering to the Olin Honor Code. Because learning from and being inspired by the work of others is an important component of this course, we will discuss attribution and citation in more detail throughout the semester.
 
-Course Schedule:
+# Course Schedule:
 
-Thursday, Sept. 1. 
+## Thursday, Sept. 1. 
 
 No class. Required reading: 
 
@@ -94,10 +94,11 @@ Check idealist.org for opportunities too!
 
 Think about your schedules and transportation availability as you google around for possibilities. There are plenty of places to go within a few miles of campus. But think, too, about whether you'd like to do your work on a Friday afternoon (say, at a shelter in Harvard Square) and give yourself an experience outside of Needham. Try to find a place with an ongoing need for folks to just show up for a couple of hours a week; you're not meant to take on an extra project for this.
 
-Monday, Sept. 5.
+## Monday, Sept. 5.
+
 No class. Labor Day holiday.
 
-Thursday, Sept. 8.
+## Thursday, Sept. 8.
 
 First class meeting. Introduction and overview. Report on volunteer ideas and contacts.
 
