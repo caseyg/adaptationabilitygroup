@@ -39,10 +39,15 @@ Reflect: Take Stock, Document, Make Connections, Revisit Ideas
 Course Components:
 Our streams will play out in these activities throughout the semester. 
 Weekly readings/viewings: Each week’s required and suggested readings, media viewing, and listening will be posted below. These clusters of material will be emergent as students decide on their volunteer activities and timely issues arise, but will always be posted at least one week in advance of their due date. Some will be organized around guest speakers, while others will be tailored to our ongoing discussions and experiments. 
+
 Short experiments: We’ll work as individuals or in teams, in class or on your own, on some short exercises to activate your ideas. These are meant to free up your imagination as you think about what it means to design for a public audience and will seed ideas for your final project proposal.
+
 Guest Speakers: We’re assembling a fantastic lineup of guests whose practices span engineering, design, and artwork in a political and social manner. Think of these guests as three-dimensional “texts” to augment your work but also your introspection as you consider your future career choices. Where and how did these guests get their formative experiences as makers? What risks did they take? Where is their expertise, or lack thereof, and who are their audiences?
+
 Final project: The last month of the semester will be devoted to a significant project, to be showcased during Final Events week. The project will take the form of a substantive proposal: a portfolio including a ‘looks-like’ prototype, a set of images or a short text documenting it in action, a short essay that provides the larger context for your design, and a brief personal reflection (or similar work in different media). Besides the short experiments described above, there will be some scaffolded pre-project work to help us explore possible projects and configurations, whether individuals or small teams. More information on the project will be provided later in the semester. 
+
 Documentation and Reflection: This is a design course, an elective in the design stream at Olin, so it’s got continuity with the reflective practices we’re asking you to develop elsewhere in the curriculum. We’ll rely on a lightweight “capture today” system, asking you to document your learning in one image; we’ll also ask for some periodic in-depth reflections. We’ll give you a notebook too!
+
 Clock Time/Calendar Time. There will be things you produce for this class on clock time: you will set aside time to complete assignments. But there will be many more things about this class (and indeed, about education) that happen on calendar time: that is, you will engage for relatively short intervals over a long period, and your understanding and perspective will emerge and evolve with time. This is certainly true with volunteering, but it’s also true of the ideation process: the time it takes for ideas to percolate and mature. And it’s true of any complex reading and discussion practice as well. Be alert to this contrast—and remember to suspend your doubts when you can. Take the long view.
 
 Experimental context: This is a class in its first iteration, one that we will collectively and significantly shape. Please be prepared to be flexible! In order for us to be responsive to the particular direction of the group, we need to ask you to be responsive in return. Some readings or class time arrangements may change, but we’ll always make sure that everyone understands why and has enough time to respond. 
@@ -51,19 +56,22 @@ Experimental grading: This course is offered as an ‘experimental grading’ co
 Inclusion statement:
 
 It is Olin College’s policy to comply fully with all state and federal disability laws. Olin does not discriminate against applicants or students with disabilities, and will consider modification to academic programs where necessary to ensure that our requirements are not discriminatory, as long as the modifications do not fundamentally alter the nature of our programs. The Office of Student Life coordinates services for students with learning disabilities, sensory impairments, psychological disabilities and medical conditions. Students are responsible for identifying themselves to the Assistant Dean of Student Life for Advising and providing appropriate documentation of their disability and need for accommodation in a timely manner. Students requesting accommodation should contact the Assistant Dean of Student Life for Advising as soon as possible after matriculation.
+
 Services for students with learning disabilities may include, but are not limited to, academic accommodations, coaching on organizational and time management skills, faculty notification and academic advising. Services for students with physical, sensory, or psychological impairments as well as medical conditions may include, but are not limited to, academic accommodations, assistance with adaptive technology, accessibility accommodations and academic advising. Any specific modifications granted will be based on detailed discussions with each student about their particular situation, and on information from a medical care provider concerning the student’s disability and related needs.
+
 We assume that all of us learn in different ways, and that the organization of any course will accommodate each student differently. Please talk to us as soon as you can about your individual learning needs and how this course can best accommodate them. Even if you do not have a documented disability, remember that other support services are available to all students.
 Academic Integrity:
 
 All students are expected to behave with high levels of academic integrity. This includes being respectful of your fellow students, the shared space, and other people you interact with, and adhering to the Olin Honor Code. Because learning from and being inspired by the work of others is an important component of this course, we will discuss attribution and citation in more detail throughout the semester.
 
 Course Schedule:
+
 Thursday, Sept. 1. 
 
 No class. Required reading: 
 
-Ursula Franklin, The Real World of Technology. Available here as audio.
-Greg Jobin-Leeds and AgitArte, When We Fight We Win: Twenty-First Century Social Movements and the Activists that are Transforming Our World.
+Ursula Franklin, [The Real World of Technology](https://www.amazon.com/World-Technology-Massey-Lectures-Revised/dp/088784636X/ref=sr_1_1?s=books&ie=UTF8&qid=1473320146&sr=1-1&keywords=the+real+world+of+technology). Available here as audio.
+Greg Jobin-Leeds and AgitArte, [When We Fight We Win: Twenty-First Century Social Movements and the Activists that are Transforming Our World](https://www.amazon.com/When-Fight-Win-Twenty-First-Century-Transforming/dp/1620970937/ref=sr_1_1?s=books&ie=UTF8&qid=1473320167&sr=1-1&keywords=when+we+fight+we+win).
 
 The two works are meant as companions and as foundational texts to shape our semester together; we'll refer back to them often. Reserve copies will be on hand for you in the library, but we also recommend shopping around now for copies.
 
