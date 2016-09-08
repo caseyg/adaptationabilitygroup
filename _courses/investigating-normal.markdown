@@ -13,13 +13,13 @@ subhead: Investigating Normal is a critical disability studies seminar housed in
   and more. Fall 2016 at Olin College marks its fourth session.
 ---
 
-# Syllabus, Fall 2015
+# Syllabus, Fall 2016
 
 ## **ENGR 3299 — Investigating Normal: Adaptive and Assistive Technologies**
 
 Olin College of Engineering  
-Tuesdays 1:30-5, and Fridays, 1:30-3, AC 128  
-Instructor: _Sara Hendren_
+Mondays and Thursdays, 10:50-12:30, AC 213  
+Instructors: _Sara Hendren_ and _Zhenya Zastavker_
 
 ***
 
@@ -52,9 +52,7 @@ Please let me know in advance if you absolutely must be absent, either day or ni
 
 **Weekly readings/viewings**: See each week's required and suggested readings.
 
-**Precedent studies**: Each student, in prepping for the final project, will prepare a short (1 page) essay and presentation on two precedent projects that ideally operate in the direction you're headed, either topically or methodologically. I can talk with you about some suggestions for projects if it helps.
-
-**Final projects**: After October 6, all students will self-assess both skills and interests, and we'll line up teams to match with client collaborators accordingly.
+**Final projects**: At the beginning of October, all students will self-assess both skills and interests, and we'll line up teams to match with client collaborators accordingly.
 
 **Experimental context**: The class has an ambitious scope in this first few iterations at Olin; that's because we're trying out several possible partnerships for the long term of the class and the [adaptation + ability group](http://ablersite.org/2014/08/20/guiding-principles-for-an-adaptive-technology-working-group/). Be flexible! Some readings may change; some class time arrangements may change. I'm interested in being responsive to the particular direction of this group.
 
@@ -72,42 +70,47 @@ I assume that all of us learn in different ways, and that the organization of an
 
 ## Schedule
 
-### Class 1, Friday 9/4: Overview
-
+### Class 1, Thursday 9/8: Overview
 
 Course overview. Introductions, themes of course and broad introduction to key concepts, plus lots of projects. Dispositions for the designer and disability. The relationship of the class to the larger lab and a broad net for possible collaborations and research. Narratives of disability.
 
-"Examined Life" plus / "[My Vagina Ain't Handicap](https://www.youtube.com/watch?v=bCJ4KfePYQU)" / "[Song of the Machine](http://superflux.in/work/song-machine)" / [Guinness Wheelchair Basketball commercial](http://www.businessinsider.com/new-guinness-ad-breaks-the-mold-2013-9) /
-
 ***
 
-### Class 2, Tuesday 9/8: Adaptive Design Association and cardboard tutorial with NINJA Lauren Froschauer
+### Class 2 and 3, Monday 9/12 and Thursday 9/15: Artist and micro-resident [Laura Swanson](http://www.lauraswanson.com/) joins us to talk about her practice as an artist and her project prompt. We'll each prototype some ideas to jumpstart that collaboration between Monday and Thursday. For Monday's lecture in the library with Laura, prepare by researching [her web site](http://www.lauraswanson.com/) and reviews of her work and with the following media, 
+
+Read: [All Technology is Assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd).
+
+Watch: "Examined Life" plus / "[My Vagina Ain't Handicap](https://www.youtube.com/watch?v=bCJ4KfePYQU)" / "[Song of the Machine](http://superflux.in/work/song-machine)" / [Guinness Wheelchair Basketball commercial](http://www.businessinsider.com/new-guinness-ad-breaks-the-mold-2013-9) /
+
+### Class 4, Monday, September 19
+
+Adaptive Design Association and cardboard tutorial with NINJAs Susie Grimshaw and Meghan Tighe.
 
 Look at the [Adaptive Design Association](http://www.adaptivedesign.org/)‘s web site, [including all these short videos](http://www.adaptivedesign.org/#!videos/c1drp). Read about them in the [New York Times](http://www.nytimes.com/2014/07/30/nyregion/using-cardboard-to-bring-disabled-children-out-of-the-exile-of-wrong-furniture.html?_r=1).
 
-Consider your own environments for adaptations. If you like, take a look at [this Pinterest collection](https://www.pinterest.com/openhanded/cardboard-love/) of cardboard furniture—it's everywhere! We'll discuss _Thoughtless Acts? _by Jane Fulton Suri. Collect 3-5 by Friday.
+Consider your own environments for adaptations. If you like, take a look at [this Pinterest collection](https://www.pinterest.com/openhanded/cardboard-love/) of cardboard furniture—it's everywhere! We'll discuss some images _Thoughtless Acts? _by Jane Fulton Suri.
 
 Also read prior to class:
 
 1) Graham Pullin's introduction and the sections on "Exploring Meets Solving" and "Provocative Meets Sensitive" from [_Design Meets Disability_](http://www.amazon.com/Design-Meets-Disability-Graham-Pullin/dp/0262516748/ref=sr_1_1?ie=UTF8&qid=1379090353&sr=8-1&keywords=design+meets+disability). PDFs are in the public drive.
 
-2) [All Technology is Assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd).
-
-3) _[Show Your Work](http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X/ref=sr_1_1?ie=UTF8&qid=1441293645&sr=8-1&keywords=show+your+work)_. When looking through this book, think about what grabs your attention, what you could work on in this class: Is it photography skills? Video?  Capturing process as well as product? Telling stories to multiple audiences? I'll ask you to each set your own learning goal in the realm of documentation in addition to the subject area of the course, so think carefully about the premises of Kleon's book. Who are your publics, as a maker? How and why are you speaking with them about your work, in this class and in your Olin career in general?
+2) Watch [The Crash Reel](http://thecrashreel.com/store/?index.php).
 
 ***
 
-### Class 3, Friday 9/11: documentation how-tos, with Jeff Goldenson and NINJA Adit Dhanushkodi
+### Class 5, Thursday, Sept 22: 
 
-With Jeff Goldenson, you’ll be looking at typologies of documentation and best practices for showing your work. The purpose of this session is to inspire you to document the project work you do in the class with multiple audiences in mind, with an ear for story, with artful modes of representation. Believe me, this is absolutely critical skill-building. Adit will join and/or follow Jeff with some information about his role as "documentation ninja." He'll share some ideas and let you know the kinds of supports he can offer as you proceed through assignments and the project phase. He can also consult (as can Lauren) on ideas for your cardboard/low tech adaptations.
+Share cardboard adaptations. Take in media together. Reflection exercise. Revisit Newman Elementary project.
 
-Watch [The Crash Reel](http://thecrashreel.com/store/?index.php).
+### Class 6, Monday, Sept 26: 
+
+Class collaborator [Alice Sheppard](http://alicesheppard.com/) comes to introduce her project.
 
 Read: "Introduction: Imagined Futures," in Alison Kafer, _Feminist, Queer, Crip_ [PDF, in the public drive], plus [Resource on First-Person Language](http://www.disabilityrightsohio.org/person-first-language), "[I'm not a Person with a Disability; I'm Disabled](http://www.xojane.com/issues/i-am-not-a-person-with-a-disability-i-am-a-disabled-person)." And watch: "[I'm Not Your Inspiration, Thank You Very Much.](http://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much)"
 
-**First writing assignment due Saturday, Sept 12 at 5 pm.:**
 
-Using Alison Kafer's text as a broad background, analyze two or more of the essays or films we've looked at together around the individual or medical model of disability, versus the social/political/relational model. Kafer defines these terms for us; now where do you see evidence of these assumptions at play in the language, look-and-feel, and messaging of the written and video work we've talked about? Use concrete examples. 2 pages single spaced. if you like, make a visual representation that would distinguish the models, and locate the various media there.
+### Class 7, Thursday, Sept 29: 
+
 
 ***
 
