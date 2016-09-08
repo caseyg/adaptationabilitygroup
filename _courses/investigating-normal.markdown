@@ -84,6 +84,7 @@ Read: [All Technology is Assistive](https://medium.com/backchannel/all-technolog
 
 Watch: "Examined Life" plus / "[My Vagina Ain't Handicap](https://www.youtube.com/watch?v=bCJ4KfePYQU)" / "[Song of the Machine](http://superflux.in/work/song-machine)" / [Guinness Wheelchair Basketball commercial](http://www.businessinsider.com/new-guinness-ad-breaks-the-mold-2013-9) /
 
+
 ### Class 4, Monday, September 19
 
 Adaptive Design Association and cardboard tutorial with NINJAs Susie Grimshaw and Meghan Tighe.
