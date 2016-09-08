@@ -76,7 +76,9 @@ Course overview. Introductions, themes of course and broad introduction to key c
 
 ***
 
-### Class 2 and 3, Monday 9/12 and Thursday 9/15: Artist and micro-resident [Laura Swanson](http://www.lauraswanson.com/) joins us to talk about her practice as an artist and her project prompt. We'll each prototype some ideas to jumpstart that collaboration between Monday and Thursday. For Monday's lecture in the library with Laura, prepare by researching [her web site](http://www.lauraswanson.com/) and reviews of her work and with the following media, 
+### Class 2 and 3, Monday 9/12 and Thursday 9/15: Artist and micro-resident [Laura Swanson](http://www.lauraswanson.com/) 
+
+Laura joins us to talk about her practice as an artist and her project prompt. We'll each prototype some ideas to jumpstart that collaboration between Monday and Thursday. For Monday's lecture in the library with Laura, prepare by researching [her web site](http://www.lauraswanson.com/) and reviews of her work and with the following media, 
 
 Read: [All Technology is Assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd).
 
