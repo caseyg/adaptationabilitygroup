@@ -17,10 +17,8 @@ AC 213
 
 Call us Sara and Deb or Debbie, respectively, both she/her. 
 sara.hendren@olin.edu / debbie.chachra@olin.edu
-Sara’s office hours are here, updated regularly.
+Sara’s office hours are [here](https://docs.google.com/document/d/1etPbV-xBZKSlIKR17GGdgL3b6fx6TgZCD5-J2hmndEY/edit), updated regularly.
 Deb’s office hours are by appointment.
-
-http://aplusa.org/courses/critical-designer-slash-activist-engineer/
 
 Overview:
 What happens when design and engineering research results in activism, human rights work, politics, or matters of equity and justice? Engineers and designers are often thought of as "problem-solvers" in mostly technical, practical, and formal senses. But this class explores the equally compelling history of engineering and design projects that raise difficult questions, aid marginalized communities, address urgent social issues, or create new social conditions. 
@@ -103,10 +101,10 @@ Thursday, Sept 22.
 Discuss readings and new design experiment. 
 Monday, Oct 3.
 
-Guest: artist, technologist, researcher Allison Burtch, from UNICEF Innovation.
+Guest: artist, technologist, researcher [Allison Burtch](http://www.allisonburtch.net/), from UNICEF Innovation.
 Tuesday, Oct 4. 
 
-Required attendance at Alice Dreger lecture. 6:45-8:30 pm, Library.
+Required attendance at [Alice Dreger](http://alicedreger.com/) lecture. 6:45-8:30 pm, Library.
 Thursday, Oct 6.
 
 Discuss readings and new design experiment.
@@ -116,19 +114,19 @@ Thursday, Oct 13.
 Discuss readings and new design experiment.
 Monday, Oct 17.
 
-Guest: Microbiologist, artist, and Creative Director at Gingko Bioworks, Christina Agapakis.
+Guest: Microbiologist, artist, and Creative Director at Gingko Bioworks, [Christina Agapakis](http://agapakis.com/).
 Thursday, Oct 20.
 
 Discuss readings, plus lengthy discussion of project ideas in groups and as a whole.
 Monday, Oct 24 [tentative].
 
-Guest: Margaret Middleton, exhibition designer, on inclusive design for all families and abilities in public institutions.
+Guest: [Margaret Middleton](http://www.margaretmiddleton.com/), exhibition designer, on inclusive design for all families and abilities in public institutions.
 Thursday, Oct 27.
 
 Discuss readings and new design experiment. 
 Monday, Oct 31.
 
-Guest: Kipp Bradford, MIT Media Lab and more. 
+Guest: [Kipp Bradford](http://www.kippworks.com/), MIT Media Lab and more. 
 Thursday, Nov 3.
 
 Discuss readings, and project plans due.
