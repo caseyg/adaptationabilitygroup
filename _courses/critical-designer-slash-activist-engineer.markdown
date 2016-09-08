@@ -9,8 +9,8 @@ comingsoon: true
 ---
 
 ENGR 2299
-Critical Designer, Activist Engineer: 
-Making Things and Making Things Happen
+**Critical Designer, Activist Engineer: 
+Making Things and Making Things Happen**# 
 Olin College / Fall 2016
 Instructors: Sara Hendren and Deb Chachra
 Mondays and Thursdays, 1:30-3:10
@@ -21,7 +21,8 @@ sara.hendren@olin.edu / debbie.chachra@olin.edu
 Sara’s office hours are [here](https://docs.google.com/document/d/1etPbV-xBZKSlIKR17GGdgL3b6fx6TgZCD5-J2hmndEY/edit), updated regularly.
 Deb’s office hours are by appointment.
 
-**Overview:**
+# **Overview:**
+
 What happens when design and engineering research results in activism, human rights work, politics, or matters of equity and justice? Engineers and designers are often thought of as "problem-solvers" in mostly technical, practical, and formal senses. But this class explores the equally compelling history of engineering and design projects that raise difficult questions, aid marginalized communities, address urgent social issues, or create new social conditions. 
 
 We'll talk to designers, artists, and engineers who work on issues of sustainability, power, health, education, and more. And we'll run our own experiments in creative design work for the public good. The class includes significant reading, field trip(s) and guest lectures, short experiments, and a culminating project.
@@ -29,7 +30,8 @@ We'll talk to designers, artists, and engineers who work on issues of sustainabi
 We want you to witness and be inspired by the exciting, expansive fields of what are variously called social design, engineering for the public good, socially engaged art practices, and many other names. However, we also want you to be well versed in the many, many pitfalls of so-called “activist” work with technology—when it’s under-informed, poorly researched, focused on form and not on substance, it risks not only being ineffective, but can lead to actual harm. We take this risk seriously, so this course will have you mostly listening, learning, listening and learning some more, and, finally proposing—not carrying out fully-fledged projects in one semester. Trust us on this: We can have fun and be at play with ideas while also operating with due diligence as socially-minded engineers and designers. Humility and questions are your trusty companions here, your true north. We want to help you to lay a foundation; you will have many, many future opportunities to build the house. 
 
 
-**Course Streams:**
+# **Course Streams:**
+
 The class will have four streams, or tracks, running in parallel throughout the semester. They’re intended to ground our work in reflective practice, informed action, playful inquiry, and humility in the face of complexity. Each week we’ll visit all or most of these themes and activities:
 
 **Research:** Gather Information, Read, Write
@@ -37,24 +39,25 @@ The class will have four streams, or tracks, running in parallel throughout the 
 **Play:** Ideate, Conduct Experiments, Create
 **Reflect:** Take Stock, Document, Make Connections, Revisit Ideas
 
-**Course Components:**
+# **Course Components**
+
 Our streams will play out in these activities throughout the semester. 
 Weekly readings/viewings: Each week’s required and suggested readings, media viewing, and listening will be posted below. These clusters of material will be emergent as students decide on their volunteer activities and timely issues arise, but will always be posted at least one week in advance of their due date. Some will be organized around guest speakers, while others will be tailored to our ongoing discussions and experiments. 
 
-Short experiments: We’ll work as individuals or in teams, in class or on your own, on some short exercises to activate your ideas. These are meant to free up your imagination as you think about what it means to design for a public audience and will seed ideas for your final project proposal.
+## Short experiments: We’ll work as individuals or in teams, in class or on your own, on some short exercises to activate your ideas. These are meant to free up your imagination as you think about what it means to design for a public audience and will seed ideas for your final project proposal.
 
-Guest Speakers: We’re assembling a fantastic lineup of guests whose practices span engineering, design, and artwork in a political and social manner. Think of these guests as three-dimensional “texts” to augment your work but also your introspection as you consider your future career choices. Where and how did these guests get their formative experiences as makers? What risks did they take? Where is their expertise, or lack thereof, and who are their audiences?
+## Guest Speakers: We’re assembling a fantastic lineup of guests whose practices span engineering, design, and artwork in a political and social manner. Think of these guests as three-dimensional “texts” to augment your work but also your introspection as you consider your future career choices. Where and how did these guests get their formative experiences as makers? What risks did they take? Where is their expertise, or lack thereof, and who are their audiences?
 
-Final project: The last month of the semester will be devoted to a significant project, to be showcased during Final Events week. The project will take the form of a substantive proposal: a portfolio including a ‘looks-like’ prototype, a set of images or a short text documenting it in action, a short essay that provides the larger context for your design, and a brief personal reflection (or similar work in different media). Besides the short experiments described above, there will be some scaffolded pre-project work to help us explore possible projects and configurations, whether individuals or small teams. More information on the project will be provided later in the semester. 
+## Final project: The last month of the semester will be devoted to a significant project, to be showcased during Final Events week. The project will take the form of a substantive proposal: a portfolio including a ‘looks-like’ prototype, a set of images or a short text documenting it in action, a short essay that provides the larger context for your design, and a brief personal reflection (or similar work in different media). Besides the short experiments described above, there will be some scaffolded pre-project work to help us explore possible projects and configurations, whether individuals or small teams. More information on the project will be provided later in the semester. 
 
-Documentation and Reflection: This is a design course, an elective in the design stream at Olin, so it’s got continuity with the reflective practices we’re asking you to develop elsewhere in the curriculum. We’ll rely on a lightweight “capture today” system, asking you to document your learning in one image; we’ll also ask for some periodic in-depth reflections. We’ll give you a notebook too!
+## Documentation and Reflection: This is a design course, an elective in the design stream at Olin, so it’s got continuity with the reflective practices we’re asking you to develop elsewhere in the curriculum. We’ll rely on a lightweight “capture today” system, asking you to document your learning in one image; we’ll also ask for some periodic in-depth reflections. We’ll give you a notebook too!
 
-Clock Time/Calendar Time. There will be things you produce for this class on clock time: you will set aside time to complete assignments. But there will be many more things about this class (and indeed, about education) that happen on calendar time: that is, you will engage for relatively short intervals over a long period, and your understanding and perspective will emerge and evolve with time. This is certainly true with volunteering, but it’s also true of the ideation process: the time it takes for ideas to percolate and mature. And it’s true of any complex reading and discussion practice as well. Be alert to this contrast—and remember to suspend your doubts when you can. Take the long view.
+## Clock Time/Calendar Time: There will be things you produce for this class on clock time: you will set aside time to complete assignments. But there will be many more things about this class (and indeed, about education) that happen on calendar time: that is, you will engage for relatively short intervals over a long period, and your understanding and perspective will emerge and evolve with time. This is certainly true with volunteering, but it’s also true of the ideation process: the time it takes for ideas to percolate and mature. And it’s true of any complex reading and discussion practice as well. Be alert to this contrast—and remember to suspend your doubts when you can. Take the long view.
 
-Experimental context: This is a class in its first iteration, one that we will collectively and significantly shape. Please be prepared to be flexible! In order for us to be responsive to the particular direction of the group, we need to ask you to be responsive in return. Some readings or class time arrangements may change, but we’ll always make sure that everyone understands why and has enough time to respond. 
+## Experimental context: This is a class in its first iteration, one that we will collectively and significantly shape. Please be prepared to be flexible! In order for us to be responsive to the particular direction of the group, we need to ask you to be responsive in return. Some readings or class time arrangements may change, but we’ll always make sure that everyone understands why and has enough time to respond. 
 Experimental grading: This course is offered as an ‘experimental grading’ course: we will provide formative and summative feedback throughout the course, and the designation of ‘EG’ on your transcript will reflect that you completed the course’s learning objectives. Keep returning to the Knowledge, Skills, and Attitudes section when you’re wondering what’s being assessed.
 
-Inclusion statement:
+# Inclusion statement:
 
 It is Olin College’s policy to comply fully with all state and federal disability laws. Olin does not discriminate against applicants or students with disabilities, and will consider modification to academic programs where necessary to ensure that our requirements are not discriminatory, as long as the modifications do not fundamentally alter the nature of our programs. The Office of Student Life coordinates services for students with learning disabilities, sensory impairments, psychological disabilities and medical conditions. Students are responsible for identifying themselves to the Assistant Dean of Student Life for Advising and providing appropriate documentation of their disability and need for accommodation in a timely manner. Students requesting accommodation should contact the Assistant Dean of Student Life for Advising as soon as possible after matriculation.
 
