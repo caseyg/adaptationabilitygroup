@@ -64,7 +64,7 @@ It is Olin College’s policy to comply fully with all state and federal disabi
 
 Services for students with learning disabilities may include, but are not limited to, academic accommodations, coaching on organizational and time management skills, faculty notification and academic advising. Services for students with physical, sensory, or psychological impairments as well as medical conditions may include, but are not limited to, academic accommodations, assistance with adaptive technology, accessibility accommodations and academic advising. Any specific modifications granted will be based on detailed discussions with each student about their particular situation, and on information from a medical care provider concerning the student’s disability and related needs.
 
-I assume that all of us learn in different ways, and that the organization of any course will accommodate each student differently. Please talk to me as soon as you can about your individual learning needs and how this course can best accommodate them. Even if you do not have a documented disability, remember that other support services are available to all students.
+We assume that all of us learn in different ways, and that the organization of any course will accommodate each student differently. Please talk to us as soon as you can about your individual learning needs and how this course can best accommodate them. Even if you do not have a documented disability, remember that other support services are available to all students.
 
 ***
 
@@ -78,7 +78,7 @@ Course overview. Introductions, themes of course and broad introduction to key c
 
 ### Class 2 and 3, Monday 9/12 and Thursday 9/15: Artist and micro-resident [Laura Swanson](http://www.lauraswanson.com/) 
 
-Laura joins us to talk about her practice as an artist and her project prompt. We'll each prototype some ideas to jumpstart that collaboration between Monday and Thursday. For Monday's lecture in the library with Laura, prepare by researching [her web site](http://www.lauraswanson.com/) and reviews of her work and with the following media, 
+Laura joins us to talk about her practice as an artist and her project prompt. We'll each prototype some ideas to jumpstart that collaboration between Monday and Thursday. For Monday's lecture in the library with Laura, prepare by researching [her web site](http://www.lauraswanson.com/) and reviews of her work and with the following media. Please make some notes as you read and watch; come with questions for Laura! 
 
 Read: [All Technology is Assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd).
 
