@@ -92,75 +92,98 @@ Think about your schedules and transportation availability as you google around 
 
 Monday, Sept. 5.
 No class. Labor Day holiday.
+
 Thursday, Sept. 8.
 
 First class meeting. Introduction and overview. Report on volunteer ideas and contacts.
+
 Monday, Sept. 12.
 
 Volunteering reflection and troubleshooting. Session with Emily Ferrier in the library on How to Find What You’re Looking For. Research for fact finding, secondary sources. 
+
 Thursday, Sept. 15.
 
 Discuss readings. Session on How to Find What You’re Not Looking For. Cultivating a wide lens for discovery, serendipity, and idea generation. Discussion on calendar time and clock time. Readings for Monday’s session with guests.
+
 Monday, Sept. 19.
 
 Guests: Olin professor Scott Hersey, and international community development workers Shelton Oakley Hersey, Anathi Pefile, and Nobuhle Kumalo (Cosmo City, South Africa. Discussion about engineering, public health, social enterprise, and culture/community.
+
 Thursday, Sept 22.
 
 Discuss readings and new design experiment. 
+
 Monday, Oct 3.
 
 Guest: artist, technologist, researcher [Allison Burtch](http://www.allisonburtch.net/), from UNICEF Innovation.
+
 Tuesday, Oct 4. 
 
 Required attendance at [Alice Dreger](http://alicedreger.com/) lecture. 6:45-8:30 pm, Library.
+
 Thursday, Oct 6.
 
 Discuss readings and new design experiment.
 Monday, October 10. School holiday, no classes.
+
 Thursday, Oct 13.
 
 Discuss readings and new design experiment.
+
 Monday, Oct 17.
 
 Guest: Microbiologist, artist, and Creative Director at Gingko Bioworks, [Christina Agapakis](http://agapakis.com/).
+
 Thursday, Oct 20.
 
 Discuss readings, plus lengthy discussion of project ideas in groups and as a whole.
+
 Monday, Oct 24 [tentative].
 
 Guest: [Margaret Middleton](http://www.margaretmiddleton.com/), exhibition designer, on inclusive design for all families and abilities in public institutions.
+
 Thursday, Oct 27.
 
 Discuss readings and new design experiment. 
+
 Monday, Oct 31.
 
-Guest: [Kipp Bradford](http://www.kippworks.com/), MIT Media Lab and more. 
+Guest: [Kipp Bradford](http://www.kippworks.com/), MIT Media Lab and more.
+ 
 Thursday, Nov 3.
 
 Discuss readings, and project plans due.
+
 Monday, Nov 7.
 
 Studio: project work.
+
 Thursday, Nov 10.
 
 Studio: project work.
+
 Monday, Nov 14.
 
 Field Trip! Design Studio for Social Intervention.
+
 Thursday, Nov 17.
 
 Studio: project work.
 
 Monday, Nov 21- Thursday, Nov 24. Thanksgiving Break, no classes.
+
 Monday, Nov 28.
 
 Studio: project work.
+
 Thursday, Dec 1.
 
 Studio: project work.
+
 Monday, Dec 5.
 
 Studio: project work.
+
 Thursday, Dec 8.
 
 Studio: project work. Last day of class. Check in with all teams in prep for final presentations the following week. Final event TBD.
