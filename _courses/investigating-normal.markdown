@@ -82,7 +82,7 @@ Laura joins us to talk about her practice as an artist and her project prompt. W
 
 Read: [All Technology is Assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd).
 
-Watch: "Examined Life" plus / "[My Vagina Ain't Handicap](https://www.youtube.com/watch?v=bCJ4KfePYQU)" / "[Song of the Machine](http://superflux.in/work/song-machine)" / [Guinness Wheelchair Basketball commercial](http://www.businessinsider.com/new-guinness-ad-breaks-the-mold-2013-9) /
+Watch: "Examined Life," above, plus / "[My Vagina Ain't Handicap](https://www.youtube.com/watch?v=fe-MHkUwtFk" / "[Song of the Machine](http://superflux.in/work/song-machine)" / [Guinness Wheelchair Basketball commercial](http://www.businessinsider.com/new-guinness-ad-breaks-the-mold-2013-9) /
 
 
 ### Class 4, Monday, September 19
