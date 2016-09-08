@@ -2,8 +2,9 @@
 title: Critical Designer/Activist Engineer
 date: 2016-05-12 23:19:00 Z
 position: 1
-image: "/uploads/IMG_1324.jpg"
-image-caption: under construction / coming soon!
+image: "/uploads/IMG_1904.JPG"
+image-caption: Mapping Accessibility Workshop, MediaCity Seoul, with Taeyoon Choi,
+  Sara Hendren, and Alice Sheppard
 comingsoon: true
 ---
 
@@ -20,7 +21,7 @@ sara.hendren@olin.edu / debbie.chachra@olin.edu
 Sara’s office hours are [here](https://docs.google.com/document/d/1etPbV-xBZKSlIKR17GGdgL3b6fx6TgZCD5-J2hmndEY/edit), updated regularly.
 Deb’s office hours are by appointment.
 
-Overview:
+**Overview:**
 What happens when design and engineering research results in activism, human rights work, politics, or matters of equity and justice? Engineers and designers are often thought of as "problem-solvers" in mostly technical, practical, and formal senses. But this class explores the equally compelling history of engineering and design projects that raise difficult questions, aid marginalized communities, address urgent social issues, or create new social conditions. 
 
 We'll talk to designers, artists, and engineers who work on issues of sustainability, power, health, education, and more. And we'll run our own experiments in creative design work for the public good. The class includes significant reading, field trip(s) and guest lectures, short experiments, and a culminating project.
@@ -28,15 +29,15 @@ We'll talk to designers, artists, and engineers who work on issues of sustainabi
 We want you to witness and be inspired by the exciting, expansive fields of what are variously called social design, engineering for the public good, socially engaged art practices, and many other names. However, we also want you to be well versed in the many, many pitfalls of so-called “activist” work with technology—when it’s under-informed, poorly researched, focused on form and not on substance, it risks not only being ineffective, but can lead to actual harm. We take this risk seriously, so this course will have you mostly listening, learning, listening and learning some more, and, finally proposing—not carrying out fully-fledged projects in one semester. Trust us on this: We can have fun and be at play with ideas while also operating with due diligence as socially-minded engineers and designers. Humility and questions are your trusty companions here, your true north. We want to help you to lay a foundation; you will have many, many future opportunities to build the house. 
 
 
-Course Streams:
+**Course Streams:**
 The class will have four streams, or tracks, running in parallel throughout the semester. They’re intended to ground our work in reflective practice, informed action, playful inquiry, and humility in the face of complexity. Each week we’ll visit all or most of these themes and activities:
 
-Research: Gather Information, Read, Write
-Participate: Volunteer, Ask Questions
-Play: Ideate, Conduct Experiments, Create
-Reflect: Take Stock, Document, Make Connections, Revisit Ideas
+**Research:** Gather Information, Read, Write
+**Participate:** Volunteer, Ask Questions
+**Play:** Ideate, Conduct Experiments, Create
+**Reflect:** Take Stock, Document, Make Connections, Revisit Ideas
 
-Course Components:
+**Course Components:**
 Our streams will play out in these activities throughout the semester. 
 Weekly readings/viewings: Each week’s required and suggested readings, media viewing, and listening will be posted below. These clusters of material will be emergent as students decide on their volunteer activities and timely issues arise, but will always be posted at least one week in advance of their due date. Some will be organized around guest speakers, while others will be tailored to our ongoing discussions and experiments. 
 
