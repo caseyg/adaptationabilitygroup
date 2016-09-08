@@ -121,5 +121,10 @@ Take a look at high tech projects like exoskeletons, and  low tech projects lik
 
 Read "Fashion Meets Discretion" and "Simple Meets Universal" from Pullin, _Design Meets Disability_. PDF on public drive.
 
+Read Alice Dreger, [When Medicine Goes Too Far in the Pursuit of Normality](http://www.nytimes.com/1998/07/28/science/essay-when-medicine-goes-too-far-in-the-pursuit-of-normality.html), and "[Ending Forced Genital-Normalizing Surgeries](http://www.theatlantic.com/health/archive/2013/02/ending-forced-genital-normalizing-surgeries/273300/)."
+
 ***
 
+### Tuesday, Oct 4
+
+Required attendance at [Alice Dreger](http://alicedreger.com/) campus lecture, 6:45-8:30 pm, in the library. 
