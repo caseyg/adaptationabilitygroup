@@ -96,8 +96,6 @@ Also read prior to class:
 
 2) Watch [The Crash Reel](http://thecrashreel.com/store/?index.php).
 
-***
-
 ### Class 5, Thursday, Sept 22: 
 
 Share cardboard adaptations. Take in media together. Reflection exercise. Revisit Newman Elementary project.
@@ -108,12 +106,9 @@ Class collaborator [Alice Sheppard](http://alicesheppard.com/) comes to introduc
 
 Read: "Introduction: Imagined Futures," in Alison Kafer, _Feminist, Queer, Crip_ [PDF, in the public drive], plus [Resource on First-Person Language](http://www.disabilityrightsohio.org/person-first-language), "[I'm not a Person with a Disability; I'm Disabled](http://www.xojane.com/issues/i-am-not-a-person-with-a-disability-i-am-a-disabled-person)." And watch: "[I'm Not Your Inspiration, Thank You Very Much.](http://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much)"
 
-
 ### Class 7, Thursday, Sept 29: 
 
 Debrief from Alice's visit, discuss readings and media.
-
-***
 
 ### Class 8, Monday, Oct 3 : high tech-low tech, past projects, and notes on ideation and documentation 
 
