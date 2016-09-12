@@ -74,8 +74,6 @@ We assume that all of us learn in different ways, and that the organization of a
 
 Course overview. Introductions, themes of course and broad introduction to key concepts, plus lots of projects. Dispositions for the designer and disability. The relationship of the class to the larger lab and a broad net for possible collaborations and research. Narratives of disability.
 
-***
-
 ### Class 2 and 3, Monday 9/12 and Thursday 9/15: Artist and micro-resident [Laura Swanson](http://www.lauraswanson.com/) 
 
 Laura joins us to talk about her practice as an artist and her project prompt. We'll each prototype some ideas to jumpstart that collaboration between Monday and Thursday. For Monday's lecture in the library with Laura, prepare by researching [her web site](http://www.lauraswanson.com/) and reviews of her work and with the following media. Please make some notes as you read and watch; come with questions for Laura! 
@@ -84,10 +82,9 @@ Read: [All Technology is Assistive](https://medium.com/backchannel/all-technolog
 
 Watch: "Examined Life," above, plus / "[My Vagina Ain't Handicap](https://www.youtube.com/watch?v=fe-MHkUwtFk" / "[Song of the Machine](http://superflux.in/work/song-machine)" / [Guinness Wheelchair Basketball commercial](http://www.businessinsider.com/new-guinness-ad-breaks-the-mold-2013-9) /
 
-
 ### Class 4, Monday, September 19
 
-Adaptive Design Association and cardboard tutorial with NINJAs Susie Grimshaw and Meghan Tighe.
+Adaptive Design Association and cardboard tutorial with NINJAs Sue Grimshaw and Meghan Tighe.
 
 Look at the [Adaptive Design Association](http://www.adaptivedesign.org/)‘s web site, [including all these short videos](http://www.adaptivedesign.org/#!videos/c1drp). Read about them in the [New York Times](http://www.nytimes.com/2014/07/30/nyregion/using-cardboard-to-bring-disabled-children-out-of-the-exile-of-wrong-furniture.html?_r=1).
 
