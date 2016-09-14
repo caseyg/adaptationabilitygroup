@@ -84,6 +84,8 @@ Watch: "Examined Life," above, plus / "[My Vagina Ain't Handicap](https://www.y
 
 Assemble into teams and prototype water feature component as described, for discussion Thursday.
 
+Buy a dedicated NOTEBOOK by next Thursday, Sept 22.
+
 ### Class 4, Friday, Sept 16: 
 
 Debrief from Laura's visit, discuss readings and videos, and a short reflection. "Disability Is" and performance/prosthetics.
@@ -102,17 +104,17 @@ Also read prior to class:
 
 2) Watch [The Crash Reel](http://thecrashreel.com/store/?index.php).
 
-### Class 5, Thursday, Sept 22: 
+### Class 6, Thursday, Sept 22: 
 
 Share cardboard adaptations. Take in media together. Reflection exercise. Revisit Newman Elementary project.
 
-### Class 6, Monday, Sept 26: 
+### Class 7, Monday, Sept 26: 
 
 Class collaborator [Alice Sheppard](http://alicesheppard.com/) comes to introduce her project.
 
 Read: "Introduction: Imagined Futures," in Alison Kafer, _Feminist, Queer, Crip_ [PDF, in the public drive], plus [Resource on First-Person Language](http://www.disabilityrightsohio.org/person-first-language), "[I'm not a Person with a Disability; I'm Disabled](http://www.xojane.com/issues/i-am-not-a-person-with-a-disability-i-am-a-disabled-person)." And watch: "[I'm Not Your Inspiration, Thank You Very Much.](http://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much)"
 
-### Class 7, Thursday, Sept 29: 
+### Class 8, Thursday, Sept 29: 
 
 Debrief from Alice's visit, discuss readings and media.
 
@@ -129,3 +131,5 @@ Read Alice Dreger, [When Medicine Goes Too Far in the Pursuit of Normality](http
 ### Tuesday, Oct 4
 
 Required attendance at [Alice Dreger](http://alicedreger.com/) campus lecture, 6:45-8:30 pm, in the library. 
+
+### Class 9, Monday, Oct 3 : high tech-low tech, past projects, and notes on ideation and documentation 
