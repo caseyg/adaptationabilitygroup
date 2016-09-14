@@ -130,7 +130,7 @@ Syllabus in depth. Session on How to Find What You’re Not Looking For. Cultiva
 
 ### Friday, Sept. 16.
 
-Discuss readings of both books. 
+Debrief from design hunt, starting with a look at this [Defensive Architecture](http://www.dismalgarden.com/archives/defensive_architecture) archive. Discuss readings of both books. 
 
 ### Monday, Sept. 19.
 
