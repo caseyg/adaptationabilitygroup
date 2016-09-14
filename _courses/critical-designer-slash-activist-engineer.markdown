@@ -142,11 +142,12 @@ Guest: artist, technologist, researcher [Allison Burtch](http://www.allisonburtc
 
 ### Tuesday, Oct 4. 
 
-Required attendance at [Alice Dreger](http://alicedreger.com/) lecture. 6:45-8:30 pm, Library.
+Required attendance at [Alice Dreger](http://alicedreger.com/) lecture. 6:45-8:15 pm, Library.
 
 ### Thursday, Oct 6.
 
-Discuss readings and new design experiment.
+Discuss readings and new design experiment. 
+
 Monday, October 10. School holiday, no classes.
 
 ### Thursday, Oct 13.
@@ -161,7 +162,7 @@ Guest: Microbiologist, artist, and Creative Director at Gingko Bioworks, [Christ
 
 Discuss readings, plus lengthy discussion of project ideas in groups and as a whole.
 
-### Monday, Oct 24 [tentative].
+### Monday, Oct 24.
 
 Guest: [Margaret Middleton](http://www.margaretmiddleton.com/), exhibition designer, on inclusive design for all families and abilities in public institutions.
 
