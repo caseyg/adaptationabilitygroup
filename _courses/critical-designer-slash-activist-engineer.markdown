@@ -126,7 +126,11 @@ Volunteering reflection and troubleshooting. Session with Emily Ferrier in the l
 
 ### Thursday, Sept. 15.
 
-Discuss readings. Session on How to Find What You’re Not Looking For. Cultivating a wide lens for discovery, serendipity, and idea generation. Discussion on calendar time and clock time. Readings for Monday’s session with guests.
+Syllabus in depth. Session on How to Find What You’re Not Looking For. Cultivating a wide lens for discovery, serendipity, and idea generation. Discussion on calendar time and clock time. Readings for Monday’s session with guests announced.
+
+### Friday, Sept. 16.
+
+Discuss readings of both books. Start with this short piece by Aaron Swartz, [Theory of Change](http://www.aaronsw.com/weblog/theoryofchange).
 
 ### Monday, Sept. 19.
 
