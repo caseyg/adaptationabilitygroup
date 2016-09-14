@@ -84,7 +84,11 @@ Watch: "Examined Life," above, plus / "[My Vagina Ain't Handicap](https://www.y
 
 Assemble into teams and prototype water feature component as described, for discussion Thursday.
 
-### Class 4, Monday, September 19
+### Class 4, Friday, Sept 16: 
+
+Debrief from Laura's visit, discuss readings and videos, and a short reflection. "Disability Is" and performance/prosthetics.
+
+### Class 5, Monday, September 19
 
 Adaptive Design Association and cardboard tutorial with NINJAs Sue Grimshaw and Meghan Tighe.
 
