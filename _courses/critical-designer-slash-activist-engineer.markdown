@@ -130,7 +130,7 @@ Syllabus in depth. Session on How to Find What You’re Not Looking For. Cultiva
 
 ### Friday, Sept. 16.
 
-Discuss readings of both books. Start with this short piece by Aaron Swartz, [Theory of Change](http://www.aaronsw.com/weblog/theoryofchange).
+Discuss readings of both books. 
 
 ### Monday, Sept. 19.
 
@@ -138,7 +138,7 @@ Guests: Olin professor Scott Hersey, and international community development wor
 
 ### Thursday, Sept 22.
 
-Discuss readings and new design experiment. 
+Discuss readings and new design experiment. Aaron Swartz, [Theory of Change](http://www.aaronsw.com/weblog/theoryofchange).
 
 ### Monday, Oct 3.
 
