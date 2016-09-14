@@ -140,6 +140,8 @@ Discuss readings and new design experiment.
 
 Guest: artist, technologist, researcher [Allison Burtch](http://www.allisonburtch.net/), from UNICEF Innovation.
 
+Read: [The Hacker Hacked](https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos), and other media TBA.
+
 ### Tuesday, Oct 4. 
 
 Required attendance at [Alice Dreger](http://alicedreger.com/) lecture. 6:45-8:15 pm, Library.
