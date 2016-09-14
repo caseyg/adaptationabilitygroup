@@ -126,7 +126,7 @@ Volunteering reflection and troubleshooting. Session with Emily Ferrier in the l
 
 ### Thursday, Sept. 15.
 
-Syllabus in depth. Session on How to Find What You’re Not Looking For. Cultivating a wide lens for discovery, serendipity, and idea generation. Discussion on calendar time and clock time. Readings for Monday’s session with guests announced.
+Syllabus in depth. Short activity. Session on How to Find What You’re Not Looking For. Cultivating a wide lens for discovery, serendipity, and idea generation. Discussion on calendar time and clock time. Readings for Monday’s session with guests announced.
 
 ### Friday, Sept. 16.
 
