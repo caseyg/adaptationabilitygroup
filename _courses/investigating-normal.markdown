@@ -120,8 +120,6 @@ Debrief from Alice's visit, discuss readings and media. Reflection on "Ability I
 
 ### Class 8, Monday, Oct 3 : high tech-low tech, past projects, and notes on ideation and documentation 
 
-Take a look at high tech projects like exoskeletons, and  low tech projects like the [GRIT wheelchair](http://gogrit.org/lfc.html), the [Jaipur Foot group](http://jaipurfoot.org/), and [DIYAbility](http://diyability.org/).
-
 Read "Fashion Meets Discretion" and "Simple Meets Universal" from Pullin, _Design Meets Disability_. PDF on public drive.
 
 Read Alice Dreger, [When Medicine Goes Too Far in the Pursuit of Normality](http://www.nytimes.com/1998/07/28/science/essay-when-medicine-goes-too-far-in-the-pursuit-of-normality.html), and "[Ending Forced Genital-Normalizing Surgeries](http://www.theatlantic.com/health/archive/2013/02/ending-forced-genital-normalizing-surgeries/273300/)."
@@ -132,4 +130,16 @@ Read Alice Dreger, [When Medicine Goes Too Far in the Pursuit of Normality](http
 
 Required attendance at [Alice Dreger](http://alicedreger.com/) campus lecture, 6:45-8:30 pm, in the library. 
 
-### Class 9, Monday, Oct 3 : high tech-low tech, past projects, and notes on ideation and documentation 
+### Class 9, Thursday, Oct 6: Guest Speaker [Eric Gunther](http://www.ericgunther.info/). Readings TBA.
+
+### Class 10, Thursday, Oct 13:
+
+Teams settled by this date. Self-assemble team roles, establish internal deadlines.
+
+Take a look at high tech projects like exoskeletons, and  low tech projects like the [GRIT wheelchair](http://gogrit.org/lfc.html), the [Jaipur Foot group](http://jaipurfoot.org/), and [DIYAbility](http://diyability.org/).
+
+### Class 11, Thursday, Oct 13:
+
+
+
+
