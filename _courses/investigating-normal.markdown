@@ -94,7 +94,7 @@ Debrief from Laura's visit, discuss readings and videos, and a short reflection.
 
 Adaptive Design Association and cardboard tutorial with NINJAs Sue Grimshaw and Meghan Tighe.
 
-Look at the [Adaptive Design Association](http://www.adaptivedesign.org/)‘s web site, [including all these short videos](http://www.adaptivedesign.org/#!videos/c1drp). Read about them in the [New York Times](http://www.nytimes.com/2014/07/30/nyregion/using-cardboard-to-bring-disabled-children-out-of-the-exile-of-wrong-furniture.html?_r=1).
+Look at the [gallery of objects](http://www.adaptivedesign.org/overview-c1ho5) and [short videos](http://www.adaptivedesign.org/learning-library) on the ADA web site. Watch [Among the Giants](https://www.youtube.com/watch?v=t6QtONTbTwU) and this [PBS coverage of the organization](https://www.youtube.com/watch?v=CJUnUxrUxzA). Read about them in the [New York Times](http://www.nytimes.com/2014/07/30/nyregion/using-cardboard-to-bring-disabled-children-out-of-the-exile-of-wrong-furniture.html?_r=1).
 
 Consider your own environments for adaptations. If you like, take a look at [this Pinterest collection](https://www.pinterest.com/openhanded/cardboard-love/) of cardboard furniture—it's everywhere! We'll discuss some images _Thoughtless Acts? _by Jane Fulton Suri.
 
