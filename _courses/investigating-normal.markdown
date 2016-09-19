@@ -112,7 +112,7 @@ Share cardboard adaptations. Take in media together. Reflection exercise. Revisi
 
 Class collaborator [Alice Sheppard](http://alicesheppard.com/) comes to introduce her project.
 
-Read: "Introduction: Imagined Futures," in Alison Kafer, _Feminist, Queer, Crip_ [PDF, in the public drive], plus [Resource on First-Person Language](http://www.disabilityrightsohio.org/person-first-language), "[I'm not a Person with a Disability; I'm Disabled](http://www.xojane.com/issues/i-am-not-a-person-with-a-disability-i-am-a-disabled-person)." And watch: "[I'm Not Your Inspiration, Thank You Very Much.](http://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much)"
+Read: "Introduction: Imagined Futures," in Alison Kafer, _Feminist, Queer, Crip_ [PDF, in the public drive], plus [Person First Language](http://www.inclusionproject.org/nip_userfiles/file/People%20First%20Chart.pdf), "[I'm not a Person with a Disability; I'm Disabled](http://www.xojane.com/issues/i-am-not-a-person-with-a-disability-i-am-a-disabled-person)." And watch: "[I'm Not Your Inspiration, Thank You Very Much.](http://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much)"
 
 ### Class 8, Thursday, Sept 29: 
 
