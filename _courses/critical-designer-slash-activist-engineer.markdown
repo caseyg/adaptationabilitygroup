@@ -138,13 +138,21 @@ Guests: Olin professor Scott Hersey, and international community development wor
 
 ### Thursday, Sept 22.
 
-Discuss readings and new design experiment. Aaron Swartz, [Theory of Change](http://www.aaronsw.com/weblog/theoryofchange).
+Discuss readings, including Ethan Zuckerman's [The Perils of Using Technology to Solver Other People's Problems](http://www.theatlantic.com/technology/archive/2016/06/tech-and-other-peoples-problems/488297/), and Scott's short experiment. 
+
+### Monday, Sept 26.
+
+With Scott Hersey, Shelton Hersey, Anathi Pefile, and Nobuhle Kumalo again to report back on short exercise and hear more about their work.
+
+### Thursday, Sept 29.
+
+Discuss assigned readings and media, volunteer experiences, speculative design and critical futures.
 
 ### Monday, Oct 3.
 
 Guest: artist, technologist, researcher [Allison Burtch](http://www.allisonburtch.net/), from UNICEF Innovation.
 
-Read: [The Hacker Hacked](https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos), and other media TBA.
+Read: [The Hacker Hacked](https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos), Aaron Swartz, [Theory of Change](http://www.aaronsw.com/weblog/theoryofchange) and other media TBA.
 
 ### Tuesday, Oct 4. 
 
