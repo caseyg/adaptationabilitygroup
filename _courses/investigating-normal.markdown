@@ -118,7 +118,9 @@ Read: "Introduction: Imagined Futures," in Alison Kafer, _Feminist, Queer, Crip_
 
 Debrief from Alice's visit, discuss readings and media. Reflection on "Ability Is."
 
-### Class 8, Monday, Oct 3 : high tech-low tech, past projects, and notes on ideation and documentation 
+CARDBOARD ADAPTATIONS DUE.
+
+### Class 8, Monday, Oct 3: Talk about team choices.
 
 Read "Fashion Meets Discretion" and "Simple Meets Universal" from Pullin, _Design Meets Disability_. PDF on public drive.
 
@@ -132,13 +134,31 @@ Required attendance at [Alice Dreger](http://alicedreger.com/) campus lecture, 6
 
 ### Class 9, Thursday, Oct 6: Guest Speaker [Eric Gunther](http://www.ericgunther.info/). Readings TBA.
 
+Assemble teams.
+
 ### Class 10, Thursday, Oct 13:
 
-Teams settled by this date. Self-assemble team roles, establish internal deadlines.
+Teams fully settled by this date. Self-assemble team roles, establish internal deadlines.
 
 Take a look at high tech projects like exoskeletons, and  low tech projects like the [GRIT wheelchair](http://gogrit.org/lfc.html), the [Jaipur Foot group](http://jaipurfoot.org/), and [DIYAbility](http://diyability.org/).
 
-### Class 11, Thursday, Oct 13:
+### Class 11, Monday, Oct 17:
+
+STUDIO.
+
+### Class 12, Thursday, Oct 20:
+
+STUDIO.
+
+### Class 13, Monday, Oct 24:
+
+Readings and projects on the contested nature of autism: spectrum conditions, sensory processing disorder, and pressure technologies. Research the "informal" prosthetics of body socks, weighted blankets, and more. The Vayu Vest. Dana Gordon's Undercover. Jin Jung, "Take My Weight Off Your Shoulders." Wendy Jacob, Squeeze Chair and Explorers Club. PTSD and sensory anxiety. Plus a critical look at the common medicalizing language of "high functioning" vs "low functioning."
+
+Murray, "Autism Functions/The Functions of Autism." Disability Studies Quarterly. Listen to Steve Silberman on his new book, Neurotribes.
+Also, choose ONE of the following two articles:
+Picard, "Future Affective Technology for Autism and Emotion Communication." PDF
+Herbert, M. "Treatment Guided Research: Helping People Now with Humility, Respect, and Boldness." PDF
+
 
 
 
