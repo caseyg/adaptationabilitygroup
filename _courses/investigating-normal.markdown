@@ -118,7 +118,7 @@ Read: "Introduction: Imagined Futures," in Alison Kafer, _Feminist, Queer, Crip_
 
 ### Class 8, Thursday, Sept 29: 
 
-Debrief from Alice's visit, discuss readings and media. Reflection on "Ability Is."
+Debrief from Alice's visit, discuss readings and media. Revisit Butler/Kafer connections. Reflection exercise.
 
 CARDBOARD ADAPTATIONS DUE.
 
