@@ -157,6 +157,9 @@ And take a look at projects:
 [Mapping Police Violence](http://mappingpoliceviolence.org/)
 Wikipedia [edit-a-thons](http://art.plusfeminism.org/edit-a-thons/) (one example of many)
 
+[How Crisis Mapping Saved Lives in Haiti](http://voices.nationalgeographic.com/2012/07/02/crisis-mapping-haiti/).
+
+
 
 
 ### Monday, Oct 3.
