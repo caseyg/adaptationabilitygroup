@@ -110,6 +110,8 @@ Take in media together. Reflection exercise. Revisit Newman Elementary project.
 
 ### Class 7, Monday, Sept 26: 
 
+Reflection exercise due.
+
 Class collaborator [Alice Sheppard](http://alicesheppard.com/) comes to introduce her project.
 
 Read: "Introduction: Imagined Futures," in Alison Kafer, _Feminist, Queer, Crip_ [PDF, in the public drive], plus [Person First Language](http://www.inclusionproject.org/nip_userfiles/file/People%20First%20Chart.pdf), "[I'm not a Person with a Disability; I'm Disabled](http://www.xojane.com/issues/i-am-not-a-person-with-a-disability-i-am-a-disabled-person)." And watch: "[I'm Not Your Inspiration, Thank You Very Much.](http://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much)"
