@@ -106,7 +106,7 @@ Also read prior to class:
 
 ### Class 6, Thursday, Sept 22: 
 
-Share cardboard adaptations. Take in media together. Reflection exercise. Revisit Newman Elementary project.
+Take in media together. Reflection exercise. Revisit Newman Elementary project.
 
 ### Class 7, Monday, Sept 26: 
 
