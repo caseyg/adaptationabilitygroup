@@ -146,7 +146,18 @@ With Scott Hersey, Shelton Hersey, Anathi Pefile, and Nobuhle Kumalo again to re
 
 ### Thursday, Sept 29.
 
-Discuss assigned readings and media, volunteer experiences, speculative design and critical futures.
+Discuss readings:  
+
+Bret Scott, [The Hacker Hacked](https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos)
+
+Mary Joyce, "[Six Activist Functions of Technology](http://www.meta-activism.org/2012/02/digital-activism-101-the-5-activist-functions-of-technology/)."
+
+And take a look at projects:
+
+[Mapping Police Violence](http://mappingpoliceviolence.org/)
+Wikipedia [edit-a-thons](http://art.plusfeminism.org/edit-a-thons/) (one example of many)
+
+
 
 ### Monday, Oct 3.
 
