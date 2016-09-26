@@ -134,7 +134,11 @@ Read Alice Dreger, [When Medicine Goes Too Far in the Pursuit of Normality](http
 
 Required attendance at [Alice Dreger](http://alicedreger.com/) campus lecture, 6:45-8:30 pm, in the library. 
 
-### Class 9, Thursday, Oct 6: Guest Speaker [Eric Gunther](http://www.ericgunther.info/). Readings TBA.
+### Class 9, Thursday, Oct 6: Guest Speaker [Eric Gunther](http://www.ericgunther.info/).
+
+Read: "[Feel Me: What the Science of Touch Says About Ourselves](http://www.newyorker.com/magazine/2016/05/16/what-the-science-of-touch-says-about-us)." Adam Gopnik, The New Yorker, May 16, 2016.
+
+Read: "[The White Cane as Technology](http://www.theatlantic.com/technology/archive/2013/11/the-white-cane-as-technology/281167/)." Interview with Georgina Kleege, The Atlantic Tech.
 
 Assemble teams.
 
