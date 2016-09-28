@@ -181,6 +181,14 @@ Monday, October 10. School holiday, no classes.
 
 ### Thursday, Oct 13.
 
+Read: Langdon Winner, "[Do Artifacts Have Politics?](http://innovate.ucsb.edu/wp-content/uploads/2010/02/Winner-Do-Artifacts-Have-Politics-1980.pdf)"
+
+The [Critical Engineering Manifesto](https://criticalengineering.org/)
+
+Ursula K. LeGuin, [A Rant About Technology](http://conversations.e-flux.com/t/ursula-k-le-guin-a-rant-about-technology/3977)
+
+Optional homework: Watch Children of Men.
+
 Discuss readings and new design experiment.
 
 ### Monday, Oct 17.
