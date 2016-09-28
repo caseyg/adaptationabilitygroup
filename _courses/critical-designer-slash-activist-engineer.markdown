@@ -163,6 +163,10 @@ Wikipedia [edit-a-thons](http://art.plusfeminism.org/edit-a-thons/) (one example
 
 Watch four speculative/critical design videos in class, and then draw/design your own critical futures scenario.
 
+Read: Tobias Revell, [Critical Design lecture](http://blog.tobiasrevell.com/2013/12/critical-design-design-fiction-lecture.html).
+
+Read: Luiza Prado, [Questioning the "critical" in Critical and Speculative Design](https://medium.com/a-parede/questioning-the-critical-in-speculative-critical-design-5a355cac2ca4#.8happh7sk).
+
 ### Tuesday, Oct 4. 
 
 Required attendance at [Alice Dreger](http://alicedreger.com/) lecture. 6:45-8:15 pm, Library.
