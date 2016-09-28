@@ -185,7 +185,9 @@ Discuss readings and new design experiment.
 
 ### Monday, Oct 17.
 
-Guest: Microbiologist, artist, and Creative Director at Gingko Bioworks, [Christina Agapakis](http://agapakis.com/).
+Guest: Microbiologist, artist, and Creative Director at Gingko Bioworks, [Christina Agapakis](http://agapakis.com/). 
+
+Readings: On the public drive.
 
 ### Thursday, Oct 20.
 
