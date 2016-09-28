@@ -159,17 +159,17 @@ And take a look at projects:
 [Mapping Police Violence](http://mappingpoliceviolence.org/)
 Wikipedia [edit-a-thons](http://art.plusfeminism.org/edit-a-thons/) (one example of many)
 
-### Monday, Oct 3.
+### Monday, Oct 3. (Alison Burtch had to cancel, alas.)
 
-Guest: artist, technologist, researcher [Allison Burtch](http://www.allisonburtch.net/), from UNICEF Innovation.
-
-Read: [The Hacker Hacked](https://aeon.co/essays/how-yuppies-hacked-the-original-hacker-ethos), Aaron Swartz, [Theory of Change](http://www.aaronsw.com/weblog/theoryofchange) and other media TBA.
+Watch four speculative/critical design videos in class, and then draw/design your own critical futures scenario.
 
 ### Tuesday, Oct 4. 
 
 Required attendance at [Alice Dreger](http://alicedreger.com/) lecture. 6:45-8:15 pm, Library.
 
 ### Thursday, Oct 6.
+
+Read Alice Dreger, [When Medicine Goes Too Far in the Pursuit of Normality](http://www.nytimes.com/1998/07/28/science/essay-when-medicine-goes-too-far-in-the-pursuit-of-normality.html), and "[Ending Forced Genital-Normalizing Surgeries](http://www.theatlantic.com/health/archive/2013/02/ending-forced-genital-normalizing-surgeries/273300/)."
 
 Discuss readings and new design experiment. 
 
