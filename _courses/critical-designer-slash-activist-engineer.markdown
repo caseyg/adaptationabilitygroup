@@ -185,6 +185,8 @@ Read Alice Dreger, [When Medicine Goes Too Far in the Pursuit of Normality](http
 
 Discuss readings and new design experiment. Homework: Plan two hours of independent broad, roving research based on what you've seen in media and projects, your volunteerism, your early ideas for a possible project. Use this as an opportunity to create, test, and practice using a system to keep access to ideas. Include the beginnings of a “personal canon”: five projects you love, wish you’d done yourself, would love to repeat. They can be art/design/engineering or any combination, and they don’t have to be related to your volunteerism. They’re just things that you love without much reservation, things that inspire you.
 
+Due in two weeks: Olin-facing design experiments. See handout.
+
 Monday, October 10. School holiday, no classes.
 
 ### Thursday, Oct 13.
