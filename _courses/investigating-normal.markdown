@@ -163,6 +163,28 @@ Also, choose ONE of the following two articles:
 Picard, "Future Affective Technology for Autism and Emotion Communication." PDF
 Herbert, M. "Treatment Guided Research: Helping People Now with Humility, Respect, and Boldness." PDF
 
+Assignments given for Self-Portrait/Anti-Self-Portrait
+
+### Class 14, Thursday, Oct 27:
+
+STUDIO
+
+### Class 15, Monday, Oct 31:
+
+STUDIO
+
+### Class 16, Thursday, Nov 3:
+
+Guests Rosemarie Garland-Thomson and (tentative) Maria Town!
+
+### Class 17, Monday, Nov 7:
+
+Self-Portrait/Anti-Self Portraits due.
+
+
+
+
+
 
 
 
