@@ -183,7 +183,7 @@ Required attendance at [Alice Dreger](http://alicedreger.com/) lecture. 6:45-8:1
 
 Read Alice Dreger, [When Medicine Goes Too Far in the Pursuit of Normality](http://www.nytimes.com/1998/07/28/science/essay-when-medicine-goes-too-far-in-the-pursuit-of-normality.html), and "[Ending Forced Genital-Normalizing Surgeries](http://www.theatlantic.com/health/archive/2013/02/ending-forced-genital-normalizing-surgeries/273300/)."
 
-Discuss readings and new design experiment. 
+Discuss readings and new design experiment. Homework: Plan two hours of independent broad, roving research based on what you've seen in media and projects, your volunteerism, your early ideas for a possible project. Use this as an opportunity to create, test, and practice using a system to keep access to ideas.
 
 Monday, October 10. School holiday, no classes.
 
@@ -197,7 +197,7 @@ Ursula K. LeGuin, [A Rant About Technology](http://conversations.e-flux.com/t/ur
 
 Optional homework: Watch Children of Men.
 
-Discuss readings and new design experiment.
+Discuss readings, two hours of research evidence, and check in about design experiment.
 
 ### Monday, Oct 17.
 
