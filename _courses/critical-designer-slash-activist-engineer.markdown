@@ -211,15 +211,18 @@ Readings: On the public drive.
 
 Report out from Olin-facing design experiment.
 
-Discuss readings, plus lengthy discussion of project ideas in groups and as a whole.
+Discuss readings, plus lengthy discussion of project ideas in groups and as a whole. Assignment: another round of background research.
 
 ### Monday, Oct 24.
 
 Guest: [Margaret Middleton](http://www.margaretmiddleton.com/), exhibition designer, on inclusive design for all families and abilities in public institutions.
 
+
 ### Thursday, Oct 27.
 
 Discuss readings and new design experiment. 
+
+Project scope defined and scaffolded plans assignment.
 
 ### Monday, Oct 31.
 
