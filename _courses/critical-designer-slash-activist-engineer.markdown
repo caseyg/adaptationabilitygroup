@@ -207,6 +207,8 @@ Readings: On the public drive.
 
 ### Thursday, Oct 20.
 
+Report out from Olin-facing design experiment.
+
 Discuss readings, plus lengthy discussion of project ideas in groups and as a whole.
 
 ### Monday, Oct 24.
