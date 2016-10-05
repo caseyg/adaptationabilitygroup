@@ -163,6 +163,14 @@ Wikipedia [edit-a-thons](http://art.plusfeminism.org/edit-a-thons/) (one example
 
 Watch four speculative/critical design videos in class, and then draw/design your own critical futures scenario.
 
+[Corning: A Day Made of Glass](https://www.youtube.com/watch?v=6Cf7IL_eZ38)
+[Berg: Dumb Things, Smart Lights](https://vimeo.com/55599700)
+(more info [here](http://berglondon.com/blog/2012/12/19/lamps/).)
+[Superflux: Song of the Machine](https://vimeo.com/22616192)
+(more info [here](http://superflux.in/blog/song-of-the-machine-in-depth).)
+Michael Kontopoulos: [Water Rites](https://vimeo.com/26969650)
+(more info [here](http://www.mkontopoulos.com/portfolio/water-rites-ritual/).)
+
 Read: Tobias Revell, [Critical Design lecture](http://blog.tobiasrevell.com/2013/12/critical-design-design-fiction-lecture.html).
 
 Read: Luiza Prado, [Questioning the "critical" in Critical and Speculative Design](https://medium.com/a-parede/questioning-the-critical-in-speculative-critical-design-5a355cac2ca4#.8happh7sk).
