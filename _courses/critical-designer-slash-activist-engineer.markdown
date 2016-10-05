@@ -205,7 +205,7 @@ Discuss readings, two hours of research evidence, and check in about design expe
 
 Guest: Microbiologist, artist, and Creative Director at Gingko Bioworks, [Christina Agapakis](http://agapakis.com/). 
 
-Readings: On the (Olin-facing) public drive.
+Readings: On the (Olin-facing) public drive and her essay on [two cultures](https://blogs.scientificamerican.com/oscillator/no-there-arene28099t-e2809ctwo-culturese2809d/).
 
 ### Thursday, Oct 20.
 
