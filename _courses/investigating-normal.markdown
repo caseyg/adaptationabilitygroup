@@ -150,6 +150,8 @@ Take a look at high tech projects like exoskeletons, and  low tech projects lik
 
 STUDIO.
 
+Sign up for library times with Emily Ferrier, TBD.
+
 ### Class 12, Thursday, Oct 20:
 
 STUDIO.
