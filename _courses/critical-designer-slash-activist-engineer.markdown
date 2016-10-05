@@ -205,7 +205,7 @@ Discuss readings, two hours of research evidence, and check in about design expe
 
 Guest: Microbiologist, artist, and Creative Director at Gingko Bioworks, [Christina Agapakis](http://agapakis.com/). 
 
-Readings: On the public drive.
+Readings: On the (Olin-facing) public drive.
 
 ### Thursday, Oct 20.
 
@@ -216,7 +216,6 @@ Discuss readings, plus lengthy discussion of project ideas in groups and as a wh
 ### Monday, Oct 24.
 
 Guest: [Margaret Middleton](http://www.margaretmiddleton.com/), exhibition designer, on inclusive design for all families and abilities in public institutions.
-
 
 ### Thursday, Oct 27.
 
