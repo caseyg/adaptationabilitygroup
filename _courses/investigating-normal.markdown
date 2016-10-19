@@ -183,6 +183,18 @@ Guests Rosemarie Garland-Thomson and (tentative) Maria Town!
 
 Self-Portrait/Anti-Self Portraits due.
 
+### Class 18, Thursday, Nov 10:
+
+Guest Bruce Howell, Carroll Center for the Blind
+
+### Class 19, Monday, Nov 14:
+
+STUDIO
+
+### Class 20, Thursday, Nov 17:
+
+STUDIO
+
 
 
 
