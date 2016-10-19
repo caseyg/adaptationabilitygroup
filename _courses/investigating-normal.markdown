@@ -165,7 +165,9 @@ Also, choose ONE of the following two articles:
 Picard, "Future Affective Technology for Autism and Emotion Communication." PDF
 Herbert, M. "Treatment Guided Research: Helping People Now with Humility, Respect, and Boldness." PDF
 
-Assignments given for Self-Portrait/Anti-Self-Portrait
+Assignments given for Self-Portrait/Anti-Self-Portrait. Take a look at portrait photographers like these listed below. 
+
+[Pieter Hugo](http://www.pieterhugo.com/), [Anthony Aziz and Sammy Cucher](http://www.azizcucher.net/), [Cindy Sherman](http://www.cindysherman.com/), [Lucas Samaras](http://www.pacegallery.com/artists/414/lucas-samaras), [Diane Arbus](http://diane-arbus-photography.com/), [Loretta Lux](http://www.lorettalux.de/), [Richard Avedon](http://www.pbs.org/wnet/americanmasters/richard-avedon-about-the-photographer/467/), [Vik Muniz](http://vikmuniz.net/), [Carrie Mae Weems](http://carriemaeweems.net/), [Tina Barney](http://www.tinabarney.com/), [Mary Ellen Mark](http://www.maryellenmark.com/), [Sally Mann](http://sallymann.com/), [Gilbert and George](http://withgilbertandgeorge.com/)
 
 ### Class 14, Thursday, Oct 27:
 
