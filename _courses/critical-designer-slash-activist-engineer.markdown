@@ -219,9 +219,7 @@ Guest: [Margaret Middleton](http://www.margaretmiddleton.com/), exhibition desig
 
 ### Thursday, Oct 27.
 
-Discuss readings and new design experiment. 
-
-Project scope defined and scaffolded plans assignment.
+Discuss readings and new design experiment: The Giveaway Project. 
 
 ### Monday, Oct 31.
 
@@ -229,7 +227,7 @@ Guest: [Kipp Bradford](http://www.kippworks.com/), MIT Media Lab and more.
  
 ### Thursday, Nov 3.
 
-Discuss readings, and project plans due.
+Giveaway Project Due, and gallery walk/share-out. Discuss readings and projects. Project scope defined and scaffolded plans assignment.
 
 ### Monday, Nov 7.
 
@@ -239,7 +237,7 @@ Studio: project work.
 
 ### Thursday, Nov 10.
 
-Giveaway Project Due, and gallery walk/share-out. Studio: project work.
+Studio: project work.
 
 ### Monday, Nov 14.
 
