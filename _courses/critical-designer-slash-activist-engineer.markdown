@@ -233,6 +233,8 @@ Discuss readings, and project plans due.
 
 ### Monday, Nov 7.
 
+Guest [Allison Burtch](http://www.allisonburtch.net/), UNICEF Innovation.
+
 Studio: project work.
 
 ### Thursday, Nov 10.
