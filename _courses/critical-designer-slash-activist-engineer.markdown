@@ -219,7 +219,7 @@ Guest: [Margaret Middleton](http://www.margaretmiddleton.com/), exhibition desig
 
 ### Thursday, Oct 27.
 
-Discuss readings and new design experiment: The Giveaway Project. 
+Discuss readings, volunteerism, and new design experiment: The Giveaway Project. 
 
 ### Monday, Oct 31.
 
