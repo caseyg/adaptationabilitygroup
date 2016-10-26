@@ -227,7 +227,7 @@ Guest: [Kipp Bradford](http://www.kippworks.com/), MIT Media Lab and more.
  
 ### Thursday, Nov 3.
 
-Giveaway Project Due, and gallery walk/share-out. Discuss readings and projects. Project scope defined and scaffolded plans assignment.
+Giveaway Project Due, and gallery walk/share-out. Discuss readings and projects. Final project scope defined and scaffolded plans assignment.
 
 ### Monday, Nov 7.
 
