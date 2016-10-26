@@ -158,9 +158,9 @@ STUDIO.
 
 ### Class 13, Monday, Oct 24:
 
-Readings and projects on the contested nature of autism: spectrum conditions, sensory processing disorder, and pressure technologies. Research the "informal" prosthetics of body socks, weighted blankets, and more. The Vayu Vest. Dana Gordon's Undercover. Jin Jung, "Take My Weight Off Your Shoulders." Wendy Jacob, Squeeze Chair and Explorers Club. PTSD and sensory anxiety. Plus a critical look at the common medicalizing language of "high functioning" vs "low functioning."
+Readings and projects on the contested nature of autism: spectrum conditions, sensory processing disorder, and pressure technologies. Research the "informal" prosthetics of body socks, weighted blankets, and more. The [Vayu Vest](http://www.vayuvest.com/). Dana Gordon's [Undercover](http://www.dana-gordon.com/blog/undercover/). Jin Jung, "[Take My Weight Off Your Shoulders](http://jinjung.com/archive/pages/takemyweightoffyourshoulders.html)." Wendy Jacob, [Squeeze Chair](http://wendyjacob.net/?page_id=123) and [Explorers Club](http://wendyjacob.net/?page_id=137). Plus a critical look at the common medicalizing language of "high functioning" vs "low functioning."
 
-Murray, "Autism Functions/The Functions of Autism." Disability Studies Quarterly. Listen to Steve Silberman on his new book, Neurotribes.
+Murray, "Autism Functions/The Functions of Autism." Disability Studies Quarterly. [Listen to Steve Silberman](http://www.npr.org/sections/health-shots/2015/09/02/436742377/neurotribes-examines-the-history-and-myths-of-the-autism-spectrum) on his new book, Neurotribes.
 Also, choose ONE of the following two articles:
 Picard, "Future Affective Technology for Autism and Emotion Communication." PDF
 Herbert, M. "Treatment Guided Research: Helping People Now with Humility, Respect, and Boldness." PDF
