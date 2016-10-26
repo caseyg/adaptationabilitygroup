@@ -239,7 +239,7 @@ Studio: project work.
 
 ### Thursday, Nov 10.
 
-Studio: project work.
+Giveaway Project Due, and gallery walk/share-out. Studio: project work.
 
 ### Monday, Nov 14.
 
