@@ -57,7 +57,7 @@ We’re assembling a fantastic lineup of guests whose practices span engineering
 
 ### Final project
 
-The last month of the semester will be devoted to a significant project, to be showcased during Final Events week. The project will take the form of a substantive proposal: a portfolio including a ‘looks-like’ prototype, a set of images or a short text documenting it in action, a short essay that provides the larger context for your design, and a brief personal reflection (or similar work in different media). Besides the short experiments described above, there will be some scaffolded pre-project work to help us explore possible projects and configurations, whether individuals or small teams. More information on the project will be provided later in the semester. 
+The last month of the semester will be devoted to a significant project, to be showcased during Final Events week. The project will take the form of a substantive proposal: a portfolio including a ‘looks-like’ prototype, a set of images or a short text documenting it in action, a short essay that provides the larger context for your design, and a brief personal reflection (or similar work in different media). Besides the short experiments described above, there will be some scaffolded pre-project work to help us explore possible projects and configurations, whether individuals or small teams. [Read more about your project plan and final deliverables here](https://docs.google.com/document/d/1g-Wj53BV2tpnGjQkTCryQB8UUVbsERZHG8PDU1mPYbA/edit?usp=sharing).
 
 ### Documentation and Reflection
 
