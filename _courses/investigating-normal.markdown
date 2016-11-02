@@ -179,7 +179,7 @@ STUDIO
 
 ### Class 16, Thursday, Nov 3:
 
-Guests Rosemarie Garland-Thomson. Read in advance of her visit: "[Becoming Disabled](http://www.nytimes.com/2016/08/21/opinion/sunday/becoming-disabled.html?_r=1)," the first in an ongoing series of op-eds in the New York Times on disability, and "Integrating Disability, Transforming Feminist Theory," in the Disability Studies Reader. There are two copies of the Reader on the class reserve shelf; electronic copy also in the public drive folder.
+Guest speaker [Rosemarie Garland-Thomson](http://www.rosemariegarlandthomson.com/). Read in advance of her visit: "[Becoming Disabled](http://www.nytimes.com/2016/08/21/opinion/sunday/becoming-disabled.html?_r=1)," the first in an ongoing series of op-eds in the New York Times on disability, and "Integrating Disability, Transforming Feminist Theory," in the Disability Studies Reader. There are two copies of the Reader on the class reserve shelf; electronic copy also in the public drive folder.
 
 ### Class 17, Monday, Nov 7:
 
@@ -187,7 +187,7 @@ Self-Portrait/Anti-Self Portraits due. Present to class.
 
 ### Class 18, Thursday, Nov 10:
 
-Guest Bruce Howell, Carroll Center for the Blind
+Guest Bruce Howell, [Carroll Center for the Blind](https://carroll.org/)
 
 ### Class 19, Monday, Nov 14:
 
@@ -202,6 +202,10 @@ STUDIO
 ### Class 21, Monday, Nov 28:
 
 STUDIO
+
+Read for class: From Lennard Davis, Ed., The Disability Studies Reader: 
+"Introduction: Disability, Normality, and Power." (L. Davis)
+"Disability and the Justification of Inequality in American History." (Baynton)
 
 ### Class 22, Thursday, Dec 1:
 
