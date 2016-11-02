@@ -183,7 +183,7 @@ Guests Rosemarie Garland-Thomson. Read in advance of her visit: "[Becoming Disab
 
 ### Class 17, Monday, Nov 7:
 
-Self-Portrait/Anti-Self Portraits due.
+Self-Portrait/Anti-Self Portraits due. Present to class.
 
 ### Class 18, Thursday, Nov 10:
 
@@ -196,6 +196,29 @@ STUDIO
 ### Class 20, Thursday, Nov 17:
 
 STUDIO
+
+### Week of Nov 21-25: No classes, Thanksgiving holiday
+
+### Class 21, Monday, Nov 28:
+
+STUDIO
+
+### Class 22, Thursday, Dec 1:
+
+STUDIO
+
+### Class 23, Monday, Dec 5:
+
+STUDIO
+
+### Class 24, Thursday, Dec 8:
+
+STUDIO, presentations of projects before finals week event
+
+### Final Presentations, Dec 15
+
+
+
 
 
 
