@@ -241,7 +241,7 @@ Studio: project work.
 
 ### Monday, Nov 14.
 
-Field Trip! Design Studio for Social Intervention.
+Field Trip! [Design Studio for Social Intervention](http://www.ds4si.org/). We leave from the rotary at noon. Should be back by 3:40. Please take a look around their web site and come with questions.
 
 ### Thursday, Nov 17.
 
