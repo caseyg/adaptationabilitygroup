@@ -267,3 +267,5 @@ Studio: project work.
 
 Studio: project work. Last day of class. Check in with all teams in prep for final presentations the following week. Final event TBD.
 
+### Wednesday, Dec 14, 12-3 pm FINAL PRESENTATIONS.
+
