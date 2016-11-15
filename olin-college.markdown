@@ -5,3 +5,4 @@ position: 6
 redirect_to: http://olin.edu
 ---
 
+Redirecting to [http://olin.edu](http://olin.edu)
