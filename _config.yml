@@ -1,5 +1,7 @@
 ---
 title: adaptation + ability group @ Olin College
+gems:
+  - jekyll-redirect-from
 timezone: UTC
 collections:
   posts:
