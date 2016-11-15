@@ -1,7 +1,5 @@
 ---
 title: adaptation + ability group @ Olin College
-gems:
-  - jekyll-redirect-from
 timezone: UTC
 collections:
   posts:
@@ -54,6 +52,8 @@ defaults:
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
     author: AUTHOR
+gems:
+- jekyll-redirect-from
 imgix: http://aplusa.imgix.net
 permalink: pretty
 exclude:
