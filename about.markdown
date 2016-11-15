@@ -1,5 +1,5 @@
 ---
-title: about the lab
+title: lab
 date: 2016-06-03 19:38:00 Z
 position: 1
 welcome-text: The adaptation + ability group is a technical and social laboratory
@@ -15,8 +15,12 @@ people:
     professor at Olin College. '
   image: "/uploads/sara%20headshot%20better%20web.JPG"
 - image: "/uploads/Application_Picture.jpg"
-  bio: |
-    **Toni Saylor** is a mechanical engineering major in her final year at Olin. She became interested in the a +a field her freshman year as she worked with an older adult community partner in a design course called Engineering for Humanity. Since then she has worked on many projects in and out of class related to aging and ability and focused around prosthetics. She just wrapped a year doing prosthetics and design research for Sara as a Clare Boothe Luce scholar.
+  bio: "**Toni Saylor** is a mechanical engineering major in her final year at Olin.
+    She became interested in the a +a field her freshman year as she worked with an
+    older adult community partner in a design course called Engineering for Humanity.
+    Since then she has worked on many projects in and out of class related to aging
+    and ability and focused around prosthetics. She just wrapped a year doing prosthetics
+    and design research for Sara as a Clare Boothe Luce scholar.\n"
 - image: "/uploads/adit-bio.jpg"
   bio: "[**Adit Dhanushkodi**](http://http://aditd.me/) is a '16 alum working for
     Emulate as a Product Designer. His work with the lab is primarily around using
