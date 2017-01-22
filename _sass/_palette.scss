@@ -23,3 +23,11 @@ footer {
   padding-left: 1.25em;
   color: #3163a8;
 }
+
+.figure__caption p {
+  background: $accent url(/uploads/yellow-grid.png);
+}
+
+article .figure {
+    border-image: url("/uploads/cropmarks.png") 30 repeat;
+}
