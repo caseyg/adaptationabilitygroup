@@ -52,10 +52,19 @@ defaults:
     date-display: DISPLAY DATE
     subtitle: SUBTITLE
     author: AUTHOR
-gems:
+plugins:
 - jekyll-redirect-from
-imgix: http://aplusa.imgix.net
+- jekyll-feed
+- jekyll-assets
 permalink: pretty
 exclude:
 - node_modules
 - gulpfile.js
+assets:
+  prefix: "/assets"
+  digest: true
+  assets:
+  - "*.png"
+  - "*.jpg"
+  sources:
+  - _uploads
